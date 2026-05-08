@@ -1,6 +1,8 @@
 import google.generativeai as genai
 import os
 import random
+import markdown
+import re
 
 # Gemini API 설정 (환경 변수 또는 직접 입력)
 # 실제 사용 시 .env 파일 등에 저장하는 것을 권장합니다.
@@ -55,7 +57,13 @@ def generate_blog_post(topic, target_url):
             title = f"{topic} 안내 및 다운로드"
             body = content
 
-        return title, body
+        # 코드 블록 마크다운(```html) 등 제거
+        body = re.sub(r'```(?:html)?\n?(.*?)\n?```', r'\1', body, flags=re.DOTALL)
+        
+        # 마크다운을 완벽한 HTML로 강제 변환
+        html_body = markdown.markdown(body, extensions=['extra', 'sane_lists'])
+
+        return title, html_body
 
     except Exception as e:
         print(f"Gemini API 호출 중 오류 발생: {e}")
