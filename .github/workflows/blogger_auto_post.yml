@@ -2,8 +2,8 @@ name: Blogger Auto Backlink Post
 
 on:
   schedule:
-    # 매시간 정각 실행 (UTC 기준)
-    - cron: '0 * * * *'
+    # 매시간 17분 실행 (UTC 기준, GitHub 서버 부하 분산을 위함)
+    - cron: '17 * * * *'
   workflow_dispatch: # 수동 실행 버튼 추가
 
 jobs:
