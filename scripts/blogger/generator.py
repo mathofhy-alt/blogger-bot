@@ -5,8 +5,10 @@ import markdown
 import re
 
 # Gemini API 설정 (환경 변수 또는 직접 입력)
-# 실제 사용 시 .env 파일 등에 저장하는 것을 권장합니다.
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyA-c7-wDmHlMWtg3VQej6JE-5wGm6HR4P4")
+# GitHub Secrets에서 API 키를 가져옵니다. (절대 파일에 직접 적으면 안 됩니다!)
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+if not GEMINI_API_KEY:
+    raise ValueError("GEMINI_API_KEY가 환경 변수(GitHub Secrets)에 설정되지 않았습니다.")
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-3.1-flash-lite')
 
