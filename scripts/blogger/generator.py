@@ -10,7 +10,7 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
     raise ValueError("GEMINI_API_KEY가 환경 변수(GitHub Secrets)에 설정되지 않았습니다.")
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-3.1-flash-lite')
+model = genai.GenerativeModel('gemini-3.1-pro')
 
 def generate_blog_post(topic, target_url):
     """주제와 타겟 URL을 바탕으로 블로그 포스트를 생성합니다."""
