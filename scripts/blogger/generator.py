@@ -96,9 +96,7 @@ def generate_blog_image(topic):
     except:
         image_prompt = "A professional and aesthetic desk setup with math study materials, cinematic lighting, 4k"
 
-    print(f"생성된 이미지 프롬프트: {image_prompt}")
-
-    # 2. 나노바나나(Imagen 3) API 직접 호출 (requests 사용)
+    # 2. 나노바나나(Imagen 3) API 직접 호출 시도 (requests 사용)
     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
     url = f'https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-002:predict?key={GEMINI_API_KEY}'
     
@@ -109,6 +107,17 @@ def generate_blog_image(topic):
     
     try:
         r = requests.post(url, json=payload)
+        
+        # 만약 404 에러(계정 권한 부족 등)가 발생하면 무료 우회 API로 자동 전환
+        if r.status_code != 200:
+            print(f"나노바나나 API 호출 실패 ({r.status_code}): {r.text[:100]}")
+            print("대체 AI(Pollinations.ai)를 사용하여 이미지를 생성합니다...")
+            import urllib.parse
+            encoded_prompt = urllib.parse.quote(image_prompt)
+            fallback_url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=1280&height=720&nologo=true"
+            print(f"이미지 생성 성공 (대체 AI): {fallback_url}")
+            return fallback_url
+
         r.raise_for_status()
         data = r.json()
         
