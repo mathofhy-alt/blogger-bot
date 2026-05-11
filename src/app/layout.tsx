@@ -1,4 +1,6 @@
 import type { Metadata } from 'next';
+import { Noto_Sans_KR, Noto_Serif_KR } from 'next/font/google';
+import Script from 'next/script';
 import './globals.css';
 import { SITE_CONFIG } from '@/data/config';
 import FamilySiteBanner from '@/components/FamilySiteBanner';
@@ -7,7 +9,25 @@ import Footer from '@/components/Footer';
 import { AdSenseScript } from '@/components/AdBanner';
 import { Analytics } from '@vercel/analytics/next';
 
+const notoSans = Noto_Sans_KR({
+  weight: ['300', '400', '500', '600', '700', '800'],
+  subsets: ['latin'],
+  display: 'swap',
+  variable: '--font-noto-sans',
+});
+
+const notoSerif = Noto_Serif_KR({
+  weight: ['400', '600', '700'],
+  subsets: ['latin'],
+  display: 'swap',
+  variable: '--font-noto-serif',
+});
+
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_CONFIG.url),
+  alternates: {
+    canonical: '/',
+  },
   title: {
     default: `${SITE_CONFIG.name} - ${SITE_CONFIG.tagline}`,
     template: `%s | ${SITE_CONFIG.name}`,
@@ -38,23 +58,6 @@ export default function RootLayout({
     <html lang="ko">
       <head>
         <AdSenseScript />
-        {/* Google Ads 리타게팅 태그 - 잠재고객 수집용 (AW-17263917467) */}
-        <script
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=AW-17263917467"
-        />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', 'AW-17263917467');
-            `,
-          }}
-        />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         {/* Google 사이트명 표시용 JSON-LD (WebSite 스키마) */}
         <script
           type="application/ld+json"
@@ -79,7 +82,25 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body>
+      <body className={`${notoSans.variable} ${notoSerif.variable}`}>
+        {/* Google Ads 리타게팅 태그 - 잠재고객 수집용 (AW-17263917467) */}
+        <Script
+          strategy="afterInteractive"
+          src="https://www.googletagmanager.com/gtag/js?id=AW-17263917467"
+        />
+        <Script
+          id="google-ads"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'AW-17263917467');
+            `,
+          }}
+        />
+
         {/* 패밀리 사이트 배너 - 최상단 고정 */}
         <FamilySiteBanner />
 
