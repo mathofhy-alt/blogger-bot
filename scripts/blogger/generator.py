@@ -89,7 +89,7 @@ def generate_blog_image(topic):
     import base64
     
     # 1. 제미나이에게 이미지 생성을 위한 상세 프롬프트 영문으로 번역/작성 요청
-    prompt_for_image = f"Write a highly detailed, short english prompt to generate a blog thumbnail image for the following topic. It should be cinematic, educational, professional, and visually appealing. Topic: {topic}"
+    prompt_for_image = f"Write a highly detailed, short english prompt to generate a blog thumbnail image for the following topic. It should be cinematic, educational, professional, and visually appealing. Return ONLY the prompt text, without any introductory text, conversational filler, or markdown formatting like **. Topic: {topic}"
     try:
         image_prompt_response = model.generate_content(prompt_for_image)
         image_prompt = image_prompt_response.text.strip()
@@ -98,9 +98,9 @@ def generate_blog_image(topic):
 
     print(f"생성된 이미지 프롬프트: {image_prompt}")
 
-    # 2. 나노바나나(Nano Banana 2) API 직접 호출 (requests 사용)
+    # 2. 나노바나나(Imagen 3) API 직접 호출 (requests 사용)
     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-    url = f'https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-image-preview:predict?key={GEMINI_API_KEY}'
+    url = f'https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-002:predict?key={GEMINI_API_KEY}'
     
     payload = {
         'instances': [{'prompt': image_prompt}],
