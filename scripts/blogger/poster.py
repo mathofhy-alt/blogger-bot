@@ -83,10 +83,20 @@ def run_automation():
     except:
         current_topic = f"{random_category} 및 실전 연습법"
 
-    # 포스트 생성
+    from generator import generate_blog_image
+    
+    # 이미지 생성 (나노바나나)
+    image_url = generate_blog_image(current_topic)
+
+    # 포스트 생성 (텍스트)
     title, content = generate_blog_post(current_topic, "https://math.stac100.com")
     
     if title and content:
+        # 이미지가 성공적으로 생성되었다면 본문 최상단에 삽입
+        if image_url:
+            img_html = f'<div style="text-align: center; margin-bottom: 20px;"><img src="{image_url}" alt="{current_topic}" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" /></div>\n<br>\n'
+            content = img_html + content
+
         if post_to_blogger(blog_id, title, content):
             print(f"성공! '{blog_name}' 블로그에 포스팅 완료.")
         else:
