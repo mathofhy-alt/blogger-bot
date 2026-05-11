@@ -10,7 +10,7 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
     raise ValueError("GEMINI_API_KEY가 환경 변수(GitHub Secrets)에 설정되지 않았습니다.")
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-3.1-pro')
+model = genai.GenerativeModel('gemini-3.1-pro-preview')
 
 def generate_blog_post(topic, target_url):
     """주제와 타겟 URL을 바탕으로 블로그 포스트를 생성합니다."""
@@ -98,9 +98,9 @@ def generate_blog_image(topic):
 
     print(f"생성된 이미지 프롬프트: {image_prompt}")
 
-    # 2. 나노바나나(Imagen 3) API 직접 호출 (requests 사용)
+    # 2. 나노바나나(Nano Banana 2) API 직접 호출 (requests 사용)
     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-    url = f'https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-001:predict?key={GEMINI_API_KEY}'
+    url = f'https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-image-preview:predict?key={GEMINI_API_KEY}'
     
     payload = {
         'instances': [{'prompt': image_prompt}],
