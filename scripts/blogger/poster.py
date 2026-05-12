@@ -4,6 +4,10 @@ import time
 import random
 from auth import get_blogger_service
 from generator import generate_blog_post, model
+try:
+    from indexing import submit_url as indexing_submit
+except ImportError:
+    indexing_submit = None
 
 def load_blogs():
     """저장된 블로그 목록을 로드합니다. 환경 변수(BLOGS_JSON_DATA)가 있으면 이를 우선 사용합니다."""
@@ -40,6 +44,18 @@ def post_to_blogger(blog_id, title, content):
     except Exception as e:
         print(f"블로그({blog_id}) 포스팅 중 오류 발생: {e}")
         return None
+
+def request_indexing(post_url: str):
+    """발행된 포스트 URL의 구글 색인을 요청합니다."""
+    if not indexing_submit:
+        print("[Indexing] indexing.py 모듈 없음 — 색인 요청 건너뜀")
+        return
+    if not post_url:
+        return
+    try:
+        indexing_submit(post_url)
+    except Exception as e:
+        print(f"[Indexing] 색인 요청 중 오류(포스팅은 성공): {e}")
 
 def run_automation():
     """현재 시간에 맞춰 블로그 1개에만 포스팅을 진행합니다."""
@@ -82,8 +98,12 @@ def run_automation():
     title, content = generate_blog_post(current_topic, "https://math.stac100.com")
     
     if title and content:
-        if post_to_blogger(blog_id, title, content):
+        result = post_to_blogger(blog_id, title, content)
+        if result:
             print(f"성공! '{blog_name}' 블로그에 포스팅 완료.")
+            # 발행된 URL로 구글 색인 요청
+            post_url = result.get('url')
+            request_indexing(post_url)
         else:
             print(f"'{blog_name}' 포스팅 실패")
     else:
