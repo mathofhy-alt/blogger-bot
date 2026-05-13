@@ -153,10 +153,14 @@ function scanMoygoosa() {
         // (2026_고3_3월_... 같은 파일명에서 "20"을 월로 잘못 인식하는 버그 방지)
         const m1 = !cleanFile.match(/^\d{4}/) ? cleanFile.match(/^(\d{1,2}월?)/) : null;
         const m2 = cleanFile.match(/_(\d{1,2}월?)(?:_|\.)/);
+        const m3 = cleanFile.match(/^\d{2}(\d{2})(?!_)/); // 0603가.pdf -> 03
+
         if (m1) {
           monthRaw = m1[1];
         } else if (m2) {
           monthRaw = m2[1];
+        } else if (m3) {
+          monthRaw = m3[1];
         }
         if (!monthRaw) { console.log(`⚠️  월 파싱 실패: ${file}`); continue; }
         const rawMonth = monthRaw.includes('월') ? monthRaw : monthRaw + '월';
