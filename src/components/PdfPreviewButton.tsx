@@ -2,7 +2,11 @@
 
 import { useState } from 'react';
 import { Eye } from 'lucide-react';
-import PdfViewerModal from './PdfViewerModal';
+import dynamic from 'next/dynamic';
+
+const PdfViewerModal = dynamic(() => import('./PdfViewerModal'), {
+  ssr: false,
+});
 
 interface Props {
   fileUrl: string;
