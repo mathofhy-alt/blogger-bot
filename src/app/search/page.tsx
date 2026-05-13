@@ -1,9 +1,10 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, Suspense, useEffect } from 'react';
 import { ALL_POSTS, CATEGORY_LABELS, Category } from '@/data/posts';
 import PostCard from '@/components/PostCard';
-import { Search, X } from 'lucide-react';
+import { Search, X, Loader2 } from 'lucide-react';
+import { useSearchParams } from 'next/navigation';
 
 const GRADE_TABS: { label: string; value: string }[] = [
   { label: '전체', value: 'all' },
@@ -19,10 +20,19 @@ const GRADE_TABS: { label: string; value: string }[] = [
 const ALL_YEARS = Array.from(new Set(ALL_POSTS.map(p => p.year)))
   .sort((a, b) => b - a);
 
-export default function SearchPage() {
-  const [query, setQuery] = useState('');
+function SearchContent() {
+  const searchParams = useSearchParams();
+  const initialQuery = searchParams.get('q') || '';
+
+  const [query, setQuery] = useState(initialQuery);
   const [grade, setGrade] = useState('all');
   const [year, setYear] = useState('all');
+
+  useEffect(() => {
+    if (initialQuery) {
+      setQuery(initialQuery);
+    }
+  }, [initialQuery]);
 
   const results = useMemo(() => {
     return ALL_POSTS.filter(p => {
@@ -174,5 +184,13 @@ export default function SearchPage() {
         )}
       </div>
     </div>
+  );
+}
+
+export default function SearchPage() {
+  return (
+    <Suspense fallback={<div style={{ padding: '100px 0', textAlign: 'center' }}><Loader2 className="animate-spin" size={32} color="var(--color-primary)" style={{ margin: '0 auto' }} /></div>}>
+      <SearchContent />
+    </Suspense>
   );
 }

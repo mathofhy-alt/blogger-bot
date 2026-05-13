@@ -4,6 +4,7 @@ import { getRecentPosts, ALL_POSTS } from '@/data/posts';
 import PostCard from '@/components/PostCard';
 import Link from 'next/link';
 import { Zap } from 'lucide-react';
+import DDay from '@/components/DDay';
 
 export const metadata: Metadata = {
   title: `수학주식 - 수능·모의고사·경찰대·사관학교 수학 기출문제 무료 다운로드`,
@@ -29,6 +30,7 @@ export default function HomePage() {
       {/* ── 히어로 ────────────────────────────────────────── */}
       <section className="hero">
         <div className="container hero-inner">
+          <DDay variant="hero" />
           <p className="hero-brand">수학주식</p>
           <h1 className="hero-title">
             수능부터 사관학교까지<br />
@@ -93,6 +95,26 @@ export default function HomePage() {
           </div>
           <div className="posts-grid">
             {ALL_POSTS.filter(p => (p.category === 'gyeongchalda' || p.category === 'sagwan') && !p.upcoming)
+              .slice(0, 4)
+              .map(post => (
+                <PostCard key={post.id} post={post} />
+              ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── 시험 일정 (진행 예정) ─────────────────────────────── */}
+      <section className="section">
+        <div className="container">
+          <div className="section-header">
+            <h2 className="section-title">
+              <span className="section-title-dot" style={{ background: '#b0b8c1' }} />
+              시험 일정 (진행 예정)
+            </h2>
+            <Link href="/category/upcoming" className="section-more">더보기 →</Link>
+          </div>
+          <div className="posts-grid">
+            {ALL_POSTS.filter(p => p.upcoming)
               .slice(0, 4)
               .map(post => (
                 <PostCard key={post.id} post={post} />

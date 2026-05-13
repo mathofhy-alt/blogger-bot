@@ -7,14 +7,17 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "sync": "node scripts/sync-posts.js"
+    "sync": "node scripts/sync-posts.js",
+    "analyze": "python scripts/analyze_exam_pdfs.py",
+    "deploy": "node scripts/sync-posts.js && vercel --prod && python scripts/submit_index.py --yes"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
     "lucide-react": "^1.14.0",
     "next": "16.2.4",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "react-pdf": "^10.4.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

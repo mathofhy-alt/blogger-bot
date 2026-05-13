@@ -16,15 +16,16 @@ export default function DownloadWithBookmark({ fileUrl, fileName, children }: Pr
   const [pending, setPending] = useState<string | null>(null);
 
   const triggerDownload = useCallback((url: string) => {
+    const ext = url.split('.').pop() ?? '';
     const a = document.createElement('a');
     a.href = url;
-    a.download = '';
+    a.download = ext ? `${fileName}.${ext}` : fileName;
     a.target = '_blank';
     a.rel = 'noopener noreferrer';
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
-  }, []);
+  }, [fileName]);
 
   const handleClick = (e: React.MouseEvent) => {
     e.preventDefault();
@@ -59,7 +60,12 @@ export default function DownloadWithBookmark({ fileUrl, fileName, children }: Pr
 
   if (!open) {
     return (
-      <a href={fileUrl} onClick={handleClick} className="download-btn" download>
+      <a
+        href={fileUrl}
+        onClick={handleClick}
+        className="download-btn"
+        download={(() => { const ext = fileUrl.split('.').pop() ?? ''; return ext ? `${fileName}.${ext}` : fileName; })()}
+      >
         {children}
       </a>
     );
@@ -67,7 +73,12 @@ export default function DownloadWithBookmark({ fileUrl, fileName, children }: Pr
 
   return (
     <>
-      <a href={fileUrl} onClick={handleClick} className="download-btn" download>
+      <a
+        href={fileUrl}
+        onClick={handleClick}
+        className="download-btn"
+        download={(() => { const ext = fileUrl.split('.').pop() ?? ''; return ext ? `${fileName}.${ext}` : fileName; })()}
+      >
         {children}
       </a>
 

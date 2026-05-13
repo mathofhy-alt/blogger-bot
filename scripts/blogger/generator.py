@@ -4,7 +4,7 @@ import random
 
 # Gemini API 설정 (환경 변수 또는 직접 입력)
 # 실제 사용 시 .env 파일 등에 저장하는 것을 권장합니다.
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyA-c7-wDmHlMWtg3VQej6JE-5wGm6HR4P4")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-3.1-flash-lite')
 

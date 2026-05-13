@@ -817,6 +817,10 @@ img { max-width: 100%; display: block; }
   align-items: start;
 }
 
+.post-page-layout > * {
+  min-width: 0;
+}
+
 .post-header { margin-bottom: 32px; }
 
 .post-breadcrumb {
@@ -855,6 +859,8 @@ img { max-width: 100%; display: block; }
   line-height: 1.9;
   font-size: 15px;
   color: var(--color-text-light);
+  word-break: keep-all;
+  overflow-wrap: anywhere;
 }
 
 /* 파일 다운로드 카드 */
@@ -1388,6 +1394,138 @@ img { max-width: 100%; display: block; }
   line-height: 1.6;
 }
 
+
+/* ═══════════════════════════════════════════════════════════
+   PDF 뷰어 모달
+═══════════════════════════════════════════════════════════ */
+.pdf-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(15, 23, 42, 0.85);
+  backdrop-filter: blur(8px);
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  animation: fadeIn 0.2s ease-out;
+}
+
+.pdf-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 24px;
+  background: var(--color-surface);
+  border-bottom: 1px solid var(--color-border);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.pdf-modal-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--color-text);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.pdf-modal-close {
+  background: none;
+  border: none;
+  color: var(--color-muted);
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+}
+
+.pdf-modal-close:hover {
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+
+.pdf-modal-body {
+  flex: 1;
+  overflow: auto;
+  padding: 24px;
+  text-align: center;
+}
+
+.pdf-document-wrapper {
+  display: inline-block;
+  background: white;
+  box-shadow: 0 12px 32px rgba(0,0,0,0.15);
+}
+
+/* react-pdf text layer 숨김 (렌더링 성능 최적화용) */
+.react-pdf__Page__textContent,
+.react-pdf__Page__annotations {
+  display: none !important;
+}
+
+.pdf-modal-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 16px;
+  background: var(--color-surface);
+  border-top: 1px solid var(--color-border);
+}
+
+.pdf-page-btn {
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  color: var(--color-text);
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.pdf-page-btn:hover:not(:disabled) {
+  background: var(--color-border);
+}
+
+.pdf-page-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.pdf-page-info {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--color-text-light);
+}
+
+.preview-btn {
+  background: none;
+  border: 1px solid var(--color-border);
+  color: var(--color-text-light);
+  padding: 0 12px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+}
+
+.preview-btn:hover {
+  background: var(--color-bg);
+  color: var(--color-primary);
+  border-color: var(--color-primary);
+}
 
 @media (max-width: 900px) {
   .post-page-layout { grid-template-columns: 1fr; }

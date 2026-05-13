@@ -2,6 +2,14 @@
 scripts/blogger/token.json
 scripts/blogger/credentials.json
 scripts/blogger/blogs.json
+scripts/blogger/*.json
+scripts/.submitted_urls.json
+
+# Exam File Directories (Do not track large PDFs/HWPs)
+public/files/경찰대/
+public/files/모의고사/
+public/files/사관학교/
+public/files/수능/
 
 # Dependencies
 node_modules/

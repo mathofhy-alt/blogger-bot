@@ -4,6 +4,7 @@ import { SITE_CONFIG } from '@/data/config';
 import Link from 'next/link';
 import { BookOpen, Menu, X, Search } from 'lucide-react';
 import { useState } from 'react';
+import DDay from './DDay';
 
 const NAV_ITEMS = [
   { label: '수능 기출', href: '/category/suneung' },
@@ -40,6 +41,7 @@ export default function Header() {
 
         {/* 우측 아이콘 */}
         <div className="header-actions">
+          <DDay variant="header" />
           <Link href="/search" className="icon-btn" aria-label="검색">
             <Search size={20} />
           </Link>

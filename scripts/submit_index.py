@@ -92,6 +92,7 @@ def main():
     parser.add_argument("--url", type=str, help="특정 URL만 직접 제출")
     parser.add_argument("--dry-run", action="store_true", help="실제 제출 없이 대상 URL 목록만 출력")
     parser.add_argument("--force-all", action="store_true", help="캐시 무시하고 전체 URL 재제출")
+    parser.add_argument("--yes", action="store_true", help="확인 없이 자동 제출 (배포 자동화용)")
     args = parser.parse_args()
 
     # ── 특정 URL 직접 제출 ────────────────────────────────────────────────────
@@ -131,13 +132,14 @@ def main():
     print()
 
     if args.dry_run:
-        print("🔍 [dry-run] 실제 제출은 하지 않았습니다.")
+        print("[dry-run] 실제 제출은 하지 않았습니다.")
         return
 
-    confirm = input(f"위 {len(target_urls)}개 URL을 제출하겠습니까? (y/N): ").strip().lower()
-    if confirm != "y":
-        print("취소했습니다.")
-        return
+    if not args.yes:
+        confirm = input(f"위 {len(target_urls)}개 URL을 제출하겠습니까? (y/N): ").strip().lower()
+        if confirm != "y":
+            print("취소했습니다.")
+            return
 
     # ── 색인 제출 ─────────────────────────────────────────────────────────────
     results = submit_urls(target_urls)
