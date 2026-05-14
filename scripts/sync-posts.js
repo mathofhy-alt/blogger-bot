@@ -669,7 +669,7 @@ function addUpcomingPlaceholders() {
       id,
       slug,
       title,
-      category: catKey,
+      category: 'upcoming',
       year,
       month,
       grade,
