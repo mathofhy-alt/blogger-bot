@@ -11,6 +11,7 @@
 """
 
 import sys, os, json, re, time, requests, tempfile
+import concurrent.futures
 from google import genai
 from google.genai import types
 
@@ -135,8 +136,6 @@ def analyze_post(slug: str, pdfs: list) -> dict:
         if not file_obj:
             continue
 
-        time.sleep(2)
-
         try:
             response = client.models.generate_content(
                 model=MODEL_NAME,
@@ -168,8 +167,6 @@ def analyze_post(slug: str, pdfs: list) -> dict:
         except Exception as e:
             print(f"  [ERROR] {e}")
 
-        time.sleep(1)
-
     return {
         'slug': slug,
         'analyses': analyses,
@@ -183,6 +180,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--all', action='store_true', help='전체 재분석 (기존 캐시 무시)')
     parser.add_argument('--year', type=int, help='특정 연도만 분석 (예: --year 2025)')
+    parser.add_argument('--workers', type=int, default=5, help='병렬 처리 워커 수 (기본: 5)')
     args = parser.parse_args()
 
     all_posts = get_problem_pdfs()
@@ -208,15 +206,22 @@ def main():
 
     grand_in = grand_out = 0
 
-    for post in new_posts:
-        result = analyze_post(post['slug'], post['pdfs'])
-        if result: # In case of error
-            existing[post['slug']] = result
-            grand_in  += result['tokens']['input']
-            grand_out += result['tokens']['output']
-            # 중간 저장 (API 멈춤 대비)
-            with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-                json.dump(list(existing.values()), f, ensure_ascii=False, indent=2)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=args.workers) as executor:
+        future_to_post = {executor.submit(analyze_post, post['slug'], post['pdfs']): post for post in new_posts}
+        
+        for future in concurrent.futures.as_completed(future_to_post):
+            post = future_to_post[future]
+            try:
+                result = future.result()
+                if result: # In case of error
+                    existing[post['slug']] = result
+                    grand_in  += result['tokens']['input']
+                    grand_out += result['tokens']['output']
+                    # 중간 저장 (동시성 문제 방지: 메인 스레드에서 순차 기록)
+                    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+                        json.dump(list(existing.values()), f, ensure_ascii=False, indent=2)
+            except Exception as exc:
+                print(f"  [CRITICAL] {post['slug']} 처리 중 예외 발생: {exc}")
 
     # 최종 저장
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
