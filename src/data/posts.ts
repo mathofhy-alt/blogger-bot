@@ -51,8 +51,8 @@ export const CATEGORY_DESCRIPTIONS: Record<Category, string> = {
   upcoming: '업로드 예정 시험 자료 목록',
 };
 
-// 자동 생성된 게시물 목록 (총 355건)
-// 마지막 동기화: 2026. 5. 14. 오후 9:45:24
+// 자동 생성된 게시물 목록 (총 356건)
+// 마지막 동기화: 2026. 5. 14. 오후 9:53:58
 export const ALL_POSTS: Post[] = [
   {
     id: 'suneung-2026',
@@ -91,6 +91,20 @@ export const ALL_POSTS: Post[] = [
       { label: '정답지 PDF', url: '/files/경찰대/2026/정답지.pdf' }
     ],
     publishedAt: '2025-08-01',
+  },
+  {
+    id: 'sagwan-2026',
+    slug: '2026-sagwan-math',
+    title: '2026학년도 육·해·공군 사관학교 수학 기출문제, 정답 및 해설 PDF 무료',
+    category: 'sagwan',
+    year: 2026,
+    tags: ['사관학교', '육군사관학교', '해군사관학교', '공군사관학교', '수학', '2026', '기출', '입시', '사관학교 수학', '2026학년도 사관학교', '2025년 사관학교 수학'],
+    summary: '2025년 시행 2026학년도 육·해·공군사관학교 1차 시험 수학 기출문제, 정답 및 해설 PDF 무료 다운로드.',
+    files: [
+      { label: '수학영역 문제+해설 PDF', url: '/files/사관학교/2026/문제지.pdf' },
+      { label: '정답지 PDF', url: '/files/사관학교/2026/정답지.pdf' }
+    ],
+    publishedAt: '2025-07-01',
   },
   {
     id: 'go3-2026-go3-10',
@@ -367,10 +381,8 @@ export const ALL_POSTS: Post[] = [
     tags: ['사관학교', '육군사관학교', '해군사관학교', '공군사관학교', '수학', '2025', '기출', '입시', '사관학교 수학', '2025학년도 사관학교', '2024년 사관학교 수학'],
     summary: '2024년 시행 2025학년도 육·해·공군사관학교 1차 시험 수학 기출문제, 정답 및 해설 PDF 무료 다운로드.',
     files: [
-      { label: '공사 문제지 PDF', url: '/files/사관학교/2025/공사_문제지.pdf' },
-      { label: '육사 문제지 PDF', url: '/files/사관학교/2025/육사_문제지.pdf' },
-      { label: '정답지 PDF', url: '/files/사관학교/2025/정답지.pdf' },
-      { label: '해사 문제지 PDF', url: '/files/사관학교/2025/해사_문제지.pdf' }
+      { label: '수학영역 문제+해설 PDF', url: '/files/사관학교/2025/문제지.pdf' },
+      { label: '정답지 PDF', url: '/files/사관학교/2025/정답지.pdf' }
     ],
     publishedAt: '2024-07-01',
   },
