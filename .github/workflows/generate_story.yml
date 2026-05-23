@@ -6,6 +6,9 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch: # 깃허브 페이지에서 수동 버튼으로 즉시 실행 가능하도록 설정
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
