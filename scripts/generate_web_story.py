@@ -2,6 +2,7 @@ import os
 import json
 import uuid
 import datetime
+import random
 from google import genai
 from google.genai import types
 
@@ -107,7 +108,21 @@ def generate_background_image(prompt):
         return "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280"
 
 def main():
-    topic = "경찰대 기출문제 풀고 멘붕온 고3 썰"
+    topics = [
+        "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
+        "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
+        "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
+        "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
+        "수능 100일 남기고 기출문제집 3회독 한 후기",
+        "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
+        "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
+        "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
+        "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
+        "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
+        "수포자가 수능 수학 2등급 맞고 오열한 썰",
+        "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰"
+    ]
+    topic = random.choice(topics)
     print(f"Start generating web story: {topic}")
     
     story_content = generate_story_content(topic)
