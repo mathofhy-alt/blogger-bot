@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260523175927",
+    "title": "경찰대 기출문제 풀고 멘붕온 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "/stories/840cd101.jpg",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "/stories/840cd101.jpg",
+        "heading": "수능 만점? 우습지. 경찰대 기출을 풀기 전까지는."
+      },
+      {
+        "id": "page2",
+        "bgImage": "/stories/9f91b7cb.jpg",
+        "heading": "자, 1교시 국어부터 가볍게 시작해볼까?"
+      },
+      {
+        "id": "page3",
+        "bgImage": "/stories/5ca4d0df.jpg",
+        "heading": "어라...? 1번 문제 왜 안 읽히냐...?"
+      },
+      {
+        "id": "page4",
+        "bgImage": "/stories/a1dfc400.jpg",
+        "heading": "이건 변별력이 아니라 수험생을 학살하려는 문제다"
+      },
+      {
+        "id": "page5",
+        "bgImage": "/stories/01979237.jpg",
+        "heading": "정신을 차려보니 채점 결과는 처참했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "/stories/46eb4fdc.jpg",
+        "heading": "경찰대 준비생 형님들, 그동안 무례해서 죄송했습니다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-05-23T17:59:27.528332Z"
+  },
+  {
     "id": "story-20260523225948",
     "title": "경찰대 기출문제 풀고 멘붕온 고3 썰",
     "publisher": "수학주식",
