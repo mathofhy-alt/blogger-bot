@@ -1,6 +1,7 @@
 import { MetadataRoute } from 'next';
 import { ALL_POSTS, CATEGORY_LABELS } from '@/data/posts';
 import { SITE_CONFIG } from '@/data/config';
+import { getAllStories } from '@/data/stories';
 
 const CATEGORIES = Object.keys(CATEGORY_LABELS) as (keyof typeof CATEGORY_LABELS)[];
 
@@ -34,5 +35,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     };
   });
 
-  return [...staticRoutes, ...postRoutes];
+  const storyRoutes: MetadataRoute.Sitemap = getAllStories().map((story) => {
+    return {
+      url: `${base}/stories/${story.id}`,
+      lastModified: new Date(story.createdAt),
+      changeFrequency: 'monthly' as const,
+      priority: 0.9, // 구글 디스커버 노출을 위해 웹스토리 우선순위 높게 설정
+    };
+  });
+
+  return [...staticRoutes, ...postRoutes, ...storyRoutes];
 }

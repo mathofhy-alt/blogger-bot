@@ -1,0 +1,41 @@
+name: Generate Web Story Daily
+
+on:
+  schedule:
+    # 매일 한국 시간 오전 9시 (UTC 0시) 실행
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 깃허브 페이지에서 수동 버튼으로 즉시 실행 가능하도록 설정
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-generativeai requests
+
+      - name: Run Web Story Generator (Gemini + Nano Banana 2)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          # python 스크립트 실행
+          python scripts/generate_web_story.py
+
+      - name: Commit and Push generated stories and images
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Web Story Bot"
+          # 새롭게 추가된 json과 이미지 파일들을 모두 Git에 추가
+          git add src/data/stories.json public/stories/*
+          # 변경 사항이 있을 때만 커밋
+          git commit -m "✨ Auto-generate new Web Story via Gemini" || echo "No changes to commit"
+          git push

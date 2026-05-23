@@ -27,6 +27,7 @@ from pathlib import Path
 # ── 설정 ──────────────────────────────────────────────────────────────────────
 SITE_URL = "https://math.stac100.com"
 POSTS_TS_PATH = Path("src/data/posts.ts")
+STORIES_JSON_PATH = Path("src/data/stories.json")
 SUBMITTED_CACHE_PATH = Path("scripts/.submitted_urls.json")
 
 # ── 임포트 (스크립트 위치 기준으로 indexing.py 탐색) ──────────────────────────
@@ -69,11 +70,26 @@ def extract_slugs_from_posts_ts() -> list[str]:
     return slugs
 
 
-def build_urls_from_slugs(slugs: list[str]) -> list[str]:
-    """slug 목록을 전체 URL로 변환합니다."""
+def extract_story_ids() -> list[str]:
+    """src/data/stories.json에서 웹스토리 ID 목록을 파싱합니다."""
+    if not STORIES_JSON_PATH.exists():
+        return []
+    try:
+        with open(STORIES_JSON_PATH, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            return [item["id"] for item in data if "id" in item]
+    except Exception as e:
+        print(f"❌ stories.json 파싱 에러: {e}")
+        return []
+
+
+def build_urls_from_slugs(slugs: list[str], story_ids: list[str]) -> list[str]:
+    """slug 및 story_id 목록을 전체 URL로 변환합니다."""
     urls = []
     for slug in slugs:
         urls.append(f"{SITE_URL}/posts/{slug}")
+    for sid in story_ids:
+        urls.append(f"{SITE_URL}/stories/{sid}")
     # 홈, 카테고리 페이지도 포함
     extras = [
         SITE_URL + "/",
@@ -102,15 +118,13 @@ def main():
             submit_url(args.url)
         return
 
-    # ── posts.ts에서 URL 목록 추출 ────────────────────────────────────────────
-    print("📄 posts.ts에서 slug 목록 파싱 중...")
+    # ── posts.ts 및 stories.json에서 URL 목록 추출 ──────────────────────────────
+    print("📄 기존 포스트 및 웹스토리 목록 파싱 중...")
     slugs = extract_slugs_from_posts_ts()
-    if not slugs:
-        print("❌ slug를 찾을 수 없습니다.")
-        return
+    story_ids = extract_story_ids()
 
-    all_urls = build_urls_from_slugs(slugs)
-    print(f"   전체 URL 수: {len(all_urls)}개")
+    all_urls = build_urls_from_slugs(slugs, story_ids)
+    print(f"   전체 URL 수: {len(all_urls)}개 (포스트 {len(slugs)}개, 웹스토리 {len(story_ids)}개)")
 
     # ── 신규 URL 필터링 ───────────────────────────────────────────────────────
     if args.force_all:

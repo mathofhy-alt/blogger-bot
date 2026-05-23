@@ -1,0 +1,150 @@
+import os
+import json
+import uuid
+import datetime
+from google import genai
+from google.genai import types
+
+# 환경 변수에서 Gemini API 키 로드
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+if not GEMINI_API_KEY:
+    print("WARNING: GEMINI_API_KEY is not set. Using dummy data.")
+    client = None
+else:
+    client = genai.Client(api_key=GEMINI_API_KEY)
+
+def generate_story_content(topic):
+    """
+    제미나이 텍스트 모델을 사용하여 웹스토리 대본과 이미지 생성용 프롬프트를 기획합니다.
+    """
+    if not client:
+        return [
+            {"heading": "고3 3월 모평 5등급 찍고 오열한 썰", "image_prompt": "A depressed high school student looking at a test paper, dark room, rainy window, cinematic lighting, 9:16 aspect ratio"},
+            {"heading": "대치동 1타 인강 다 소용없더라", "image_prompt": "A messy desk filled with thick textbooks and a laptop, frustration, dark and moody, 9:16 aspect ratio"},
+            {"heading": "결국 해답은 '기출'에 있었어", "image_prompt": "A glowing magical test paper with mathematical equations, hopeful lighting, 9:16 aspect ratio"}
+        ]
+    
+    prompt = f"""
+    당신은 수험생 커뮤니티에서 가장 인기 있는 '썰'을 웹스토리 포맷으로 변환하는 천재 기획자입니다.
+    주제: {topic}
+    
+    웹스토리는 5~7개의 슬라이드로 구성되며, 스마트폰 전체 화면에 노출됩니다.
+    각 슬라이드마다 화면 중앙에 들어갈 짧고 자극적인 한글 텍스트(heading)와, 
+    해당 장면의 배경으로 쓰일 고화질 세로형 이미지를 생성하기 위한 영문 프롬프트(image_prompt)를 작성해주세요.
+
+    [중요: 이미지 프롬프트 작성 규칙]
+    - 이미지 생성 AI의 특성상 그림 속에 글자, 단어, 텍스트가 들어가면 외계어처럼 뭉개집니다.
+    - 따라서 image_prompt에는 절대 글자나 문구에 대한 묘사를 넣지 말고, 끝에 "no text, no words, typography-free, clean background" 같은 옵션을 반드시 추가하세요. 
+    - 시험지나 책을 묘사할 때도 글자가 보이지 않는 앵글이나 실루엣 위주의 분위기만 묘사하세요.
+    
+    반드시 아래 JSON 배열 형식으로만 응답하세요. (백틱 등 다른 문구는 절대 넣지 마세요)
+    [
+      {{
+        "heading": "1슬라이드 짧은 한글 텍스트",
+        "image_prompt": "English prompt for image generation, vertical 9:16"
+      }}
+    ]
+    """
+    
+    # 텍스트 생성 모델
+    response = client.models.generate_content(
+        model='gemini-3.5-flash',
+        contents=prompt,
+    )
+    
+    try:
+        raw_text = response.text.strip()
+        if raw_text.startswith("```json"):
+            raw_text = raw_text[7:-3].strip()
+        elif raw_text.startswith("```"):
+            raw_text = raw_text[3:-3].strip()
+        return json.loads(raw_text)
+    except Exception as e:
+        print("JSON Parse Error:", e)
+        print("Raw text:", response.text)
+        raise e
+
+def generate_background_image(prompt):
+    """
+    제미나이 이미지 모델을 호출하여 배경 이미지를 생성합니다.
+    """
+    print(f"Generating image for prompt: {prompt}")
+    
+    if not client:
+        return "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280"
+
+    # 이미지 생성 모델
+    image_model_name = "imagen-4.0-generate-001"
+    
+    try:
+        result = client.models.generate_images(
+            model=image_model_name,
+            prompt=prompt,
+            config=types.GenerateImagesConfig(
+                number_of_images=1,
+                aspect_ratio="9:16",
+                output_mime_type="image/jpeg"
+            )
+        )
+        
+        image_bytes = result.generated_images[0].image.image_bytes
+        
+        filename = f"{uuid.uuid4().hex[:8]}.jpg"
+        filepath = os.path.join("public", "stories", filename)
+        
+        os.makedirs(os.path.dirname(filepath), exist_ok=True)
+        
+        with open(filepath, "wb") as f:
+            f.write(image_bytes)
+            
+        return f"/stories/{filename}"
+    except Exception as e:
+        print(f"Image generation failed: {e}")
+        return "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280"
+
+def main():
+    topic = "경찰대 기출문제 풀고 멘붕온 고3 썰"
+    print(f"Start generating web story: {topic}")
+    
+    story_content = generate_story_content(topic)
+    
+    pages = []
+    for i, slide in enumerate(story_content):
+        bg_image_url = generate_background_image(slide["image_prompt"])
+        
+        pages.append({
+            "id": f"page{i+1}",
+            "bgImage": bg_image_url,
+            "heading": slide["heading"]
+        })
+    
+    new_story_id = f"story-{datetime.datetime.now().strftime('%Y%m%d%H%M%S')}"
+    new_story = {
+        "id": new_story_id,
+        "title": topic,
+        "publisher": "수학주식",
+        "posterImage": pages[0]["bgImage"],
+        "pages": pages,
+        "outlinkText": "수능 수학 기출 무료 다운로드",
+        "outlinkUrl": "https://math.stac100.com",
+        "createdAt": datetime.datetime.now().isoformat() + "Z"
+    }
+    
+    stories_file_path = os.path.join("src", "data", "stories.json")
+    try:
+        with open(stories_file_path, "r", encoding="utf-8") as f:
+            stories = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        stories = []
+        
+    stories.insert(0, new_story)
+    
+    os.makedirs(os.path.dirname(stories_file_path), exist_ok=True)
+    
+    with open(stories_file_path, "w", encoding="utf-8") as f:
+        json.dump(stories, f, ensure_ascii=False, indent=2)
+        
+    print(f"Success! Web story ID: {new_story_id}")
+
+if __name__ == "__main__":
+    main()
