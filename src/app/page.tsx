@@ -1,7 +1,6 @@
 import type { Metadata } from 'next';
 import { SITE_CONFIG } from '@/data/config';
 import { getRecentPosts, ALL_POSTS } from '@/data/posts';
-import { getAllStories } from '@/data/stories';
 import PostCard from '@/components/PostCard';
 import Link from 'next/link';
 import { Zap } from 'lucide-react';
@@ -32,14 +31,12 @@ export default function HomePage() {
       <section className="hero">
         <div className="container hero-inner">
           <DDay variant="hero" />
-          <div className="daum-wm-title">
-            <p className="hero-brand">수학주식</p>
-            <h1 className="hero-title">
-              수능부터 사관학교까지<br />
-              수학 기출문제를 무료로
-            </h1>
-          </div>
-          <p className="hero-subtitle daum-wm-content">
+          <p className="hero-brand">수학주식</p>
+          <h1 className="hero-title">
+            수능부터 사관학교까지<br />
+            수학 기출문제를 무료로
+          </h1>
+          <p className="hero-subtitle">
             수능, 고1~고3 모의고사, 경찰대, 육·해·공군 사관학교<br />
             수학 기출문제와 해설을 PDF · HWP 로 무료 제공합니다.
           </p>
@@ -49,32 +46,8 @@ export default function HomePage() {
       {/* ── 카테고리 퀵메뉴 ──────────────────────────────── */}
 
 
-      {/* ── 웹스토리 (기출 썰) ─────────────────────────────────────── */}
-      <section className="section section-alt">
-        <div className="container">
-          <div className="section-header">
-            <h2 className="section-title">
-              <span className="section-title-dot" style={{ background: '#FF5A5F' }} />
-              🔥 실시간 기출 썰 (웹스토리)
-            </h2>
-          </div>
-          <div className="stories-horizontal-scroll" style={{ display: 'flex', overflowX: 'auto', gap: '16px', paddingBottom: '16px' }}>
-            {getAllStories().slice(0, 8).map((story) => (
-              <Link key={story.id} href={`/stories/${story.id}`} style={{ flexShrink: 0, width: '140px', textDecoration: 'none' }}>
-                <div style={{ position: 'relative', width: '140px', height: '248px', borderRadius: '16px', overflow: 'hidden', boxShadow: '0 4px 12px rgba(0,0,0,0.15)' }}>
-                  <img src={story.posterImage} alt={story.title} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
-                  <div style={{ position: 'absolute', bottom: 0, left: 0, right: 0, background: 'linear-gradient(transparent, rgba(0,0,0,0.9))', padding: '30px 10px 12px', color: '#fff', fontSize: '14px', fontWeight: '600', lineHeight: '1.4', wordBreak: 'keep-all', textAlign: 'center' }}>
-                    {story.title}
-                  </div>
-                </div>
-              </Link>
-            ))}
-          </div>
-        </div>
-      </section>
-
       {/* ── 최신 자료 ─────────────────────────────────────── */}
-      <section className="section">
+      <section className="section section-alt">
         <div className="container">
           <div className="section-header">
             <h2 className="section-title">
