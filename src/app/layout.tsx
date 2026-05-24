@@ -6,6 +6,7 @@ import { SITE_CONFIG } from '@/data/config';
 import FamilySiteBanner from '@/components/FamilySiteBanner';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import StoryWidget from '@/components/StoryWidget';
 import { AdSenseScript } from '@/components/AdBanner';
 import { Analytics } from '@vercel/analytics/next';
 
@@ -112,6 +113,9 @@ export default function RootLayout({
 
         {/* 푸터 */}
         <Footer />
+
+        {/* 플로팅 스토리 위젯 */}
+        <StoryWidget />
 
         {/* Vercel Analytics */}
         <Analytics />
