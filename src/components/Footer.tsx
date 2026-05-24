@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { BookOpen, ExternalLink } from 'lucide-react';
 
 const NAV_ITEMS = [
+  { label: '기출 썰 (웹스토리)', href: '/stories' },
   { label: '수능 기출', href: '/category/suneung' },
   { label: '고3 모의고사', href: '/category/go3' },
   { label: '고2 모의고사', href: '/category/go2' },
