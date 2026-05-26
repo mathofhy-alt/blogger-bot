@@ -58,6 +58,7 @@ jobs:
           X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
+          npm install twitter-api-v2
           node scripts/submit_twitter.js
 
       - name: Commit and Push generated stories and images
