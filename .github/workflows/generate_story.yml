@@ -48,10 +48,8 @@ jobs:
         run: |
           git config --local user.email "admin@math.stac100.com"
           git config --local user.name "WebStory Generator"
-          # 새롭게 추가된 json과 이미지 파일들을 모두 Git에 추가
-          git add src/data/stories.json public/stories/* scripts/.submitted_urls.json scripts/.submitted_twitter_urls.json
-          # 변경 사항이 있을 때만 커밋
-          git commit -m "✨ Auto-generate new Web Story via Gemini & index & tweet" || echo "No changes to commit"
+          git add src/data/stories.json public/stories/*
+          git commit -m "✨ Auto-generate new Web Story via Gemini" || echo "No changes to commit"
           git push
 
       - name: Submit to Google Indexing API
@@ -71,3 +69,10 @@ jobs:
         run: |
           npm install twitter-api-v2
           node scripts/submit_twitter.js
+
+      - name: Commit tracking files
+        run: |
+          git add scripts/.submitted_urls.json scripts/.submitted_twitter_urls.json || true
+          git commit -m "📌 Update submitted URL tracking files" || echo "No changes to commit"
+          git push
+
