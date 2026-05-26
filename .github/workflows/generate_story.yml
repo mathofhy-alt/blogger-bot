@@ -2,13 +2,10 @@ name: Generate Web Story Daily
 
 on:
   schedule:
-    # 한국시간 오전 9시 (UTC 0시)
+    # 외부 크론잡(cron-job.org)이 하루 3번 workflow_dispatch API로 트리거합니다.
+    # 내부 크론은 깃허브 서버 사정에 따라 씹힐 수 있어 외부 트리거를 사용합니다.
     - cron: '0 0 * * *'
-    # 한국시간 오후 3시 (UTC 6시)
-    - cron: '0 6 * * *'
-    # 한국시간 오후 9시 (UTC 12시)
-    - cron: '0 12 * * *'
-  workflow_dispatch: # 깃허브 페이지에서 수동 버튼으로 즉시 실행 가능하도록 설정
+  workflow_dispatch:
 
 permissions:
   contents: write
