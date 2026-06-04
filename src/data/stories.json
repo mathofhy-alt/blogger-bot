@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260604150130",
+    "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "6월 모의고사 수학 시간, 21번까지 풀고 나니 남은 시간은 무려 30분. '이번엔 무조건 1등급이다'라는 확신에 차서 마지막 22번 문제를 노려보았다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "최고차항 계수가 양수인 삼차함수... 조건은 간단해 보였다. 자신 있게 그래프를 그리고 비율 관계를 적용하려는데, 어라? 계산할수록 말도 안 되는 숫자만 나왔다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "서걱거리는 시험지 소리가 고막을 찢을 듯이 커졌다. 이마에서 흐른 식은땀 한 방울이 시험지 위로 툭 떨어지는 순간, 머릿속이 컴퓨터처럼 새하얘졌다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시계는 벌써 11시 35분. 완전히 뇌정지가 온 나는 갑자기 '2 곱하기 3이 5였나 6이었나?' 하는 의심까지 하며 괴물 같은 식을 멍하니 쳐다볼 뿐이었다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "종료 5분 전, '아, 최고차항 계수가 음수였구나!' 하는 깨달음이 뇌리를 스쳤다. 미친 속도로 샤프를 놀려 답을 적고 겨우 OMR 카드 마킹까지 끝냈다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험이 끝나고 커뮤니티를 켰다. 설마 했는데, 내가 마지막에 뇌정지 와서 고쳐 쓴 답 대신 처음 직관으로 찍어둔 원래 숫자가 정답이었다. 내 1등급이 날아갔다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-06-04T15:01:30.853601Z"
+  },
+  {
     "id": "story-20260604070209",
     "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
     "publisher": "수학주식",
