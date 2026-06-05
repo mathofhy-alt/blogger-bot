@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260605150119",
+    "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "국어, 영어 다 무난하게 풀고 ‘오늘 진짜 한의대 각인가?’ 싶었던 수학 시간. 앞장 슥슥 풀고 대망의 22번 킬러와 마주했을 때까진 심장이 터질 듯한 자신감뿐이었음."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "근데 삼차함수 그래프 극대, 극소 조건 따지는데 뭔가 쎄하더라. 조건 가, 나의 연립이 자꾸 안 맞물리고 꼬이더니, 새하얀 시험지 위에 식만 무한대로 늘어남."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "째깍거리는 교실 시계 소리 속에서 사방의 샤프 사각거리는 소리가 귓가를 때리는데, 순간 뇌회로가 딱 멈춤. 식은땀이 주르륵 흐르고 내가 그린 삼차함수가 갑자기 정삼각형으로 보이기 시작함."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "분명 모의고사 안정적 1등급이었는데, 눈앞이 흐려지며 기껏 계산한 f(3) 값은 81628 같은 말도 안 되는 기괴한 숫자가 나옴. 아, 올해는 한강 뷰가 아니라 집 뒷산 뷰 대학이구나 싶어 눈물 핑 돌았음."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험 종료 5분 전, 눈물 훔치며 다시 문제를 보니 최고차항 계수가 양수인데 음수로 두고 풀었네? 혼자 엉뚱한 우주에서 헤매고 있던 나를 발견한 순간의 허탈함은 말로 다 못함."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 찍어서 내고 교문 터덜터덜 나오자마자 커뮤니티 켰는데, 대문짝만하게 ‘오늘 수학 22번 조건 착각해서 대가리 깨진 놈들 모여라’ 개념글 가 있는 거 보고 오열하며 추천 누름."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-06-05T15:01:19.203813Z"
+  },
+  {
     "id": "story-20260605070122",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
