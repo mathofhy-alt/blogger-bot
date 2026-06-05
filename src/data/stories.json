@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260605070122",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 딱 100일 남은 시점, 만년 4등급 성적표를 들고 절망했다. 지푸라기라도 잡는 심정으로 서점에서 가장 두꺼운 기출문제집을 사 들고 독서실 책상에 앉았다. \"이것만 3번 다 보면 기적이 일어날까?\" 내 마지막 도전이 시작됐다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "1회독 때는 진짜 피를 토하는 심정이었다. 샤프심 부러지는 소리만 가득한 독서실에서 해설지를 거의 베끼다시피 하며 하루 10시간씩 달렸다. 손가락엔 굳은살이 박이고 까맣게 연필가루가 묻었지만, 아직 갈 길이 멀어 심장이 덜컥거렸다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "문제와 답이 외워지기 시작한 2회독, 나는 내가 천재가 된 줄 알았다. 하지만 야심 차게 본 9월 모의고사에서 익숙한 지문을 보고도 버벅거리며 또다시 비가 내리는 4등급 성적표를 받았다. \"나 지금까지 시간 낭비한 건가?\" 등줄기에 식은땀이 흘렀다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "절망 속에서 맞이한 D-50, 마지막 3회독은 아예 방법을 바꿨다. 단순히 문제를 푸는 게 아니라 평가원이 파놓은 함정의 설계도를 그린다는 생각으로, 오답 선지 하나하나가 틀린 이유를 책 여백이 부족할 정도로 빽빽하게 분석해 나갔다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그리고 대망의 수능 날, 차가운 고사장 책상에서 시험지를 넘기는데 온몸에 소름이 돋았다. 3회독 때 씹어 먹듯 분석했던 평가원의 출제 코드들이 시험지 너머로 투명하게 들여다보이기 시작했다. 망설임 없이 샤프가 굴러갔다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결과는 기적 같은 불수능 국어 1등급, 수험생 커뮤니티에 이 후기를 쓰며 여전히 손이 떨린다. 기출 3회독은 단순히 눈으로 세 번 읽는 게 아니라 평가원의 뇌와 내 뇌를 동기화시키는 과정이었다. 너희도 할 수 있다, 늦지 않았다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-06-05T07:01:22.280172Z"
+  },
+  {
     "id": "story-20260605044114",
     "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
     "publisher": "수학주식",
