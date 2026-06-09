@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260609070122",
+    "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능을 딱 한 달 앞둔 10월 말, 내 수학 성적은 만년 3등급에 머물러 있었다. '기출이 답이다'라는 말만 믿고 독서실 불빛 아래서 지난 5개년 수능 시험지를 다시 펼쳤을 때까지만 해도 내 문제점을 전혀 몰랐다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "악명 높은 22번 킬러 문항들의 오답 노트를 쓰기 시작했다. 해설지의 화려한 풀이를 알록달록한 펜으로 한 자 한 자 베껴 적으며 예쁜 노트를 채워갈 때, 나는 내가 진짜 공부를 하고 있다고 착각했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그런데 지난 6월과 9월 모의고사 오답 노트를 나란히 비교해 보던 순간, 등골에 서늘한 소름이 돋았다. 문제의 발문과 포장지만 살짝 다를 뿐, 내가 매번 똑같은 개념의 덫에 걸려 넘어진 흔적이 선명하게 보였다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "지금껏 해설지를 보며 '이해했다'고 자위했던 내 공부가 전부 가짜였다는 사실을 깨달았다. 이마에서 식은땀 한 방울이 툭 떨어져 시험지를 적셨고, 나는 멍하니 천장을 바라보며 깊은 절망감에 빠졌다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그 순간, 머릿속에서 얽혀 있던 수학적 논리들이 번쩍하며 하나로 연결되는 느낌이 들었다. 공식을 기계적으로 외우는 게 아니라, 평가원 출제진들이 왜 이 조건과 그래프를 배치했는지 그 숨겨진 '의도'가 비로소 눈에 보이기 시작했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 새벽, 나는 보조선 하나 없이 오직 출제의도 파악만으로 킬러 문제를 단 3줄 만에 풀어내는 전율을 맛봤다. 수험생 커뮤니티에 이 글을 쓰는 지금, 내 심장은 수능 시험장을 향한 자신감으로 세차게 뛰고 있다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-06-09T07:01:22.541711Z"
+  },
+  {
     "id": "story-20260609041802",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
