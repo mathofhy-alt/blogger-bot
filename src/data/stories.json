@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260609150134",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 D-100일, 만년 4등급에 머물러 있는 성적표를 보며 심장이 쿵 내려앉았다. 이대로 재수를 할 수는 없다는 절박함에, 가장 두꺼운 기출문제집을 사 들고 독서실 구석 자리로 기어들어 갔다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "1회독은 지옥 그 자체였다. 미적분 4점짜리 기출 한 문제에 한 시간을 매달리며 식은땀을 흘렸고, 새벽 3시 텅 빈 독서실에는 사각거리는 샤프 소리와 스스로에 대한 한심함으로 가득했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 2회독을 넘어 3회독에 접어들자 신기하게도 문제들이 술술 풀리기 시작했다. '나 사실 천재 아닐까?' 하는 근거 없는 자신감에 취해, 해설지도 안 보고 대충 훑으며 빠르게 책장을 넘겼다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그리고 마주한 9월 모의고사 날, 시험지를 펼친 순간 등줄기에 소름이 돋았다. 분명히 3번 넘게 풀었던 기출 유형인데 숫자와 조건이 아주 조금 바뀌자, 머릿속이 새하얘지며 손끝 하나 움직일 수 없었다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그제야 깨달았다. 나는 기출을 '공부'한 게 아니라 그저 답을 '암기'하고 있었던 것이다. 남은 시간은 단 50일, 찢어진 모의고사 시험지를 붙잡고 눈물을 훔치며 다시 처음부터 피를 말리듯 분석하기 시작했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 수능 당일, 긴장감으로 터질 것 같은 교실에서 시험지를 넘기는 순간 전율이 일었다. 출제자의 의도를 집요하게 파고들었던 기출의 진짜 원리들이 시험지 위에서 투명한 가이드라인처럼 선명하게 보였다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-06-09T15:01:34.179907Z"
+  },
+  {
     "id": "story-20260609070122",
     "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
     "publisher": "수학주식",
