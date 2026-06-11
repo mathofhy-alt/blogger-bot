@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260611150214",
+    "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "/stories/b53bfd6e.jpg",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "/stories/b53bfd6e.jpg",
+        "heading": "대치동 1타 강사 실모랑 N제를 기계처럼 풀었다. 내가 엘리트 코스를 밟고 있으며 수능 1등급은 당연히 따놓은 당상이라 믿었던 시절이었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 6월 모평 날, 낯선 4점짜리 신유형 앞에서 내 머리는 완전히 굳어버렸다. 식은땀을 흘리며 받아 든 성적표는 처참한 3등급이었다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "/stories/d6ee366a.jpg",
+        "heading": "수능을 코앞에 두고 대치동 학원을 전부 끊자, 다들 미쳤냐며 말렸다. 고요한 독서실에 홀로 앉아 먼지 쌓인 평가원 기출문제를 다시 펼쳤다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "/stories/8a8cc8fd.jpg",
+        "heading": "남들 다 푸는 실모를 안 푼다는 불안감에 미칠 것 같았다. 하지만 기출을 서너 번씩 뜯어보자, 비로소 출제자의 설계도가 보이기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "아, 이거였구나! 화려한 스킬은 껍데기일 뿐, 본질은 기본 개념의 유기적 연결이었다. 막혔던 수능 수학 조건들이 거짓말처럼 투명하게 읽혔다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "내 머리로 직접 씹어 먹는 진짜 공부를 깨달은 순간, 온몸에 소름이 돋았다. 마침내 10월 학평에서 난생처음 원점수 100점을 찍었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-06-11T15:02:14.999841Z"
+  },
+  {
     "id": "story-20260611070207",
     "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
     "publisher": "수학주식",
