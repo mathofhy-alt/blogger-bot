@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260725150155",
+    "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "/stories/9d9b12f9.jpg",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "/stories/9d9b12f9.jpg",
+        "heading": "모평 국수영 고정 1등급이라 수능이 만만해 보였다. '실력 점검이나 해볼까?' 하고 가벼운 마음으로 경찰대 국어 시험지를 펼쳤다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "/stories/021d12c0.jpg",
+        "heading": "첫 페이지부터 숨이 턱 막혔다. 듣도 보도 못한 괴랄한 어휘와 빽빽한 지문들에 머리가 하얗게 비었고, 식은땀이 등줄기를 타고 흘렀다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "/stories/c2208b2c.jpg",
+        "heading": "좌절 속에 펼친 수학은 더 잔인했다. 수능 킬러 문항 수십 개를 욱여넣은 듯한 기괴한 조건에 샤프를 쥔 손이 벌벌 떨렸다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "/stories/a5d05eba.jpg",
+        "heading": "영어마저 대학 전공 서적 수준의 단어 폭탄에 무너졌다. 비가 내리는 채점 결과를 보며 독서실 책상에 엎어져 머리를 쥐어뜯었다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "/stories/b3a888f7.jpg",
+        "heading": "우물 안 개구리였던 오만함이 완전히 박살 났다. 멘탈은 가루가 되었지만, 겸손함을 배우고 다시 독하게 펜을 쥔다. 진짜 공부는 이제부터다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-07-25T15:01:55.144159Z"
+  },
+  {
     "id": "story-20260725070212",
     "title": "수포자가 수능 수학 2등급 맞고 오열한 썰",
     "publisher": "수학주식",
