@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260817150214",
+    "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 날 수학 영역, 21번까지 막힘없이 풀려 속으로 '나 오늘 메디컬 가나?'라며 김칫국을 마시고 있었다. 마지막 22번을 펼친 그 순간, 고요한 시험장 속에 빳빳한 시험지 넘기는 소리만 내 심장 소리보다 크게 들려왔다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "‘최고차항 계수가 1인 삼차함수가 다음 조건을 만족할 때...’ 조건을 읽자마자 머릿속이 일순간 멍해졌다. 절댓값 기호와 극한식들이 복잡하게 뒤엉킨 수식들은 마치 고대 외계 문자처럼 내 시야에서 사정없이 튕겨 나갔다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "‘침착하자, 늘 하던 삼차함수 비율 관계잖아.’ 스스로를 다독이며 샤프를 쥐었지만 손끝이 미세하게 떨렸다. 그래프를 대여섯 개나 그렸다 지우느라 시험지는 하얗게 헤어졌고, 사방에서 들리는 사각거리는 소리에 식은땀이 목덜미를 타고 흘러내렸다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험 종료 5분 전, 머릿속이 완벽하게 포맷되어 아무 생각도 나지 않는 최악의 뇌정지가 찾아왔다. 시계 초침 소리가 마치 시한폭탄 카운트다운처럼 귓전을 때렸고, 나 혼자 거대한 절벽 끝에 멈춰 서 있는 듯한 공포가 온몸을 지배했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "종료 3분 전, 포기하려던 찰나 극대와 극소의 대칭성 조건이 머릿속을 번개처럼 스치고 지나갔다. 홀린 듯이 미친 속도로 수식을 받아적어 내려가기 시작했고, 기적처럼 깔끔한 자연수 '15'가 답으로 도출되었다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "종소리와 동시에 겨우 OMR 마킹을 끝냈고, 시험지가 수거되자마자 온몸의 힘이 탁 풀렸다. 집에 와서 떨리는 마음으로 수만휘 가채점 정답표의 '15'를 확인한 순간, 벼랑 끝에서 살아 돌아온 전율에 그 자리에서 엉엉 울어버렸다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-17T15:02:14.494518Z"
+  },
+  {
     "id": "story-20260817070202",
     "title": "수포자가 수능 수학 2등급 맞고 오열한 썰",
     "publisher": "수학주식",
