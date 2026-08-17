@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260817070202",
+    "title": "수포자가 수능 수학 2등급 맞고 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "모의고사 수학 8등급, 내 시험지는 언제나 비구름 가득한 외계어였다. 수능을 불과 몇 달 앞두고 모두가 나를 포기했을 때, 밤새 텅 빈 책상을 보며 서러움에 눈물을 삼켰다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "‘이대로 끝낼 순 없다’는 생각에 무작정 기초 교과서부터 다시 펼쳤다. 남들이 어려운 킬러 문항을 풀며 비웃을 때, 나는 중학 수학 공식부터 벽돌을 쌓듯 외우기 시작했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하루 12시간 동안 코피를 쏟아가며 오직 수학만 파고들었다. 지우개 가루가 눈처럼 쌓이고 손가락에 굳은살이 박여갈 때쯤, 마침내 굳게 닫혀있던 수능 기출의 길이 보이기 시작했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결전의 수능 당일, 차갑게 얼어붙은 교실에서 수학 시험지가 배부되는 소리가 사락 들렸다. 긴장으로 온몸이 떨렸지만, 신기하게도 복잡한 도형과 수식들이 한눈에 읽혀 나갔다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "가채점 날, 시험지에 쏟아지는 빨간 동그라미들을 보며 심장이 터질 것 같았다. 기적 같은 ‘수학 2등급’을 확인한 순간, 참아왔던 뜨거운 오열이 폭포처럼 쏟아져 내렸다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-17T07:02:02.374270Z"
+  },
+  {
     "id": "story-20260817014906",
     "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
     "publisher": "수학주식",
