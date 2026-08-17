@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260817230200",
+    "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "중학교 때 수학은 늘 90점대, 솔직히 고등학교 첫 3월 모의고사 따위는 껌이라고 생각했다. '중학교 범위잖아?'라며 근거 없는 자신감으로 가득 차 시험지를 받아 들었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험 시작 종이 울리고 시험지를 넘기는데, 어라? 4점짜리 문항부터 숨이 턱 막히기 시작했다. 주위에서 사각사각 시험지 넘기는 소리가 들릴 때마다 등에 식은땀이 흘렀다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 절반은 찍다시피 하고 OMR 카드를 제출했다. 며칠 뒤 받아 든 성적표에는 내 인생 한 번도 본 적 없는 처참한 숫자, '수학 40점, 5등급'이 선명하게 박혀 있었다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "머릿속이 하얘지고 눈앞이 흐려졌다. 우물 안 개구리였던 내 실력이 적나라하게 드러난 순간, 집으로 가는 버스 창가에서 몰래 눈물을 훔치며 현실을 뼈저리게 깨달았다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 이대로 무너질 순 없었다. 독서실 책상에 앉아 40점짜리 시험지를 다시 펼치고, 오답 노트를 만들며 고등 수학의 '진짜 공부'를 시작하기로 결심했다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-17T23:02:00.748320Z"
+  },
+  {
     "id": "story-20260817150214",
     "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
     "publisher": "수학주식",
