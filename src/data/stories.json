@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260818014323",
+    "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "6월 모평 수학 5등급 성적표를 받고 세상이 무너지는 줄 알았습니다. 재수학원 자습실에서 남들 시험지 넘기는 소리만 들려도 식은땀이 흐르고, 심장이 터질 것 같았죠."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "‘이대로는 삼수다’라는 공포심에 비싼 인강과 사설 모의고사들을 전부 서랍 깊숙이 처박았습니다. 그러고는 오직 평가원 기출문제집 딱 한 권만 책상에 남겨두었죠."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하루 10시간 동안 단 세 문제만 붙잡고 늘어졌습니다. 풀이 과정을 단순히 외우는 게 아니라, ‘왜 출제자는 여기서 이 개념을 썼을까’ 꼬리에 꼬리를 물며 밤을 새웠습니다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그렇게 기출을 5회독쯤 돌렸을 때, 신기하게도 안개가 걷히듯 눈앞이 탁 트였습니다. 킬러 문항을 마주해도 출제자가 숨겨놓은 힌트와 설계도가 훤히 보이기 시작하더군요."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "운명의 수능 날, 사각거리는 샤프 소리 속에서 짜릿한 전율이 돋았습니다. 낯선 고난도 문제들조차 결국 내가 지겹도록 해부했던 기출의 변형일 뿐이라는 확신이 들었습니다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "가채점 결과 원점수 96점, 당당한 ‘수학 1등급’. 껍데기가 아닌 기출이라는 본질만 깊게 팠던 6개월이 마침내 내 노력의 가치를 증명해 준 순간이었습니다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-18T01:43:23.582785Z"
+  },
+  {
     "id": "story-20260817230200",
     "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
     "publisher": "수학주식",
