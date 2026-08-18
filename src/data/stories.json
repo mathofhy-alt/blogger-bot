@@ -1,5 +1,51 @@
 [
   {
+    "id": "story-20260818150323",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 D-100일, 모의고사 성적표에 찍힌 수학 4등급을 보고 눈앞이 캄캄해졌다. 이대로는 인서울은커녕 대학조차 못 갈 것 같다는 공포에 온몸에 식은땀이 흘렀다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "불안해할 시간도 없다며 온갖 인강을 치우고, 오직 두꺼운 기출문제집 딱 한 권으로 '3회독' 끝장내기 돌입을 선언했다. 책상 위에 쌓인 문제집을 보며 입술을 질끈 깨물었다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "첫 1회독은 그야말로 피비린내 나는 지옥이었다. 아는 문제보다 모르는 문제가 더 많아 샤프심만 부러뜨렸고, 해설지를 거의 필사하듯 머리에 쑤셔 넣었다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "2회독에 접어들며 드디어 문제가 풀리는 줄 알고 희열을 느꼈다. 하지만 그건 실력이 아니라 단순히 답을 '암기'해서 맞춘 착각이라는 걸 깨닫고 등 뒤로 소름이 돋았다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "독기를 품은 마지막 3회독, 답을 내는 게 아니라 '출제자가 이 조건들을 왜 줬을까?'에만 집착했다. 새벽 공기를 마시며 구조를 뜯어보니 비로소 문제의 뼈대가 보이기 시작했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 당일, 사각거리는 시험지 소리 속에서 나는 전율을 느꼈다. 막힘없이 풀려나가는 문제들 사이에서 100일 전 지옥 같았던 노력들이 마침내 빛을 발하는 순간이었다."
+      },
+      {
+        "id": "page7",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "채점 결과는 인생 최초의 수학 1등급. 100일이라는 시간은 뜬구름 잡는 비법 대신 오직 기출 하나에 영혼을 갈아 넣기에 충분하고도 차고 넘치는 시간이었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-18T15:03:23.918978Z"
+  },
+  {
     "id": "story-20260818070216",
     "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
     "publisher": "수학주식",
