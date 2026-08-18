@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260818070216",
+    "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고2 겨울방학식 날, 디코에선 롤하자는 알람이 울렸다. 내 모평 등급은 참담한 5등급. 이대로 살면 답이 없겠다는 공포가 척추를 타고 흘렀다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "롤을 지우고 독서실로 달려가 빨간색 수능 기출을 샀다. 두꺼운 책장을 펼치자마자 숨이 막혔지만, 이번 방학엔 이 괴물들을 전부 씹어먹겠다고 다짐했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "새벽 2시, 얼어붙은 독서실에서 패딩을 입고 4점 킬러 문항과 사투를 벌였다. 친구들이 티어 올릴 때, 나는 오답 노트에 눈물을 흘리며 풀이를 채웠다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "2월 말쯤 되자 신기한 일이 일어났다. 기출문제의 출제 패턴이 마치 게임 미니맵 동선처럼 훤히 보였다. '아, 이거 정해진 공식의 반복이구나!'"
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "3월 학평 날, 사방에서 한숨 소리가 들렸다. 겨울 내내 놀던 애들이 손 벌벌 떨며 찍을 때, 나는 기출에서 숱하게 본 유형들을 막힘없이 풀어내려갔다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "성적표 나온 날, 수학란에 선명하게 박힌 '1등급'. 아직도 게임 티어에 목매는 친구들을 뒤로한 채, 인생 진짜 역전승의 짜릿한 전율을 맛봤다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-18T07:02:16.754503Z"
+  },
+  {
     "id": "story-20260818014323",
     "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
     "publisher": "수학주식",
