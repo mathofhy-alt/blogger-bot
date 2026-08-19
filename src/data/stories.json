@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260819150228",
+    "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "6월 모의고사 수학 5등급 성적표를 받고 멘탈이 완전히 바스러졌다. '내가 무슨 대학이냐...' 수학 책을 다 찢어서 쓰레기통에 처박고 공부를 포기하려던 그날 밤이었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "우울한 마음에 수험생 커뮤니티를 보는데, 어떤 괴수가 '사관학교 기출이 수능 킬러 대비에 최고의 약'이라는 글을 올렸다. 지푸라기라도 잡는 심정으로 사관학교 수학 기출을 인쇄했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 모의고사랑은 차원이 다른 묵직하고 클래식한 4점짜리 문제들의 포스에 침이 바짝 마르고 식은땀이 흘렀다. 그런데 신기하게도, 꼬아놓은 잔기술 없이 오직 개념에만 극도로 충실했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "'어...? 이거 기본 개념대로 찢으니까 풀리는데?' 덜덜 떨리는 손으로 마지막 킬러 문항의 수식을 전개해 나갔고, 마지막 사칙연산을 끝마친 순간 심장이 쿵쾅거리기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "채점을 해보니 시험지에 새빨간 동그라미가 쏟아졌다. 무려 88점, 사관학교 1등급 컷 점수가 내 손끝에서 나온 순간 온몸에 전율이 흐르며 눈물이 핑 돌았다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "'사관학교 기출도 깼는데 수능이라고 못 할 게 뭐야?' 꺾여버렸던 수학에 대한 두려움이 완전히 박살나고, 심장이 미친 듯이 뛰며 다시 펜을 움켜쥐었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-19T15:02:28.137353Z"
+  },
+  {
     "id": "story-20260819070202",
     "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
     "publisher": "수학주식",
