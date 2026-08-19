@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260819070202",
+    "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고2 11월 모평 수학 4등급 성적표를 받은 날, 심장이 쿵 내려앉았어. 단톡방에선 친구들이 '야 롤 드루와' 하며 밤새 협곡으로 떠났지만, 난 이대로 망할 순 없다는 생각에 입술을 깨물었지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "친구들이 피시방 냄새에 취해있을 때, 난 독서실의 서늘한 공기를 들이마셨어. 평가원 5개년 기출문제집을 펼치고, 모르는 개념은 교과서까지 뒤져가며 끈질기게 매달렸지."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 새벽 3시, 킬러 문항의 벽 앞에서 식은땀이 흐르고 눈앞이 흐려졌어. '그냥 나도 게임이나 할까' 하는 유혹이 밀려올 때마다, 볼펜으로 허벅지를 찔러가며 졸음을 쫓았지."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그렇게 기출을 3회독째 돌리자 기적이 일어났어. 꽉 막혔던 수학 기호들이 말을 걸듯, 출제위원이 파놓은 함정과 풀이의 지도 구도가 머릿속에 선명하게 그려지기 시작하더라고."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "드디어 고3 3월 학평 당일, 시험지를 넘기는 사락 소리 속에 내 심장도 뛰었어. 겨울 내내 피눈물 흘리며 봤던 기출의 패턴들이 지문 위로 겹쳐 보이며, 거침없이 샤프가 굴러갔지."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결과는 당당한 1등급. 맨날 롤 티어 올랐다고 자랑하던 녀석들이 내 성적표를 보고 입을 벌릴 때, 겨울방학 동안 고독하게 벼려온 내 무기가 마침내 통했음을 확신했어."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-19T07:02:02.376886Z"
+  },
+  {
     "id": "story-20260819014517",
     "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
     "publisher": "수학주식",
