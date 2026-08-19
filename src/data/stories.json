@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260819230202",
+    "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 6월 모평, 성적표에 찍힌 선명한 '수학 5등급'. 4점짜리 문항은 손도 못 대고 번호 한 개로 기둥을 세우며, '나는 역시 수포자구나' 하고 한숨만 푹푹 쉬던 절망적인 시절이었습니다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "여름방학이 되자 대치동 1타 강사의 비싼 사설 실전 모의고사를 풀며 기세를 올리는 친구들 사이에서, 나 혼자 기초 공식만 붙잡고 있는 현실에 눈물이 핑 돌고 삼수 각이라는 공포감이 엄습했습니다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"에라 모르겠다, 기본으로 돌아가자!\" 불안해하며 유행하는 교재를 따라 사는 대신, 평가원 10개년 기출문제집 딱 한 권을 너덜너덜해질 때까지 파헤치기로 결심하고 책상 앞에 앉았습니다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "똑같은 기출 시험지를 5번, 7번씩 반복해서 풀자 신기한 일이 일어났습니다. 새벽 독서실 불이 꺼질 때까지 연필을 굴리며, 출제자가 파놓은 함정의 패턴이 머릿속에 3D처럼 그려지기 시작했습니다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그리고 대망의 수능 날 아침, 수학 시험지를 넘기는데 전율이 돋았습니다. 그 악명 높은 킬러 문항들 속에서 내가 수백 번 해체하고 분석했던 기출의 뼈대가 그대로 투명하게 비쳐 보였거든요."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결과는 기적 같은 '수학 1등급'. 비싸고 화려한 사설 문제에 흔들리지 마세요. 수능 수학의 가장 완벽한 예언서는 여러분 책상 위 낡아빠진 기출문제집 속에 다 들어있습니다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-19T23:02:02.857439Z"
+  },
+  {
     "id": "story-20260819150228",
     "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
     "publisher": "수학주식",
