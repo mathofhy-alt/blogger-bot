@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260819014517",
+    "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고2 겨울방학, 디스코드에서 \"롤 한 판만 하자\"며 불이 나게 울리던 알람을 껐다. 모의고사 성적표에 찍힌 수학 4등급, 이대로 살다간 인서울은커녕 지방대도 못 간다는 공포에 손끝이 덜덜 떨렸다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "친구들이 PC방에서 밤새 '칼바람'을 달릴 때, 나는 입김이 나오는 방구석에서 까만색 기출문제집을 폈다. 학원 없이 혼자 마주한 4점짜리 킬러 문항들은 거대한 벽처럼 앞을 가로막아 숨이 턱 막혔다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "불안감이 밀려올 때마다 평가원 5개년 기출을 인쇄해 해설지가 너덜너덜해질 때까지 풀고 또 풀었다. 새벽 3시, '내가 과연 해낼 수 있을까' 하는 의심에 뜨거운 눈물이 까만 시험지 위로 툭툭 떨어졌다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "해가 바뀌고 찾아온 3월 학평 날, 찬바람 부는 교실에서 시험지를 넘기는 순간 온몸에 전율이 돋았다. \"어? 이거 기출에서 반복되던 그 패턴이잖아?\" 꽉 막혔던 문제의 실타래가 기적처럼 스르륵 풀려나갔다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "6월 모평 성적표가 나온 날, 내 이름 옆에 선명하게 박힌 '수학 1등급'. 겨울방학 때 공부하는 척 오지게 한다며 비웃던 반 친구들이 이제는 무슨 문제집을 보냐며 내 주위로 구름처럼 몰려들었다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수만휘 형들, 기적은 특별한 비법에 있는 게 아니야. 남들이 소환사의 협곡에서 시간 버릴 때, 독하게 기출만 파고들었던 그 혹독한 겨울방학이 내 인생의 궤도를 완전히 바꾸어 놓았어."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-19T01:45:17.652647Z"
+  },
+  {
     "id": "story-20260818230202",
     "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
     "publisher": "수학주식",
