@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260820014357",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 D-100, 수학 만년 4등급. 이대로 삼수 각인가 싶어 눈물 흘리며 독서실 책상에 앉았다. 마지막 발악으로 빨간펜을 쥐고 기출문제집 3회독이라는 무모한 계획을 세웠다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하루 15시간, 삐걱거리는 의자 소리 속에서 기출만 팠다. 손가락엔 굳은살이 박히고 머리칼엔 지우개 가루가 흩날렸지만, 한 페이지씩 넘어갈 때마다 심장이 터질 것 같았다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "드디어 3회독을 끝낸 날, 이제 문제를 보기만 해도 답이 튀어나왔다. '나 천재인가? 이번에 무조건 1등급 받는다'라며 터져 나오는 헛웃음과 오만함에 취해 있었다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 9월 모의고사 날, 시험지를 넘기자 손이 얼어붙었다. 낯선 신유형 앞에서는 아무것도 떠오르지 않았다. 내가 한 건 공부가 아니라 단순 암기였다는 잔인한 현실에 식은땀만 흘렸다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "독서실로 돌아와 시험지를 찢으며 펑펑 울었다. 하지만 포기할 순 없었기에, 처음으로 돌아가 '왜 이 공식을 써야 하는가'를 치열하게 뇌에 새기기 시작했다. 진짜 공부가 시작된 순간이었다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "숫자가 아닌 본질을 보게 되자 비로소 막혔던 실타래가 풀렸다. 기출 3회독이란 횟수의 증명이 아닌, 출제자의 눈을 훔치는 과정이라는 걸 깨달은 순간 내 진짜 점수가 오르기 시작했다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-20T01:43:57.616557Z"
+  },
+  {
     "id": "story-20260819230202",
     "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
     "publisher": "수학주식",
