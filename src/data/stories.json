@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260820070157",
+    "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "평소 모의고사 2등급 언저리를 맴돌며 '실수만 없으면 1등급'이라 자만하던 고3 시절, 6월 모평 시험지를 펼쳐 들었습니다. 가위와 풀을 들고 의기양양하게 기출 오답노트를 만들기 시작할 때까지만 해도 제 진짜 문제를 전혀 몰랐죠."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수학 가형 도형 문제와 과탐 오답들을 오려 붙이던 중, 등 뒤로 서늘한 식은땀이 흘렀습니다. 틀린 문제들을 한곳에 모아놓고 보니, 제가 틀린 건 고난도 킬러 문항이 아니라 매번 어처구니없는 연산 실수와 개념 왜곡이었던 겁니다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "심장이 쿵 내려앉았습니다. 어려운 문제를 치열하게 풀어서 맞췄다는 자기만족에 취해, 정작 기초적인 3점짜리 문제들을 '실수'라는 비겁한 핑계 뒤에 숨겨두고 애써 외면해 왔다는 부끄러운 진실이 눈앞에 드러났습니다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "‘나는 공부를 한 게 아니라, 공부하는 내 모습에 취해있었구나.’ 예쁜 색펜으로 오답노트를 화려하게 꾸미며 공부를 다 했다고 착각했던 제 오만이 온몸으로 느껴지자, 머리를 한 대 얻어맞은 듯 멍해졌습니다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그 자리에서 알록달록한 펜들을 전부 쓰레기통에 던져버리고, 오직 검은 볼펜 한 자루만 쥐었습니다. 화려한 장식 없이 날것 그대로의 부끄러운 오답들을 마주하며, 진짜 공부를 시작한 새벽 2시의 독서실 책상은 그 어느 때보다 뜨거웠습니다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "껍데기뿐인 오답노트를 버리고 내 약점을 뼈아프게 직시하자, 거짓말처럼 수능 날 평온함이 찾아왔습니다. 수험생 커뮤니티에 이 글을 쓰는 지금, 여러분도 예쁜 노트 정리로 스스로를 속이고 있지는 않은지 꼭 돌아보길 바랍니다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-20T07:01:57.269061Z"
+  },
+  {
     "id": "story-20260820014357",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
