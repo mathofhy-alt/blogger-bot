@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260820230204",
+    "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "월 200만 원짜리 대치동 1타 강사 풀커리를 타며 늘 앞자리에 앉았다. 킬러 문항 스킬을 받아적을 때만 해도 내가 수능 만점자가 될 줄 알았다. 하지만 내 모의고사 성적표는 늘 차가운 '평균 3등급'에 멈춰 있었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "이대로는 답이 없다 싶어 학원 교재를 전부 버리고 독서실 1인실로 들어갔다. 친구들은 미쳤다고 했지만, 나는 텅 빈 책상 위에 오직 평가원 5개년 기출 시험지 묶음만 올려놓았다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "학원 공식 없이 첫 문제를 풀려는데, 머릿속이 하얘지며 단 한 줄도 내려가지 않았다. 여태껏 강사의 화려한 해설을 구경만 했을 뿐, 내 뇌로 생각하는 법을 잊었다는 절망감에 식은땀이 흘렀다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "스톱워치를 끄고, 한 문제에 3시간을 쓰더라도 끝까지 혼자 고민하기로 했다. 문장 하나, 조건 하나를 씹어 삼키듯 읽어가자, 마침내 평가원 출제위원이 숨겨놓은 설계도가 어렴풋이 보이기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "소름이 돋았다. 대치동에서 배운 '속성 스킬'은 다 쓰레기였다. 평가원은 오직 교과서 수준의 기본 개념만을 교묘하게 비틀어 묻고 있었다. 그 본질을 꿰뚫자 묵은 체증이 내려가듯 문제가 풀렸다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 이후 내 수험생활은 완전히 뒤바뀌었고, 수능 날 당당히 수학 1등급을 찍었다. 남의 머리를 빌려 공부하지 마라. 기출을 씹어 먹는 고독한 시간 속에 진짜 깨달음이 있다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-20T23:02:04.463392Z"
+  },
+  {
     "id": "story-20260820150158",
     "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
     "publisher": "수학주식",
