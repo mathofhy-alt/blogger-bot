@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260820150158",
+    "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대치동 1티어 실모 풀며 자만하던 국어 만년 3등급 시절. 매달 학원비만 백만 원 넘게 깨지는데 정작 시험장만 가면 머리가 하얗게 비어버렸음."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "﻿\"이대로는 진짜 삼수다.\" 수능 백 일 남기고 부모님 반대 무릅쓰고 대치동 다 끊었음. 독서실 책상에 오직 평가원 기출만 올려두고 혼자만의 싸움을 시작함."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "강사들이 떠먹여 주던 화려한 스킬 없이 생지문을 읽으려니 미칠 것 같더라. 째깍거리는 시계 소리 속에서 내가 그동안 헛공부했다는 걸 뼈저리게 깨달음."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그렇게 한 지문만 세 시간째 붙잡고 늘어지던 순간, 머릿속에 번개가 치듯 출제 공식이 보임. 오답 선지들이 지문을 어떻게 비틀었는지 입체적으로 그려지더라."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "흥분해서 다른 기출을 푸는데 출제자의 의도가 훤히 읽히며 속도가 미친 듯이 붙었음. 아무 꼼수 없이도 정답이 손을 들고 나를 부르는 경이로운 느낌이었음."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 그해 수능에서 당당히 국어 1등급 찍고 원하던 대학에 합격했다. 불안하다고 비싼 찌라시만 쫓아다니지 마라, 진짜 정답은 늘 기출 속에 다 있으니까."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-20T15:01:58.895451Z"
+  },
+  {
     "id": "story-20260820070157",
     "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
     "publisher": "수학주식",
