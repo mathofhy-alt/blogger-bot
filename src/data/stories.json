@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260821150159",
+    "title": "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"기출 5회독 했으니 수능은 씹어 먹겠지.\" 작년 현역 시절, 난 마르고 닳도록 기출문제만 풀었다. 문제만 보면 정답이 저절로 떠오를 정도였으니, 재수 생활의 시작은 근거 없는 자신감으로 가득 차 있었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 운명의 6월 모의평가 날, 빳빳한 국어 시험지를 넘기는데 숨이 턱 막혔다. 분명 기출에서 다 본 구조인데, 낯선 지문 앞에서는 머릿속이 하얘졌다. 시험장의 적막한 공기와 째깍거리는 아날로그시계 소리가 내 목을 조여왔다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "채점 시간, 시험지 위로 빨간 소나기가 사정없이 내렸다. \"기출을 그렇게 외웠는데 왜 또 3등급이지?\" 손끝이 덜덜 떨렸고, 내 지난 시간들이 전부 부정당한 것 같은 비참함에 독서실 책상에 엎드려 조용히 눈물을 삼켰다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "며칠을 방황하다 틀린 문항들을 다시 펼쳤을 때 비로소 깨달았다. 난 문제를 '이해'한 게 아니라, 그냥 몇 번 선지가 답이었는지를 '암기'하고 있었다. 기출을 공부한 게 아니라, 그저 익숙함에 취해 눈만 굴렸던 것이다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 이후 공부법을 통째로 바꿨다. 답을 맞히는 건 무의미했다. 출제위원이 왜 이 매력적인 오답 선지를 설계했는지, 정답으로 가는 연결고리는 지문 어디에 숨겨두었는지 그 뼈대와 논리를 집요하게 파헤쳤다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "진짜 수능 날, 생전 처음 보는 지문 속에서도 출제자의 의도가 훤히 읽히는 경이로운 경험을 했다. \"기출이 전부다\"라는 말은 기출문제를 외우라는 뜻이 아니라, 출제자의 사고 회로를 내 뇌에 그대로 이식하라는 뜻이었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-21T15:01:59.857043Z"
+  },
+  {
     "id": "story-20260821070156",
     "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
     "publisher": "수학주식",
