@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260821230154",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 D-100, 모의고사 성적표에 선명히 찍힌 '평균 4등급'을 보고 머리가 아득해졌다. 남은 100일 동안 기출만 제대로 파보겠다는 무모한 결심으로, 먼지 쌓인 독서실 책상에 앉아 첫 페이지를 넘겼다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "지옥 같았던 1회독은 말 그대로 처참함의 연속이었다. 수학 기출문제의 절반 이상에 빨간 비가 내렸고, 아픈 손목을 부여잡으며 새벽 3시까지 해설지를 필사하듯 분석하며 버텼다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "겨우 끝내고 시작한 2회독에선 답이 외워져 다 안다고 착각했다. 하지만 9월 모의고사 날, 살짝 변형된 낯선 비문학 지문 앞에서 머릿속이 새하얗게 굳어지며 손끝에서 식은땀이 흘렀다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "좌절을 딛고 들어간 대망의 3회독, 이번엔 문제의 본질을 파고들었다. 왜 이 선지가 오답인지 출제자의 머릿속을 들여다보듯 끈질기게 분석하자, 비로소 출제 공식과 구조가 뚜렷하게 보이기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그리고 맞이한 수능 날, 긴장감으로 가득한 교실에서 국어 시험지를 펼친 순간 소름이 돋았다. 기출을 3회독 하며 수백 번 분석했던 지문의 논리적 흐름이 그대로 눈에 보였고, 나는 확신에 찬 펜을 거침없이 움직였다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결과는 인생 최초의 올 1등급. 불가능해 보였던 100일의 기출 3회독은 나를 기적의 주인공으로 만들었고, 마침내 나는 합격 수기를 쓰는 영광을 누리게 되었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-21T23:01:54.498731Z"
+  },
+  {
     "id": "story-20260821150159",
     "title": "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
     "publisher": "수학주식",
