@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260821070156",
+    "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대치동에서 월 200만 원씩 쓰며 1타 강사 실전 모의고사를 풀 때만 해도 내 성적도 그 화려한 라인업을 따라갈 줄 알았다. 무거운 교재 가방을 메고 매일 숨 막히는 강의실로 향하면서, 나는 '공부를 아주 잘하고 있다'는 착각에 깊이 빠져 있었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 6월 평가원 모의고사 날, 시험지가 사정없이 넘어가는 서늘한 소리 속에서 나는 머리가 하얗게 비어버렸다. 주야장천 쏟아부은 학원비가 무색하게 내 등급은 여전히 차가운 '3등급'에 멈춰 있었고, 목덜미로 식은땀이 흘러내렸다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"이대로는 답이 없다.\" 결국 대치동 학원들을 전부 환불하고, 독서실에 틀어박혀 오직 투박한 평가원 기출문제집 한 권만 책상에 올려놓았다. 아무런 사설 해설도, 1타 강사의 스킬도 없는 날것 그대로의 시험지였다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "처음엔 지독한 막막함뿐이었다. 학원 필기 없이 혼자 힘으로 수학 4점짜리 기출을 풀려니, 단 한 줄도 내려가지 않는 펜 끝을 보며 내가 그동안 '남의 공부'를 내 실력으로 착각했다는 무서운 절망감이 몰려왔다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그렇게 한 문제에 3시간을 매달려 출제자의 의도를 곱씹던 순간, 갑자기 머릿속의 안개가 걷히며 출제 원리의 뼈대가 눈앞에 선명히 보였다. 공식 암기가 아닌, 평가원이 요구하는 집요한 논리적 흐름이 온몸으로 깨달아지는 소름 돋는 순간이었다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 이후 기출을 관통하는 눈을 얻었고, 마침내 실제 수능에서 흔들리지 않는 안정적인 1등급을 쟁취했다. 진짜 공부는 화려한 대치동 강의실이 아니라, 홀로 시험지와 치열하게 사투를 벌이던 그 고독한 책상 위에서 시작되는 법이다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-21T07:01:56.035263Z"
+  },
+  {
     "id": "story-20260821014914",
     "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
     "publisher": "수학주식",
