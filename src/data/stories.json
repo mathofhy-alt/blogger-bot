@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260822014228",
+    "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대치동 일타 강사 교재를 다 버리고 독서실 1인실을 끊었을 땐, 수능 만점도 쉬울 줄 알았다. 학원 이동 시간만 아껴도 혼자 기출 돌리며 금방 1등급을 굳힐 거라 자신했다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 평가원 기출을 펼친 지 딱 30분 만에 등줄기에 식은땀이 흐르기 시작했다. 분명 인강에서 들을 땐 다 알 것 같았던 지문인데, 나 혼자서는 단 한 문장도 제대로 독해가 안 됐다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "화려한 스킬만 외웠지 정작 '스스로 생각하는 법'을 잃어버렸다는 사실을 깨달은 순간, 온몸이 굳었다. 째깍거리는 아날로그시계 소리가 심장을 조여왔고 시험지의 하얀 여백이 공포로 다가왔다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "새 문제를 푸는 양치기를 멈추고, 3개년 평가원 기출의 한 줄 한 줄을 집요하게 뜯어보기 시작했다. 신기하게도 일타 강사의 비법이 아닌, '출제자가 정답을 숨겨둔 설계도'가 서서히 눈에 보였다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "기출의 본질을 뚫자 마침내 킬러 문항들까지 막힘없이 풀리며 온몸에 소름이 돋았다. 진짜 공부는 남의 화려한 강의를 감상하는 게 아니라, 내 머리를 쥐어짜는 고독한 시간 속에서 시작되는 법이었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-22T01:42:28.530704Z"
+  },
+  {
     "id": "story-20260821230154",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
