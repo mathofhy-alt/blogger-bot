@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260822150202",
+    "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "6월 모평 수학 시간, 21번까지 거침없이 풀어내며 오늘 무조건 1등급 각이라고 확신했다. 기분 좋은 긴장감 속에 가볍게 심호흡을 한 뒤, 드디어 공통과목의 마지막 관문인 마의 22번과 마주했다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "최고차항 계수가 1인 삼차함수? 조건도 생각보다 심플해 보여 속으로 '이거 3분 컷이다'라며 쾌재를 불렀다. 자신 있게 그래프 개형을 사각사각 그리기 시작할 때만 해도 앞날을 전혀 몰랐다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그런데 조건 (가)와 (나)를 연립할수록 식의 값이 이상하게 꼬여갔다. 등 뒤로 식은땀 한 줄기가 주르륵 흘렀고, 교실 속 사방에서 시험지 넘기는 '촤르륵' 소리만 귀가 먹먹할 정도로 크게 들려왔다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "순간 머릿속이 하얗게 비어버리는 '뇌정지'가 찾아왔다. 분명 아는 개념인데도 그래프의 교점이 어디인지 도무지 보이지 않아, 연필을 쥔 손끝만 덜덜 떨릴 뿐 아무것도 적지 못했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 시험지 구석에 찍기 국룰인 '4'를 적어 내고 터덜터덜 집으로 돌아왔다. 수만휘에 접속하자마자 실시간 인기 글에 '수학 22번 답 483 실화냐?'가 올라왔고, 나는 이불을 걷어차며 울부짖었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-22T15:02:02.110712Z"
+  },
+  {
     "id": "story-20260822070159",
     "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
     "publisher": "수학주식",
