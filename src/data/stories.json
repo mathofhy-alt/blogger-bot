@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260822070159",
+    "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고2 겨울방학, PC방 단톡방은 '오늘 롤 달릴 사람'으로 매일 불타올랐다. 하지만 모의고사 수학 4등급이 찍힌 성적표를 본 순간 머릿속이 차갑게 식으며 처음으로 친구들의 롤 초대를 거절했다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "다들 노는 크리스마스 이브에도 불 꺼진 독서실 구석에서 두꺼운 기출문제집을 펼쳤다. 헤드폰 너머 디스코드에서 들려오는 친구들의 비명 섞인 웃음소리를 뒤로한 채, 4점짜리 킬러 문항과 밤새 사투를 벌였다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "손가락에 굳은살이 박이고 코끝이 시린 새벽 3시, 평가원 기출 3개년 오답 노트를 세 번째 회독하던 밤이었다. 지독하게 물고 늘어지며 매일 코피를 쏟다 보니, 어느 순간 복잡하던 수1, 수2 그래프의 규칙이 보이기 시작했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 고3 3월 학력평가 날, 교실을 가득 채운 긴장감 속에서 시험지가 소란스럽게 넘어갔다. 예전 같으면 손도 못 대고 포기했을 수학 마지막 22번 문항을 마주한 순간, 겨울방학 동안 백 번도 넘게 그렸던 그래프의 궤적이 뇌리에 선명하게 그려졌다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "심장이 터질 것 같던 채점 시간, 시험지 위로 빨간 동그라미가 비처럼 내리치더니 마침내 수학 '1등급'이라는 기적이 찍혔다. 겨울 내내 플래티넘 티어 찍었다고 자랑하던 녀석들은 내 성적표를 보고 아무 말도 잇지 못했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "'겨울방학이 인생을 바꾼다'는 흔한 학원 광고는 진짜였다. 남들이 소환사의 협곡에서 허상을 쫓으며 시간을 버릴 때, 나는 매일 밤 기출을 씹어 먹으며 내 진짜 인생의 체급을 역전시켰다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-22T07:01:59.063109Z"
+  },
+  {
     "id": "story-20260822014228",
     "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
     "publisher": "수학주식",
