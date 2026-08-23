@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260823230203",
+    "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "중학교 때 수학은 늘 90점대라 고1 첫 모의고사도 껌인 줄 알았다. 3월의 교문을 들어설 때만 해도 내 앞에 펼쳐질 헬게이트를 전혀 예상하지 못했다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수학 시험지를 펼친 순간 숨이 턱 막혔다. 난생처음 보는 기괴한 도형과 복잡한 조건들이 사정없이 꼬여 있어 머릿속이 새하얗게 변해버렸다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "사방에서 사각사각 시험지 넘기는 소리가 천둥처럼 귀를 때렸다. 식은땀이 등줄기를 타고 흐르고, 시계 바늘은 야속하게 미친 듯이 달려갔다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "조심스레 가채점을 시작하자 빨간 비가 사정없이 내렸다. 채점 결과는 40점, 난생처음 받아보는 5등급이라는 숫자에 손이 벌벌 떨렸다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "집으로 가는 길, 눈물이 왈칵 쏟아졌다. 하지만 이대로 무너질 순 없다. 중학 수학의 자만을 버리고 오늘 밤부터 개념서를 다시 씹어 먹으리라 다짐했다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-23T23:02:03.689302Z"
+  },
+  {
     "id": "story-20260823150201",
     "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
     "publisher": "수학주식",
