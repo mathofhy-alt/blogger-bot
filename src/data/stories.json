@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260823070207",
+    "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "내신 1.2등급, 수능 모의고사 고정 1등급. 근거 없는 자신감에 차올라 '심심한데 경찰대 기출이나 풀어볼까?' 하고 독서실 프린터기로 호기롭게 시험지를 뽑았다. 이때까지만 해도 내가 ‘괴물’들의 영역에 발을 들인 줄 꿈에도 몰랐다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "1교시 국어 시험지를 펼치자마자 숨이 턱 막혔다. 수능 특강은 명함도 못 내밀 생소한 고난도 어휘들과, 여백을 빼곡히 채운 살인적인 지문 길이. 겨우 3페이지를 넘겼을 뿐인데 타이머는 이미 20분이 지나가고 있었다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "멘탈을 부여잡고 수학으로 넘어갔지만, 이건 더한 지옥이었다. 보통 수능 킬러 문항에나 쓰일 법한 더러운 계산 공식들이 초반 4번 문제부터 자비 없이 튀어나왔다. 볼펜을 쥔 손에 식은땀이 흥건해지며 머릿속이 새하얗게 변했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험이 끝나고 채점을 위해 빨간 펜을 들었다. 사정없이 그어지는 소나기 속에 내 자존심도 처참하게 찢겨 나갔다. '반타작만 해도 합격권'이라는 대학 커뮤니티의 글을 읽으며, 멍하니 독서실 천장만 바라보았다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "역시 경찰대는 평범한 공부쟁이가 아니라 진짜 '괴물'들이 경쟁하는 곳이었다. 겸손한 마음으로 시험지를 반으로 접어 서랍 깊숙이 넣었다. 오늘부터 헛바람 빼고 수능 공부나 죽어라 해야겠다는 뼈저린 교훈을 얻은 하루였다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-23T07:02:07.410276Z"
+  },
+  {
     "id": "story-20260823015228",
     "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
     "publisher": "수학주식",
