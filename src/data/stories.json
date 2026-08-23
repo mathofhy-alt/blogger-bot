@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260823150201",
+    "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "이번 수능 모의고사는 확실히 느낌이 좋았다. 21번까지 막힘없이 풀어내며 드디어 '고정 1등급'의 영광이 눈앞에 어른거렸다. 마지막 관문, 수학 공통과목의 최종 보스인 22번을 마주하기 전까지는 말이다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "삼차함수의 그래프 개형을 대충 그리고 조건을 대입하는데, '어? 이거 생각보다 쉽게 풀리겠는데?' 싶었다. 거침없이 샤프를 굴리며 수식을 적어 내려가던 그 순간까지만 해도 나는 내가 천재인 줄 알았다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "어라, 계산이 왜 이렇게 지저분하게 꼬이지? 사각사각 소리 내며 넘어가던 옆자리 녀석의 시험지 소리가 천둥처럼 귓가를 때렸고, 이마에서 차가운 식은땀 한 방울이 시험지 위로 툭 떨어졌다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "머릿속이 하얗게 비어버리더니, 쉬운 사칙연산조차 의심스럽기 시작했다. '설마 3 곱하기 4가 12가 아닌가?' 하는 말도 안 되는 의문이 꼬리를 물며 온몸의 감각이 마비되는 진짜 '뇌정지'가 찾아왔다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "남은 시간 5분, 시계 바늘이 미친 듯이 달려가는데 결국 풀이를 포기하고 수험생 국룰인 '-1, 0, 1, 2' 중에서 답을 찍기로 결심했다. 심장이 터질 것처럼 뛰며 OMR 카드에 번호를 마킹하는 손끝이 사정없이 떨렸다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험이 끝나고 수험생 커뮤니티에 올라온 해설 강의를 본 순간, 나는 허탈함에 실소를 터뜨렸다. 첫 단계에서 어이없는 더하기 실수 하나 때문에 그 쉬운 대칭성 조건이 안 보였던 거라니, 내 1등급이 허공으로 날아갔다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-23T15:02:01.850625Z"
+  },
+  {
     "id": "story-20260823070207",
     "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
     "publisher": "수학주식",
