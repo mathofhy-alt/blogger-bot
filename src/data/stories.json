@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260824230155",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 D-100일, 모의고사 만년 4등급 성적표를 받아 들고 온몸이 굳어버렸다. 남들은 이미 늦었다며 포기할 때, 나는 독서실 구석에서 역대 평가원 기출문제집을 마르고 닳도록 보겠다는 미친 계획을 세웠다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 기출 1회독은 그야말로 피눈물 흘리는 지옥이었다. 국어 비문학 지문은 까막눈처럼 튕겨 나갔고, 수학 4점짜리 킬러 문항들은 해설지를 통째로 베껴 쓰다시피 하며 겨우겨우 페이지를 넘겼다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "D-50, 겨우 지옥을 버텨내고 2회독에 들어가자 기적처럼 속도가 붙기 시작했다. '어? 이거 아는 문제네!' 하며 쓱쓱 풀려나가는 짜릿함에 취해, 나는 내가 엄청난 괴물이 된 줄 착각했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그 오만함은 9월 모평 날 무참히 깨졌다. 낯선 변형 문제 앞에서 땀만 뻘뻘 흘리며 멘탈이 바스러졌고, 기출의 '논리'가 아닌 '답'만 외웠던 내 공부법의 한계를 뼈저리게 느끼며 다시 주저앉았다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 한 달 전, 피눈물을 닦고 시작한 3회독은 완전히 달랐다. 답이 아니라 출제자가 깔아놓은 단서와 개념의 연결고리를 끈질기게 뜯어내며, 평가원의 출제 논리를 뇌에 그대로 각인시켰다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그리고 대망의 수능 날, 신기하게도 국어 비문학 지문 속 출제 위원들의 설계도가 머릿속에 입체적으로 그려졌다. 마침내 꿈에 그리던 불수능 최고 등급을 받고서야, 나는 비로소 웃을 수 있었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-24T23:01:55.580695Z"
+  },
+  {
     "id": "story-20260824150217",
     "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
     "publisher": "수학주식",
