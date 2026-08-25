@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260825014400",
+    "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "교육청 모의고사 고정 1등급 찍고 세상이 내 거 같던 고3 시절, '경찰대 기출이나 한번 풀어볼까?' 하며 오만하게 첫 장을 넘겼다. 독서실 백색소음 속에서 연필을 쥔 내 손끝에는 근거 없는 자신감이 흘러넘치고 있었음."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 1번 국어 문법 문제부터 머리가 띵해지더라. 수능 특유의 깔끔한 논리는 온데간데없고, 사설 모의고사에서도 거를 법한 극악무도하고 지엽적인 어휘들이 숨 쉴 틈도 없이 뺨을 사정없이 때려댔음."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "영어를 펼치니 이건 더 지옥이었음. 모르는 단어가 단 한 개도 없어야 정상인데, 생전 처음 보는 SAT 최고 난이도급 학술 어휘들이 사방에서 난무하자 등 뒤로 식은땀이 쫙 흐르면서 침이 꼴깍 넘어가더라."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수학은 계산 지옥 그 자체라 한 문제 풀 때마다 샤프심 한 통을 다 쓸 기세로 벅벅 풀었지만 결국 시간 초과. 떨리는 손으로 채점하는데 빨간색 소나기가 내리더니 겨우 '52점'이라는 처참한 숫자가 눈앞에 박힘."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "서울대 갈 성적 나와도 불합격한다는 경찰대 1차 시험의 악랄한 벽을 뼈저리게 실감한 하루였다. 찢어버리고 싶던 시험지를 오답노트에 붙이며 다짐했다, 수능 전까지 내 한계를 찢어발겨 보기로."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-25T01:44:00.963344Z"
+  },
+  {
     "id": "story-20260824230155",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
