@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260825230217",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 D-100일, 모의고사 성적표에 선명히 찍힌 수학 '4등급'을 보고 머릿속이 하얘졌다. 더 이상 물러설 곳이 없다는 간절함에 마지막 희망으로 가장 두꺼운 기출문제집 한 권을 사 들고 독서실로 향했다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "1회독은 그야말로 피눈물 나는 지옥이었다. 모르는 개념투성이에 시험지는 온통 빨간색 소나기가 내렸고, 새벽 2시 삐걱거리는 독서실 의자에 앉아 한 움큼의 식은땀을 닦아내며 자괴감에 남몰래 눈물을 삼켰다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "포기하고 싶은 마음을 짓누르고 시작한 2회독, 단순히 답을 외우는 것이 아니라 출제자의 의도가 조금씩 보이기 시작했다. 뻑뻑하던 샤프 끝이 막힘없이 움직이며 풀이의 실마리를 찾아갈 때 찌릿한 소름이 돋았다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 수능 20일을 남겨두고 너덜너덜해진 책의 3회독을 끝마쳤다. 이제는 문제 첫 줄과 발문만 읽어도 평가원이 파놓은 함정의 위치와 해법의 지도가 머릿속에 3D 입체 화면처럼 선명하게 그려지기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "운명의 수능 날 당일, 차가운 공기와 긴장감 어린 침묵이 감도는 교실에서 나는 떨지 않았다. 시험지를 한 장씩 넘기는 소리가 마치 내 승리를 예고하는 전주곡처럼 들렸고, 기출로 다져진 감각은 거침없이 정답만을 짚어냈다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-25T23:02:17.223720Z"
+  },
+  {
     "id": "story-20260825150202",
     "title": "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
     "publisher": "수학주식",
