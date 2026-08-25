@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260825150202",
+    "title": "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "현역 시절, 난 기출문제를 5회독이나 돌렸고 시험지 답까지 달달 외웠다. 9월 모평에서 가뿐히 1등급을 찍었을 때, 수능 수학은 이미 내 손바닥 안이라고 자만했었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 수능 당일, 시험지를 넘기는데 14번부터 숨이 턱 막혀왔다. 분명 기출을 완벽히 끝냈는데, 난생처음 보는 조건들 앞에서 식은땀만 시험지 위로 뚝뚝 떨어졌다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결과는 처참한 4등급. 재수를 결심하고 좁은 방 안에서 홀로 책상에 엎드려 엉엉 울었다. '기출이 전부라며, 난 하라는 대로 다 했는데 대체 어디서부터 잘못된 걸까?'"
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "독재학원에서 기출을 다시 펼쳤을 때 비로소 내 치부가 보였다. 나는 문제를 깊게 '분석'한 게 아니라, 단순한 풀이 과정과 유형을 '암기'해서 끼워 맞춰 풀었던 것이다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "'기출이 전부다'라는 말은 똑같은 문제가 또 나온다는 뜻이 아니다. 평가원이 힌트를 숨기는 은밀한 방식과, 개념을 연결하는 '생각의 설계도'가 늘 일관되다는 뜻이었다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그 본질을 깨닫고 나니, 다음 수능의 낯선 22번 킬러 문항에서도 익숙한 평가원의 목소리가 들렸다. 답을 외우지 말고 출제자의 뇌를 복사해라. 그게 기출의 진짜 의미다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-25T15:02:02.624286Z"
+  },
+  {
     "id": "story-20260825070204",
     "title": "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
     "publisher": "수학주식",
