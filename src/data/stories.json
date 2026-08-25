@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260825070204",
+    "title": "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"평가원 기출 5개년은 답까지 외웠지.\" 국어 1등급에 취해 수능을 만만하게 봤던 현역 시절. 내 오만함이 부러진 건 수능 당일 교실, 1교시 종이 울린 직후였다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "분명 아는 지문 같은데 머릿속이 하얘지며 글자가 튕겨 나갔다. 식은땀이 시험지 위로 툭 떨어지던 그 끔찍한 순간, 나는 직감했다. 이번 수능은 완전히 망했다는 것을."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "성적표에 찍힌 처참한 국어 4등급. 독서실 구석에서 재수를 시작하며 매일 밤을 지새웠다. \"기출이 전부라며 대체 왜?\" 그 허탈한 질문 끝에 나의 치명적인 오답을 발견했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "나는 기출을 '공부'한 게 아니라 단지 '암기'했던 것이다. 다시 시험지를 펼쳐 출제자가 오답 선지를 만드는 교묘한 공식과 함정의 패턴을 뼛속까지 해부하기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "'기출이 전부다'라는 건 지문을 외우라는 게 아니라, 출제자의 뇌를 복사하라는 뜻이었다. 문제와 선지 사이의 필연적인 연결고리가 보이며 안 풀리던 난제들이 풀리기 시작했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "다시 마주한 수능 시험장, 소름 돋게도 출제자의 의도와 함정이 투명하게 보였다. 가볍게 샤프를 굴리며 미소 지은 순간, 나는 비로소 기출의 진짜 의미를 온몸으로 깨달았다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-25T07:02:04.497815Z"
+  },
+  {
     "id": "story-20260825014400",
     "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
     "publisher": "수학주식",
