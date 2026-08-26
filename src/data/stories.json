@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260826014943",
+    "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "6평을 앞둔 밤, 국어 기출만 무려 5회독을 끝마친 나는 기세가 등등했다. 평가원의 출제 코드는 이미 완벽하게 마스터했다고 자만하며, 가벼운 마음으로 마지막 오답 노트를 정리하기 시작했다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 서로 다른 연도의 기출지 속 오답들을 나란히 받아적던 순간, 손끝이 찌릿하며 멈춰 섰다. 틀린 이유를 분석하는데, 내가 오답을 골라낸 오개념과 사고의 흐름이 소름 끼치도록 매번 똑같았기 때문이다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "머리를 세게 얻어맞은 기분이었다. 나는 기출을 제대로 '분석'한 게 아니라, 그저 회독 수가 늘어가면서 자연스럽게 외워진 '답의 번호'와 '지문의 익숙함'을 진짜 내 실력이라 착각하고 있었다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "출제자는 내 생각의 가장 약한 고리를 정확히 겨냥해 매력적인 오답 선지를 심어두고 있었다. 오답노트 위에서 내가 파놓은 똑같은 함정에 매번 스스로 기어들어 간 처참한 흔적들이 비로소 눈에 보이기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그때부터 해설을 베끼는 영혼 없는 공부를 멈췄다. 대신 '내가 왜 이 오답을 매력적으로 느꼈는지' 그 뇌 회로를 하나하나 해체해 기록하기 시작하자, 마침내 평가원의 출제 심리가 머릿속에 선명하게 그려졌다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그 후 치러진 수능 날, 사각거리는 시험지 소리 속에서도 내 심장은 차분하게 뛰었다. 오답노트를 쓰며 깨달은 '나만의 생각 교정법' 덕분에, 마침내 내 성적표엔 인생 최초의 '국어 1등급'이 선명하게 찍혔다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-26T01:49:43.837497Z"
+  },
+  {
     "id": "story-20260825230217",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
