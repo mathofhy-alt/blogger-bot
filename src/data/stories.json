@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260826150205",
+    "title": "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "국어 4등급을 받고 시작한 재수 생활. '기출만 5회독 돌리면 무조건 1등급'이라는 커뮤니티 글만 굳게 믿고, 무작정 두꺼운 기출문제집을 사서 기계처럼 답을 외우기 시작했습니다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "3회독, 4회독을 넘어가니 지문 첫 줄만 봐도 답이 3초 만에 보였습니다. '나 이제 기출 통달했네'라는 근거 없는 자신감에 도취되어, 시험지 여백에 동그라미를 칠 때마다 짜릿한 희열을 느꼈습니다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 대망의 6월 평가원 모의고사 날. 시험지를 넘기는 서늘한 소리와 함께 첫 페이지를 마주한 순간, 심장이 쿵 내려앉았습니다. 낯선 지문 앞에서 머릿속은 하얗게 변했고, 손끝이 덜덜 떨리기 시작했습니다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결과는 작년 수능과 똑같은 처참한 4등급. 독서실 비상구 계단에 주저앉아 울며 깨달았습니다. 나는 기출을 '분석'한 게 아니라, 그저 낯익은 활자와 정답의 위치를 '암기'하고 있었던 허깨비였다는 것을요."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 이후 펜을 쥐는 법부터 바꿨습니다. 답을 맞히는 게 아니라 출제자가 함정을 판 논리적 흐름과 오답의 이유를 역추적했습니다. 텍스트 자체가 아닌, 평가원이 문제를 만드는 '생각의 회로'를 뇌에 이식하기 시작했습니다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "기출이 전부라는 말의 진짜 의미는 '많이 풀라'는 게 아닙니다. 출제자의 뇌를 복사해 내 것으로 만들라는 뜻입니다. 지문을 마주했을 때 두려움 대신 출제자의 의도가 먼저 보이기 시작했다면, 당신은 진짜 기출 공부를 시작한 겁니다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-26T15:02:05.570311Z"
+  },
+  {
     "id": "story-20260826070231",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
