@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260826230208",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 D-100, 모의고사 성적표는 처참한 4등급. 모두가 '올해는 끝났다'며 재수를 권할 때, 나는 독기를 품고 두꺼운 기출문제집을 책상 위에 쿵 내려놓았다. 남은 시간 동안 이걸 딱 3번만 완벽하게 씹어먹겠다고 다짐하면서."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "첫 1회독은 그야말로 피눈물 나는 지옥이었다. 사각거리는 샤프 소리 사이로 시뻘건 비가 내렸고, 해설지를 읽어도 외계어 같아 밤마다 독서실 비상구에서 눈물을 쏟았다. 그래도 이 악물고 하루 14시간씩 버티며 1회독을 끝냈다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "D-50, 대망의 2회독 시작. 분명히 한 번 풀었던 문제인데 또 틀리는 순간, 머리가 하얗게 비어버리는 극심한 공포가 밀려왔다. 단순한 암기가 아니라 출제자의 의도를 읽지 못하면 100번을 풀어도 제자리라는 무서운 깨달음이 뼈를 때렸다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "D-30, 마지막 3회독에 돌입하자 기적이 시작됐다. 지문을 읽는 순간 평가원이 파놓은 함정의 위치가 입체적으로 보였고, 거침없이 시험지를 넘기는 소리가 독서실을 채웠다. 아는 것을 넘어 출제자의 머리 위에서 노는 듯한 전율이 온몸을 감쌌다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 당일, 1교시 국어 시험지가 배부되는 순간 심장은 터질 것 같았지만 눈빛은 살아있었다. 첫 장을 넘기자마자 3회독 때 체화했던 논리의 회로가 무의식적으로 작동하며 샤프가 망설임 없이 정답만을 향해 질주하기 시작했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결과는 당당한 '수능 국어 1등급'. 기출 3회독은 단순히 문제를 반복하는 작업이 아니라, 평가원의 출제 알고리즘을 내 뇌에 이식하는 과정이었다. 불안해하며 새로운 사설 문제집에 매달리지 마라, 정답은 언제나 기출에 있다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-26T23:02:08.817249Z"
+  },
+  {
     "id": "story-20260826150205",
     "title": "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
     "publisher": "수학주식",
