@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260827150213",
+    "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "맨날 3등급인 수학을 부수겠다고 다짐했다. 5개년 기출 시험지와 가위를 책상 가득 쌓아두고 오답 노트를 시작할 때만 해도 의욕이 넘쳤다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "틀린 문제를 자르고 풀로 붙이며 해설지 답안을 예쁘게 옮겨 적는 데 매일 몇 시간을 바쳤다. 하지만 정작 모의고사를 보면 똑같은 유형에서 또 비가 내렸다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "새벽 2시, 형광펜으로 화려하게 꾸민 오답 노트를 보다가 문득 등골이 오싹해졌다. 나는 공부를 한 게 아니라, '공부하는 척' 노동을 하며 자위하고 있었던 것이다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "가위를 던져버리고 빈 연습장을 폈다. 해설을 베끼는 대신 '내가 왜 이 오답의 함정에 빠졌는지' 내 잘못된 사고방식의 뼈대를 처절하게 해부해 적기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "내 뇌의 오작동을 교정하자 출제자의 의도가 훤히 보였다. 결국 수능 날 수학 시험지를 찢듯이 풀어나갔고, 내 인생 최초의 '불수능 수학 1등급' 성적표를 받았다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-27T15:02:13.021192Z"
+  },
+  {
     "id": "story-20260827085649",
     "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
     "publisher": "수학주식",
