@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260827230210",
+    "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고2 겨울방학식 날, 단톡방은 온통 '롤 배치고사 같이 볼 사람'으로 도배됐다. 수학 4등급인 나도 은근슬쩍 묻어가려 했지만, 문득 거울 속 내 한심한 모습에 소름이 돋았다. 이대로 살다간 정말 끝장이라는 서늘한 직감이 온몸을 덮쳤다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "피시방 대신 독서실로 직행해 롤을 지우고, 평가원 5개년 기출문제집을 펼쳤다. 첫날부터 겨우 3점짜리 비킬러 문항에서 막혀 식은땀이 흘렀지만, 이 악물고 해설지를 덮은 채 밤새 유도 공식을 적어 내려갔다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "새벽 3시, '야 롤 한 판만'이라는 친구들의 카톡을 무시한 채 오답 노트를 붙잡았다. 사각거리는 샤프 소리만 가득한 독서실에서, 차가운 공기에 손끝이 아려와도 펜을 놓지 않고 기출과의 사투를 이어갔다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "방학의 끝자락, 기출문제집을 3회독째 돌리던 날 머릿속에서 유레카가 터졌다. 외계어 같던 수학 킬러 문항의 복잡한 그래프들이, 출제자의 의도대로 쪼개지고 조립되며 한눈에 들어오는 기적이 일어났다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 찾아온 고3 첫 3월 학력평가 날, 교실엔 팽팽한 긴장감이 감돌았다. 방학 내내 게임만 하던 녀석들이 첫 페이지부터 머리를 쥐어뜯는 사이, 내 샤프는 막힘없이 시험지 위를 질주했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "가채점 결과 수학 96점, 압도적인 '1등급'. 성적표를 본 친구들의 동공이 사정없이 흔들렸다. 남들이 소환사의 협곡에서 헤맬 때, 기출이라는 진짜 전장에서 살아남아 완벽한 역전승을 거둔 순간이었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-27T23:02:10.033959Z"
+  },
+  {
     "id": "story-20260827150213",
     "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
     "publisher": "수학주식",
