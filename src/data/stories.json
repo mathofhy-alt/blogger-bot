@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260827085649",
+    "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "6월 모평 수학 점수를 받고 앞이 깜깜했다. 채점한 시험지엔 온통 빨간 비가 내렸고, 굳어버린 손가락으로 마주한 '4등급'이라는 숫자에 가슴이 덜컥 내려앉았다. '진짜 수포자가 답인가' 싶어 독서실 책상에 엎드려 한참을 흐느꼈다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "매일 똑같은 문제집만 붙잡고 제자리걸음을 하던 어느 날, 수험생 커뮤니티에서 \"수능적 사고력을 뚫으려면 사관학교 기출이 직빵\"이라는 댓글을 봤다. 밑져야 본전이라는 간절한 심정으로 사관학교 1차 시험지를 인쇄해 독서실로 돌아왔다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "첫 장을 넘기자 수능과는 결이 미묘하게 다른, 묵직하고 날카로운 문제들이 줄지어 나를 압도했다. 등줄기에 식은땀이 쭉 흘렀지만, 한편으로는 평가원 기출의 뻔한 공식에서 벗어난 낯선 자극에 온 신경이 곤두서기 시작했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "침을 꿀꺽 삼키며 개념서에서 배운 본질적인 정의들을 하나씩 꺼내 대입했다. 계산 과정은 혹독했지만, 개념의 뼈대를 정확하게 짚어내자 실타래처럼 엉켜 있던 최고난도 킬러 문항의 실마리가 마법처럼 스르륵 풀려나갔다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"사각사각\" 밤샘 공부의 적막을 깨는 샤프 소리 끝에 드디어 채점의 시간. 빨간 펜으로 매겨진 동그라미들이 시험지를 가득 채웠고, '나도 사관학교 고난도 문제를 풀 수 있다'는 짜릿한 전율이 머리부터 발끝까지 소름 돋게 퍼졌다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "사관학교라는 거대한 장벽을 깨부수고 나니, 그렇게 무섭던 수능 평가원 수학 시험지가 비로소 만만해 보이기 시작했다. \"나도 하면 된다\"는 확신과 함께, 죽어가던 수학에 대한 불타는 투지가 가슴 속에서 다시 뜨겁게 요동쳤다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-27T08:56:49.374653Z"
+  },
+  {
     "id": "story-20260827070207",
     "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
     "publisher": "수학주식",
