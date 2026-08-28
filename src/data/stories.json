@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260828230155",
+    "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "모의고사 수학 영역, 21번까지 15분 만에 찢고 '오늘 무조건 100점이다'라며 싱글벙글 시험지를 넘겼다. 사각거리는 샤프 소리만 가득한 교실 속에서, 내 손끝에는 근거 없는 자신감이 흘러넘치고 있었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그리고 마주한 대망의 22번, 조건은 단 두 줄로 눈이 편안할 만큼 깔끔했다. 최고차항 계수가 1인 삼차함수라니, '이거 삼차함수 비율 관계 쓰면 3분 컷이겠네'라며 가볍게 그래프를 그리기 시작했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그런데 이상했다. 대칭축을 이리저리 옮겨보고 극댓값을 아무리 조절해 봐도 조건을 만족하는 케이스가 단 하나도 없었다. 등 뒤로 식은땀이 한 줄기 흘러내렸고, 교실 벽시계의 초침 소리가 고막을 찌르기 시작했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "뇌세포가 단체로 파업을 선언한 것처럼 머릿속이 하얗게 물리기 시작했다. 쉬운 사칙연산조차 헷갈리는 지경에 이르렀고, 내가 1분 전에 직접 써놓은 식조차 이해하지 못하는 완벽한 '뇌정지' 상태에 진입했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "남은 시간 단 3분, 마킹도 해야 하는데 손이 벌벌 떨려 펜을 잡기조차 힘들었다. '에라 모르겠다, 평가원 삼차함수 문제 특성상 대칭성 있는 정수가 답이다'라며 가장 그럴듯한 숫자 '24'를 OMR 카드에 꾹 눌러 찍었다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험이 끝난 후 심장이 터질 듯한 마음으로 수험생 커뮤니티에 접속했다. '이번 22번 정답 24 실화냐?'라는 글들이 개념글을 도배하고 있는 것을 본 순간, 나는 교실 한복판에서 온몸에 소름이 돋은 채 소리 없는 비명을 질렀다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-28T23:01:55.876083Z"
+  },
+  {
     "id": "story-20260828150200",
     "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
     "publisher": "수학주식",
