@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260828110927",
+    "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 모평 수학 고정 1등급, 자칭 '이과 엘리트'였던 나. \"경찰대 수학? 그래봤자 고등학교 범위인데 별거 있겠어?\"라며 근거 없는 자신감으로 기출문제집의 첫 장을 호기롭게 넘겼다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 1번 문제를 마주한 순간, 머릿속이 일순간 정지했다. 한 번도 구경해 본 적 없는 해괴망측한 정수론 공식에 온몸에 소름이 돋았고, 손가락 끝에서부터 서늘한 식은땀이 흘러내리기 시작했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "서걱거리는 샤프 소리만 방 안을 가득 채울 뿐, 30분이 지나도 단 세 문제조차 제대로 해결하지 못했다. 시간 제한 압박에 심장은 터질 듯 뛰고, 하얀 시험지는 온통 내 좌절감이 묻은 가위표로 더러워졌다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "이어진 영어와 국어는 아예 다른 나라 언어 같았다. 고난도 어휘와 꼬일 대로 꼬인 지문들이 사정없이 명치를 때렸고, 수능은 선녀였다는 비참한 깨달음과 함께 내 멘탈은 형체도 없이 파괴되었다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "빨간 빗금으로 소나기가 내린 시험지를 보며 허탈한 헛웃음만 흘려보냈다. 수능 만점을 목표로 거만하게 굴던 내 자신이 한없이 작아 보였고, 세상의 벽이 얼마나 높고 견고한지 뼛속 깊이 체감했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "한참을 멍하니 있다가, 흩어진 멘탈을 부여잡고 오답 노트를 펼쳤다. 이번 처참한 패배를 자양분 삼아 독기 품고 다시 달리겠다 다짐하며, 진정한 괴물이 되기 위한 펜을 다시 쥐었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-28T11:09:27.455178Z"
+  },
+  {
     "id": "story-20260828070158",
     "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
     "publisher": "수학주식",
