@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260828070158",
+    "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대치동 1타 강사 현강을 들으며 앞자리를 사수하느라 목숨 걸던 시절. 매달 백만 원 넘는 돈을 쓰며, 난 수업만 들으면 무조건 1등급인 줄 알았다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 6월 평가원 국어 4등급 성적표를 받고 머리가 하얘졌다. 매주 학원에서 나눠주던 화려한 주간지 더미가 전부 무용지물처럼 느껴졌다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 대치동 학원을 전부 환불하고, 독서실 구석에서 홀로 평가원 기출문제집을 펼쳤다. 해설지도 덮고 오직 시험지 본문과 나만의 싸움을 시작했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "인강 스킬 없이 지문을 읽으려니 숨이 막혔다. 한 지문을 세 시간 동안 붙잡고 직접 논리를 뚫어내려 머리를 쥐어뜯으며 식은땀을 흘렸다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그 순간, 머릿속의 안개가 걷히며 평가원 출제위원들의 정교한 설계가 보였다. 정답과 오답이 나뉘는 필연적인 논리적 근거가 소름 돋게 다가왔다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "9월 평가원 모의고사 국어 백분위 99, 마침내 1등급을 찍었다. 진짜 공부는 화려한 명강의가 아니라, 고독하게 펜을 쥐고 고민하는 순간 완성된다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-28T07:01:58.177560Z"
+  },
+  {
     "id": "story-20260827230210",
     "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
     "publisher": "수학주식",
