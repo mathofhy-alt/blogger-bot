@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260828150200",
+    "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "6월 모평 수학 4등급 찍고 멘탈이 완전히 나갔어. 사설 실모를 풀 때마다 시험지에 빨간 비가 내리는데, 진짜 수학을 놓아야 하나 새벽 내내 커뮤니티만 새로고침하며 눈물 흘렸지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그러다 오르비에서 '사관학교 기출이 수능의 본질을 꿰뚫는다'는 댓글을 우연히 봤어. 밑져야 본전이라는 마음으로 제본소에서 두꺼운 사관 5개년 기출을 뽑아왔는데, 특유의 투박한 시험지 폰트부터 숨이 턱 막히더라."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "침을 꼴깍 삼키고 1번부터 풀기 시작했어. 수능이랑은 묘하게 다른 묵직함이 느껴지는데, 어라? 계산 과정만 더럽게 꼬아둔 사설 모의고사와 다르게 개념만 확실하면 톱니바퀴처럼 딱딱 맞물려 풀리는 거야."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "정신을 차려보니 2시간 동안 옆에 둔 얼음물이 다 녹을 때까지 펜을 놓지 않았어. 사설 문항에 가려져 보이지 않던 평가원 특유의 '출제 의도'가, 사관학교 기출을 디딤돌 삼아 드디어 내 눈에 보이기 시작한 거지."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 가장 악명 높은 22번 킬러 문항까지 내 힘으로 완벽하게 논리적 유도를 끝마친 순간, 온몸에 소름이 쫙 돋더라. '아, 나도 수학을 할 수 있는 머리였구나' 하는 전율이 머리끝까지 뻗쳤어."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "빨간 펜으로 채점을 하는데 시원한 동그라미가 시험지를 가득 채웠어. 사관학교 기출로 본질을 뚫고 나니까, 이제 수능 수학이 두렵기는커녕 빨리 시험장 들어가서 실력 발휘하고 싶어 미치겠다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-28T15:02:00.643177Z"
+  },
+  {
     "id": "story-20260828110927",
     "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
     "publisher": "수학주식",
