@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260829065413",
+    "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "모의고사 고정 1등급의 근거 없는 자신감으로 경찰대 기출에 도전했다. '수능보다 좀 더 어렵겠지' 하며 코웃음 치던 그때의 나를 정말 패버리고 싶다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "독서실 책상에 타이머를 맞추고 빳빳한 시험지를 기세 좋게 넘겼다. 사각거리는 샤프 소리와 함께 내 앞에 어떤 지옥이 펼쳐질지 전혀 모른 채로."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "영어 첫 장을 보자마자 뇌가 멈췄다. 생전 처음 보는 괴랄한 어휘들과 네 줄짜리 긴 문장들이 융단폭격을 퍼붓는데, 1번 문제부터 숨이 턱 막혔다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "급하게 수학으로 탈출했지만 거기도 지옥이었다. 보통 보너스인 1번부터 계산이 꼬이더니, 5번에 도달했을 땐 이미 샤프를 쥔 손이 떨리고 있었다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "타이머는 사정없이 흐르는데 푼 문제는 고작 대여섯 개. 내가 해온 공부가 통째로 부정당하는 기분에 온몸에 소름이 돋고 식은땀이 비 오듯 흘렀다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 반도 못 풀고 시험지를 던진 채 멍하니 앉아 있었다. 참교육 제대로 당하고 우물 안 개구리였음을 깨달은, 내 인생 가장 겸손해진 날이었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-29T06:54:13.564678Z"
+  },
+  {
     "id": "story-20260828230155",
     "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
     "publisher": "수학주식",
