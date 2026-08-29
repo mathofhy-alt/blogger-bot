@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260829150154",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 D-100, 모의고사 수학 4등급 성적표를 들고 온몸이 굳어버렸습니다. 이대로는 무조건 삼수각이라는 공포감에 휩싸여, 독서실 총무에게 가장 두껍고 악명 높은 기출문제집을 추천받아 자리로 돌아왔습니다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "1회독 때는 그야말로 피눈물이 흘렀습니다. 4점짜리 킬러 문항은 손도 못 대고 빨간 비가 내리는 시험지를 보며, 매일 밤 새벽 2시까지 식은땀을 흘리며 오답 해설을 연습장에 깜지 쓰듯 채워나갔죠."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 시작된 2회독, 신기하게도 막히던 문제들이 술술 풀리며 어깨에 잔뜩 힘이 들어갔습니다. '나 어쩌면 진짜 천재일지도?'라는 자만심에 취해 샤프 소리를 경쾌하게 울리며 속도를 높였습니다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 대망의 3회독째, 뒤통수를 해머로 맞은 듯 굳어버렸습니다. 정답을 외운 건지 개념을 이해한 건지 헷갈리기 시작했고, 막상 빈 종이에 풀이 과정을 쓰려 하니 단 한 줄도 적지 못하는 처참한 민낯을 마주했으니까요."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "울음을 삼키며 해설지를 갈가리 찢어 분석하기 시작했습니다. 출제자의 의도와 조건 하나하나를 뼈가 으스러지도록 씹어 삼키자, 마침내 복잡한 공식 너머에 숨겨진 평가원의 출제 논리가 눈앞에 선명한 지도로 펼쳐졌습니다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 당일, 시험지를 넘기는 삼엄한 바스락 소리 속에서 저는 미소를 지었습니다. 결국 4등급에서 당당하게 불수능 수학 1등급을 찍어내며 증명했습니다. 기출을 제대로 씹어먹는 3회독은 결코 배신하지 않습니다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-29T15:01:54.289908Z"
+  },
+  {
     "id": "story-20260829070202",
     "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
     "publisher": "수학주식",
