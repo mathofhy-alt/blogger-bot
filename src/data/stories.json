@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260829230157",
+    "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 내내 학교 수학은 무조건 1등급이었어. 유형서만 달달 외워도 전교 1등은 껌이었으니까 수능도 당연히 1등급일 줄 알았지. 이때까진 내 인생에 '3'이라는 숫자가 뜰 줄은 꿈에도 몰랐어."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대망의 수능 날, 2교시 수학 시험지가 배부되고 '시작' 벨이 울렸어. 사각거리는 시험지 넘기는 소리 사이로 기분 좋게 1페이지를 풀어나갔지. 역시나 아는 유형들이라 어깨가 절로 으쓱해졌어."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 공통과목 뒷장으로 넘어가면서 손끝이 차가워지기 시작했어. 내신 때 풀던 공식 암기형 문제와는 차원이 다른, 한 번도 본 적 없는 복잡한 그래프들이 쏟아져 나왔거든. 순간 머릿속이 하얘지며 뇌가 굳어버렸지."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "식은땀이 눈을 찌르고 시계 초침 소리는 심장박동보다 빠르게 들려왔어. 킬러 문항 한 문제에 15분을 날리고 나니 '종료 10분 전' 안내 방송이 나오더라고. 떨리는 손으로 OMR 카드에 번호를 찍어 내리는데 눈앞이 아득해졌어."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 성적표에 찍힌 수학 '3등급'. 암기식 내신 공부에 취해 진짜 수능적 사고력을 기르지 않았던 대가는 너무나 잔인했어. 성적표를 쥔 채 꺼진 불 밑에서 밤새도록 눈물을 흘리며 오열했어."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-29T23:01:57.885864Z"
+  },
+  {
     "id": "story-20260829150154",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
