@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260829070202",
+    "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "중학교 땐 나름 전교권에서 놀았으니 고1 첫 3월 모의고사 따위 가볍게 씹어먹을 줄 알았다. 시험지를 배부받고 교실에 가득 찬 팽팽한 긴장감 속에서도 내 근거 없는 자신감은 하늘을 찌르고 있었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 2페이지를 넘기는 순간, 머릿속이 하얗게 포맷되는 끔찍한 기분이 들었다. 사방에서 들리는 서걱거리는 시험지 소리에 심장 소리는 커져만 갔고, 낯선 기호들 앞에서 식은땀이 등줄기를 타고 흘렀다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "남은 시간은 고작 10분인데 풀 수 있는 문제는 전혀 보이지 않았고, 눈물 흘릴 여유조차 없었다. 결국 평생 한 번도 해본 적 없는 '한 번호로 기둥 세우기'를 시전하며, 종소리와 함께 내 멘탈도 바스러졌다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "야자를 마치고 집에서 떨리는 손으로 채점 사이트를 켰을 때, 내 시험지엔 빨간 비가 내리다 못해 폭우가 쏟아졌다. 화면에 뜬 내 수학 점수는 처참한 '40점', 태어나서 듣지도 보지도 못한 5등급이 선명하게 박혀 있었다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 밤 베개를 적시며 엉엉 울었지만, 이대로 무너질 수는 없다는 오기가 생겼다. 고등 수학의 매운맛을 뼈저리게 깨달은 나는, 40점짜리 시험지를 책상 앞에 붙여두고 밑바닥부터 진짜 공부를 시작하기로 결심했다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-29T07:02:02.738208Z"
+  },
+  {
     "id": "story-20260829065413",
     "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
     "publisher": "수학주식",
