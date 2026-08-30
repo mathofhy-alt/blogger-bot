@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260830070207",
+    "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "만년 2등급에 갇혀있던 10월의 새벽 1시, 독서실 불빛 아래서 수학 기출문제집을 펼쳤습니다. 사각거리는 연필 소리 너머로 '이번엔 꼭 1등급을 받겠다'는 비장한 결의만 가득했죠."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "악명 높은 미적분 30번 킬러 문항을 빨간 펜과 형광펜으로 오답노트에 정성껏 옮겨 적기 시작했습니다. 해설지의 화려한 풀이법을 그대로 베끼며, 마치 내가 수학 천재가 된 듯한 착각에 취해있었죠."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그때 문득 이전 페이지들을 훑어보다가 뒤통수를 세게 맞은 듯 손끝이 얼어붙었습니다. 석 달 전 틀렸던 개념을 오늘 똑같이 틀렸더군요. 제 오답노트는 그저 불안감을 감추기 위한 '예쁜 필기 쓰레기통'이었습니다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "식은땀이 흐르며 머릿속이 하얘졌습니다. 당장 화려한 펜들을 치워버리고, 거친 이면지 한 장을 꺼내 들었죠. 남에게 보여주기 위한 예쁜 정리가 아니라, 출제자의 의도를 뼛속까지 파헤치는 진짜 싸움을 시작한 겁니다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "해설지를 덮고 오직 발문 속 조건만으로 밤새 사투를 벌인 끝에, 꽁꽁 숨겨져 있던 함수의 대칭성이 눈에 보이기 시작했습니다. 막혔던 뇌 세포가 뚫리며 쾌감이 몰려왔고, 태어나서 처음으로 수학을 지배했다는 전율이 일었습니다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 날 수학 만점을 받고 커뮤니티에 이 수기를 쓰며 확신합니다. 진짜 공부는 손이 예쁘게 움직이는 게 아니라, 머리가 찢어질 듯 고통스럽게 고민하는 순간에 비로소 시작된다는 것을요."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-30T07:02:07.460582Z"
+  },
+  {
     "id": "story-20260830050819",
     "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
     "publisher": "수학주식",
