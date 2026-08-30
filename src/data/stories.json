@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260830230153",
+    "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "6월 모평 수학 영역, 21번까지 기적처럼 막힘없이 풀려나갔다. 이번에야말로 만점 받아 의대 가나 싶어 심장이 터질 듯 요동쳤고, 드디어 대망의 공통과목 마지막 22번과 마주했다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 문제를 읽는 순간 숨이 턱 막혔다. 최고차항 계수가 1인 삼차함수라더니, 조건에 절댓값과 극한이 기괴하게 얽혀 있는 걸 본 순간 머릿속 회로가 완전히 정지해 버렸다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "샤프를 쥔 손에 식은땀이 흥건해져 연습장만 연신 벅벅 문질렀다. 시계 바늘은 초 단위로 미친 듯이 달려가는데, 그래프 개형은 머릿속에서 어지럽게 꼬여만 가며 가슴이 조여왔다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "사방에서 사각사각 시험지 넘기는 소리가 환청처럼 고막을 때렸다. '나 빼고 다 풀었나?' 하는 공포심에 눈앞이 하얗게 흐려졌고, 1+1조차 계산 못 할 것 같은 무기력함이 덮쳐왔다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "남은 시간 단 5분, 포기하려던 찰나 숨겨진 조건 하나가 뇌리를 스쳤다. 혹시 극댓값과 극솟값이 일치하는 특이한 상황인가? 미친 사람처럼 샤프를 놀리며 수식을 적어 내려갔다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "종치기 30초 전, 극적으로 구해낸 답 '13'을 OMR 카드에 벌벌 떨며 마킹했다. 시험 종료 종이 울림과 동시에 온몸의 힘이 쭉 빠졌지만, 짜릿한 전율이 발끝부터 머리끝까지 소름 돋게 퍼졌다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-30T23:01:53.540963Z"
+  },
+  {
     "id": "story-20260830150201",
     "title": "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
     "publisher": "수학주식",
