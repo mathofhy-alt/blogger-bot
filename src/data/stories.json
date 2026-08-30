@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260830050819",
+    "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대치동 일타강사 대기표를 끊어가며 실모(실전 모의고사) 박스를 실어 나를 때만 해도, 난 내가 이미 명문대에 합격한 줄 알았다. 가방 가득한 대치동 대형 학원들의 비밀 교재들을 보면 왠지 모를 근거 없는 자신감이 차올랐으니까."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 9월 모의고사 성적표는 처참한 3등급. 일타강사의 화려한 풀이쇼를 보며 고개를 끄덕이던 시간은 내 실력이 아니라 그저 넷플릭스를 보던 관객의 감상에 불과했다는 걸 깨닫고, 그날로 대치동 모든 학원을 환불했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "독서실 구석, 아무런 해설도 적혀있지 않은 투박한 평가원 기출 시험지만 홀로 마주했다. 대치동에서 배운 온갖 화려한 꼼수와 공식들을 다 빼고 나니, 4점짜리 수학 문항 앞에서 손이 덜덜 떨리며 등 뒤로 식은땀이 흘렀다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "‘다시 처음부터 하자.’ 일타 강사들의 억지스러운 공식을 머릿속에서 지우고, 문제의 발문과 조건을 교과서 기본 개념에 맞춰 아주 천천히 한 줄씩 뜯어 읽기 시작했다. 신기하게도 복잡하게 꼬여있던 실타래가 하나씩 보이기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "‘아, 평가원 출제진은 꼼수가 아니라 바로 이 기본 정의를 원했던 거구나!’ 머릿속에 번개가 친 듯 출제자의 의도가 투명하게 보였다. 소름 돋는 적막 속에서, 오직 내 연필이 사각사각 달리는 소리만이 독서실을 가득 채웠다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 수능 날, 막힘없이 문제를 풀어내며 당당하게 수학 1등급을 찍었다. 대치동의 백만 원짜리 비밀 유인물이 아니라, 내 스스로 치열하게 고민하고 씹어 삼킨 기출문제 몇 장이 나를 대학에 보냈다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-30T05:08:19.333369Z"
+  },
+  {
     "id": "story-20260829230157",
     "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
     "publisher": "수학주식",
