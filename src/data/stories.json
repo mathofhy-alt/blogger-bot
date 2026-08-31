@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260831230212",
+    "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 백일도 안 남았는데 수학은 만년 5등급. 6월 모평 기하 시험지를 받아 들고 머릿속이 하얘져서 결국 샤프를 내려놓았다. 진짜 이번 생에 수학은 포기해야 하나 싶어 눈물만 났다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "독서실 책상에 엎드려 울다가, 우연히 '사관학교 기출이 수능보다 깔끔하다'는 오르비 글을 봤다. 어차피 망한 거 밑져야 본전이라는 마음에, 떨리는 손으로 사관학교 기출을 인쇄해 왔다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "악명 높은 사관학교 문제라 긴장했는데, 웬걸? 꼬아내지 않고 되게 정석적이었다. 복잡한 말장난 대신, 그동안 개념서에서 지겹도록 봤던 공식들이 하나둘씩 눈에 밟히기 시작했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"어라? 이게 왜 풀리지?\" 사각사각 샤프 소리만 울리는 독서실에서 혼자 소름이 돋았다. 억지스러운 함정이 없으니, 내가 공부했던 기본기만으로도 답이 툭툭 떨어지는 기적을 맛봤다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "빨간 펜을 들고 채점을 하는데 동그라미가 비처럼 내렸다. 태어나서 처음 받아보는 수학 80점대 점수. 손끝이 찌르르 떨리면서 '나도 하면 되는구나'라는 확신이 온몸을 지배했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "사관학교 기출로 뇌가 뚫린 뒤로 신기하게 수능 시험지도 만만해 보이기 시작했다. 수학을 포기하려던 내 수험생활은 그날 이후 180도 바뀌었고, 이제 난 진짜 수능 1등급을 노린다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-31T23:02:12.072430Z"
+  },
+  {
     "id": "story-20260831150207",
     "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
     "publisher": "수학주식",
