@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260831070204",
+    "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 6월 모의고사 날, 수학 시험지를 받아 들자마자 머릿속이 하얘졌고 결국 성적표엔 선명한 '5등급'이 찍혔어. 매일 독서실 자리를 지켰는데도 쏟아지는 졸음과 패배감에 책상 위로 눈물만 뚝뚝 떨어지더라."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "불안한 마음에 남들이 다 푼다는 비싼 대치동 N제랑 실전 모의고사를 무작정 사서 풀었지만, 11번부터 막혀 식은땀만 흘렸지. 문제집만 높게 쌓여가고 실력은 그대로인 지옥 같은 굴레에서 완전히 길을 잃어버렸어."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"다 버리고 기출만 판다.\" 수능을 딱 100일 남겨두고, 나는 유행하는 사설 문제집을 전부 쓰레기통에 처박은 뒤 평가원 5개년 기출문제집 딱 한 권만 책상에 남겼어."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "단순히 답을 맞히는 게 아니라 출제위원이 왜 이 조건과 개념을 던졌는지 밤새도록 뜯어보자, 어느 순간 문제 속의 숨은 뼈대와 패턴이 보이기 시작하더라. 흐릿하던 수학적 직관이 새벽 2시, 마침내 머릿속에 번쩍이며 깨어났지."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대망의 수능 날, 사각거리는 시험지 넘기는 소리 속에서 수학 영역을 펼쳤는데, 거짓말처럼 모든 킬러 문항이 내가 분석했던 기출의 변형일 뿐이라는 확신이 들며 손끝이 짜릿해졌어."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결과는 당당한 '표점 대폭발 수학 1등급'. 기출이라는 본질 하나만 죽어라 팠던 내 집념이 옳았음을 증명한 순간, 심장이 터질 듯한 전율과 뜨거운 눈물이 온몸을 감쌌어."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-31T07:02:04.612225Z"
+  },
+  {
     "id": "story-20260831051607",
     "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
     "publisher": "수학주식",
