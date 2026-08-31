@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260831051607",
+    "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "중학교 땐 나름 수학 전교권이라 자부했어. 고1 첫 3월 모의고사 아침, 교실 자리에 앉아 컴싸를 만지작거리며 속으로 '스카이 어디 갈까' 건방진 김칫국을 마시고 있었지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 시험 시작 종이 울리고 시험지를 넘기는 순간, 머릿속이 새하얘졌어. 중학 수학과는 차원이 다른 괴물 같은 4점짜리 도형들이 내 눈을 비웃듯 노려보고 있더라고."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시계 초침 소리는 심장 소리처럼 커지는데 손끝만 벌벌 떨렸어. 결국 3점짜리 몇 개 간신히 풀고 나니 남은 시간은 단 5분, 소리 없이 흐르는 식은땀을 닦으며 결국 기둥을 세웠지."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "빨간 펜 채점 비가 내리더니, 성적표에 찍힌 점수는 처참한 '40점(6등급)'. 중학교 때 받아본 적 없는 충격적인 숫자를 마주하자 심장이 쿵 내려앉고 눈앞이 흐려지더라."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "집에 와서 불 꺼진 방에 누워 한참을 울다가 결심했어. '중학 식 단순 암기는 끝이다'라며 오답노트를 펴고, 공식 증명부터 뼈를 깎는 심정으로 다시 쓰기 시작했지."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그 처참했던 40점은 나를 진짜 수험생으로 만든 예방주사였어. 첫 모의고사 망쳤다고 세상 무너진 것 같은 너희들, 기죽지 마. 이제 진짜 싸움이 시작된 것뿐이니까."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-31T05:16:07.692166Z"
+  },
+  {
     "id": "story-20260830230153",
     "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
     "publisher": "수학주식",
