@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260831150207",
+    "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "평소 모의고사 고정 1등급이라 어깨가 잔뜩 들어가 있던 고3 시절, ‘경찰대 기출이나 풀어볼까?’ 하며 가벼운 마음으로 시험지를 뽑았다. 수능보다 조금 매운맛이겠거니 코웃음 치던 그때의 나를 패고 싶다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그런데 수학 1번 문제부터 숨이 턱 막혔다. 분명 한글로 적혀 있는데 머릿속을 거치지 않고 그대로 튕겨 나가는 기분이었고, 샤프를 쥔 손끝에서부터 서늘한 식은땀이 흘러내리기 시작했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수학을 겨우 넘기고 멘탈을 잡으려 펼친 영어는 더 가관이었다. 살면서 듣도 보도 못한 대학 전공 서적 수준의 고급 어휘들이 빽빽하게 들어찬 지문을 보며, 내가 배웠던 영어는 영어가 아님을 깨달았다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "째깍거리는 시계 소리가 심장 박동처럼 커지는데, 겨우 세 문제 풀었을 때 이미 제한 시간의 절반이 지나 있었다. ‘이건 사람이 풀라고 만든 게 아니다’라는 생각과 함께 내 안의 얄팍한 자존심이 와르르 무너졌다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "빨간 소나기가 무지막지하게 내린 채점 시험지를 마주하며 그날 밤 이불킥을 날렸다. 세상은 넓고 괴물은 진짜 많다는 걸 뼈저리게 느끼고, 나는 조용히 EBS 수능 특강을 펼쳐 겸손한 고3으로 돌아갔다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-08-31T15:02:07.971435Z"
+  },
+  {
     "id": "story-20260831070204",
     "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
     "publisher": "수학주식",
