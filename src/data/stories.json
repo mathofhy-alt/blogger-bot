@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260901070222",
+    "title": "수포자가 수능 수학 2등급 맞고 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 시절 수학 8등급, 숫자만 보면 머리가 아파 오던 진짜 '수포자'가 바로 나였다. 그런 내가 무슨 오기였는지 수능 당일, 수학 시험지 앞에 앉아 떨리는 마음으로 심호흡을 하고 있었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험 시작종이 울리고 사방에서 사각거리는 소리가 파도처럼 밀려왔다. 심장이 터질 것 같았지만, '딱 3점짜리 쉬운 것만 다 맞추자'는 심정으로 덜덜 떨리는 손으로 펜을 잡았다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그런데 거짓말 같은 일이 일어났다. 매일 밤 졸음을 쫓아가며 오답 노트에 적었던 공식들이 머릿속에서 유기적으로 연결되며, 막혀 있던 문제들의 해법이 기적처럼 보이기 시작했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "가장 두려워했던 4점짜리 준킬러 문항 앞에서도 도망치지 않았다. 이마에 식은땀을 뚝뚝 흘리며 수식을 풀어나갔고, 마지막 OMR 카드 마킹을 끝냈을 땐 온몸의 힘이 쭉 빠져나갔다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험이 끝나고 떨리는 마음으로 맞춰본 가채점. 틀린 개수를 세어보는데 온몸에 소름이 돋았다. 아무리 다시 계산해 봐도, 내 점수는 기적 같은 '안정적인 2등급'이었다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결과를 확인한 순간, 독서실 비상구 계단 구석에 주저앉아 성적표를 품에 안고 엉엉 소리 내어 오열했다. '나도 할 수 있다'는 안도감과 그동안의 무시가 떠올라 눈물이 멈추지 않았다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-01T07:02:22.897439Z"
+  },
+  {
     "id": "story-20260901045116",
     "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
     "publisher": "수학주식",
