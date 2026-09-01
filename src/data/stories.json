@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260901230204",
+    "title": "수포자가 수능 수학 2등급 맞고 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 6월 모평까지 수학은 늘 찍고 자던 7등급 '골수 수포자'였어. 수학 시간은 그저 합법적인 낮잠 시간이었고, 수능은 코앞인데 기적 같은 건 내 인생에 절대 없을 줄만 알았지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"네가 무슨 수학을 하냐\"는 친구들의 비웃음을 뒤로하고, 여름방학 때 중학 도형부터 다시 폈어. 매일 10시간씩 오답 노트를 피눈물 나게 붙잡으며 시험지 넘기는 소리가 환청으로 들릴 때까지 풀었지."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "드디어 수능 당일, 수학 시험지를 펼치는 순간 심장이 터질 것 같았고 손끝에는 차가운 식은땀이 흘렀어. 그런데 기적처럼, 지난 몇 달간 밤새워 분석했던 기출문제들의 공식이 머릿속에 번쩍이며 그려지기 시작하더라."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "초고난도 킬러 문항은 과감히 버리고, 내가 맞출 수 있는 문제를 이 악물고 완벽하게 풀어내겠다는 심정으로 샤프를 굴렸어. 종료 종이 울리는 순간, 온몸의 힘이 다 빠져나가며 하얗게 불태웠음을 직감했지."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 수능 성적표에 선명하게 찍힌 '2등급'을 확인한 순간, 교실 구석에서 참았던 눈물이 왈칵 쏟아졌어. 쓰레기 취급받던 내 노력이 처음으로 보상받았다는 생각에 복도에 주저앉아 평생 울 걸 다 울어버렸지."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-01T23:02:04.178034Z"
+  },
+  {
     "id": "story-20260901150204",
     "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
     "publisher": "수학주식",
