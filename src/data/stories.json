@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260901045116",
+    "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능을 딱 100일 앞둔 날, 모의고사 수학 5등급 성적표를 받고 멘탈이 완전히 터졌었다. 미적분 시험지만 보면 숨이 턱 막히고, '지금이라도 수학을 포기해야 하나' 진심으로 절망하던 참이었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그때 독서실 옆자리 전교 1등 녀석이 '심심할 때 풀어봐라'라며 사관학교 5개년 기출 문제집을 슥 던져주었다. 수능보다 훨씬 매운맛이라는 말에 오기가 발동해 덜컥 샤프를 쥐었다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "독서실 구석에서 잔뜩 쫄아붙은 채 문제를 풀기 시작했는데, 묘하게 수능이랑 다른 깔끔한 논리가 보였다. 식은땀을 흘리며 풀다 보니, 막혀있던 수학적 사고의 회로가 툭 터지는 기분이었다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "두근거리는 마음으로 빨간 펜을 들고 채점을 하는데, 비가 내릴 줄 알았던 시험지에 큼직한 동그라미들이 그려졌다. 생전 처음 받아보는 사관학교 기출 2등급, 온몸에 소름이 돋고 심장이 터질 듯 뛰었다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 이후 수능 기출을 다시 펼치자, 그렇게 나를 괴롭히던 문제들이 거짓말처럼 한눈에 해체되기 시작했다. '가장 어렵다던 시험도 뚫었는데 수능이 별거냐'라는 압도적인 자신감이 영혼까지 차올랐다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-01T04:51:16.877745Z"
+  },
+  {
     "id": "story-20260831230212",
     "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
     "publisher": "수학주식",
