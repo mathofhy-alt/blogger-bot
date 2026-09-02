@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260902041200",
+    "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "평소 교육청 모고 1등급이라 어깨에 힘 잔뜩 주고 '경찰대 기출이나 풀어볼까?' 하며 뽑았다. 독서실 책상에 빳빳한 시험지를 올려놓을 때만 해도 나의 앞날을 전혀 예상하지 못했다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그런데 1페이지를 넘기자마자 머릿속이 새하얗게 비어버렸다. 영어는 토플 뺨치는 괴랄한 단어들이 쏟아졌고, 수학은 1번부터 수능 킬러 문항급의 흉악한 포스를 풍기고 있었다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "독서실 안에서 나 혼자 식은땀을 뻘뻘 흘리며 샤프만 만지작거렸다. 시간은 벌써 30분이 흘렀는데 고작 3문제 풀었고, 내 모고 1등급 타이틀은 아무짝에도 쓸모없어졌다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "머리가 지끈거리고 속이 울렁거려 결국 손에서 샤프를 놓아버렸다. 수능 시험지는 양반으로 보일 만큼, 차원이 다른 난이도의 괴물 같은 문제들이 내 자존감을 산산조각 냈다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 시험지를 덮고 멍하니 독서실 천장만 바라봤다. '경찰대 준비하는 애들은 진짜 사람의 탈을 쓴 괴물이구나' 깨닫고, 조용히 수능 특강을 펴며 겸손하게 현실로 복귀했다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-02T04:12:00.845988Z"
+  },
+  {
     "id": "story-20260901230204",
     "title": "수포자가 수능 수학 2등급 맞고 오열한 썰",
     "publisher": "수학주식",
