@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260902230157",
+    "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "중학교 내내 수학 100점을 놓치지 않아 자신감이 하늘을 찔렀던 3월의 첫 모의고사 아침. '고등 수학도 씹어 먹어주마'라며 기세등등하게 첫 시험지를 펼쳤을 때만 해도 나의 미래를 전혀 의심치 않았다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 1번부터 4번까지 풀고 나니 숨이 턱 막혔다. 사방에서 시험지 넘기는 '사각사각' 소리가 귓가를 거칠게 때리는데, 내 눈앞의 기하와 수식들은 마치 외계어처럼 번쩍이며 식은땀만 흘러내렸다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "정신을 차려보니 남은 시간은 단 10분, 아직 손도 못 댄 4점짜리 킬러 문항들이 시험지 위에서 나를 비웃고 있었다. 심장이 터질 것처럼 쿵쾅거리는 소리를 들으며 결국 번호 하나로 기둥을 세우기 시작했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "야간 자율학습 시간, 빨간 플러스펜으로 가채점을 하는데 시험지에 사정없이 빗금이 그어지며 피비린내 나는 소나기가 내렸다. 최종 점수 '40점', 난생처음 마주한 5등급이라는 숫자에 눈앞이 새하얗게 흐려졌다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 밤 독서실 구석에 처박혀 퉁퉁 부은 눈으로 오답 노트를 폈다. 비참함을 넘어선 서늘한 오기가 가슴속 깊은 곳에서 끓어올랐고, 오늘 흘린 눈물을 자양분 삼아 수능 날 반드시 복수하겠노라 다짐했다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-02T23:01:57.772673Z"
+  },
+  {
     "id": "story-20260902150158",
     "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
     "publisher": "수학주식",
