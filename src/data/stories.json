@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260902150158",
+    "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "중학교 수학 90점대였던 나, 고1 첫 모의고사쯤은 껌일 줄 알았다. 내 손에 당연하게 1등급 성적표가 들릴 것이라 믿으며 어깨를 한껏 으스댔다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "드디어 시험 당일, 압도적인 크기의 B4 시험지가 책상 위에 깔렸다. 서늘한 교실 안, 사방에서 사각거리며 들려오는 날카로운 샤프 소리에 심장이 쿵쾅거리기 시작했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "겨우 4번 문제부터 머릿속이 완전히 하얘져 버렸다. 시계 초침 소리는 내 심장 박동보다 빨라지는데, 식은땀에 젖은 손가락 사이로 샤프가 자꾸만 미끄러졌다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "빨간 소나기가 우수수 내린 시험지 위, 처참하게 박힌 점수는 단 '40점'. 태어나서 한 번도 받아본 적 없는 5등급이라는 숫자에 눈앞이 핑 돌고 숨이 막혀왔다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "교실 안 잘 본 애들의 웃음소리 너머로 내 얄팍했던 공부법의 밑천이 드러났음을 깨달았다. 밀려오는 비참함을 삼키며, 수학 개념서 첫 페이지를 눈물로 다시 펼쳤다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-02T15:01:58.172851Z"
+  },
+  {
     "id": "story-20260902070216",
     "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
     "publisher": "수학주식",
