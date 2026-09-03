@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260903040826",
+    "title": "수포자가 수능 수학 2등급 맞고 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 내내 수학 7등급, 시험 때마다 3번으로 기둥만 세우던 개노답 수포자가 바로 나였어. 어느 날 '너는 인서울 절대 못 한다'는 담임의 차가운 독설을 듣고, 심장이 쿵 내려앉으며 지독한 오기가 생기더라고."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날부터 개념서만 10회독을 목표로, 손가락에 굳은살이 박히도록 기출문제를 찢어 발겼지. 매일 새벽 3시, 쏟아지는 졸음을 쫓으려 허벅지를 샤프로 찔러가며 밤새 코피를 쏟던 날들이 눈물겹게 이어졌어."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 대망의 수능일, 수학 시험지를 받자마자 교실엔 종이 넘기는 소리만 사각사각 울려 퍼졌어. 그런데 긴장한 탓인지 15번 킬러 문제에서 갑자기 숨이 턱 막히며 등 뒤로 식은땀이 흘러내리기 시작하더라."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "어떻게든 정신을 붙잡고 남은 문제들을 풀었지만, 시험 종료 종이 울린 순간 '아, 결국 조졌다'는 직감이 온몸을 때렸지. 채점할 엄두도 못 낸 채, 깜깜한 방구석에서 무릎을 꿇고 절망의 눈물만 질질 흘렸어."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그리고 성적표 나오는 날, 찢어버릴 각오로 펼쳐 든 내 수학 칸에는 기적 같은 '2등급'이 선명하게 박혀 있었어. 교실 한복판에서 주저앉아 꺼이꺼이 오열하는데, 담임 선생님마저 눈시울을 붉히며 날 안아주시더라."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-03T04:08:26.127019Z"
+  },
+  {
     "id": "story-20260902230157",
     "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
     "publisher": "수학주식",
