@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260903150159",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 D-100일, 수학 4등급 성적표를 쥐고 온몸이 부르르 떨렸다. 이대로 가다간 평생 후회할 것 같아, 두꺼운 기출문제집을 독서실 책상에 쾅 내려놓았다. '딱 3번만 제대로 씹어 먹는다.'"
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "기세 좋게 시작한 1회독은 그야말로 피눈물 나는 지옥이었다. 채점할 때마다 빨간 비가 내렸고, 손가락에 굳은살이 박이도록 밤새 오답 노트를 적으며 식은땀을 흘렸다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고통 끝에 맞이한 2회독, 신기하게도 문제가 술술 풀리기 시작하며 심장이 세차게 뛰었다. '나 어쩌면 천재일지도?'라며 근거 없는 자신감이 차올라 책장 넘기는 소리가 경쾌해졌다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 대망의 3회독 날, 아무것도 적혀있지 않은 백지 모의고사를 풀자 머릿속이 하얗게 굳어버렸다. 내가 문제를 이해한 게 아니라 단순히 답을 외우고 있었다는 소름 돋는 깨달음이 스쳤다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "정신을 바짝 차리고 처음부터 다시, 풀이 과정의 '원리와 이유'를 집요하게 파고들기 시작했다. 단순 암기를 넘어 출제자의 의도가 안개 속에서 걷히듯 선명하게 보이던 전율의 순간이었다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 수능 날, 시험지를 넘기는 긴장감 가득한 교실 속에서 나는 더 이상 떨지 않았다. 기출 3회독이 손끝에 새겨준 완벽한 확신을 믿으며, 거침없이 정답을 적어 내려갔다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-03T15:01:59.226285Z"
+  },
+  {
     "id": "story-20260903070155",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
