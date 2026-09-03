@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260903070155",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 D-100, 6평 국어 4등급 성적표를 받고 눈앞이 캄캄해졌습니다. 재수는 절대 없다는 생각에, 커뮤니티에서 추천받은 두꺼운 기출문제집을 독서실 책상에 쾅 내려놓으며 '이거 딱 3회독만 제대로 조진다'고 눈물을 머금고 다짐했습니다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "1회독은 그야말로 피눈물 나는 지옥이었습니다. 새벽 2시, 독서실에 홀로 남아 졸음을 쫓으려 매운 껌을 씹어가며 풀었지만, 맞은 문제보다 비 내리는 빨간 소나기가 더 많아 매일 밤 자괴감에 젖은 채 오답을 고쳤습니다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "힘겹게 시작한 2회독째, 신기하게도 지문이 술술 읽히기 시작했습니다. '어? 이 지문 정답 3번인데!' 하며 문제를 다 읽기도 전에 답이 보였고, 저는 제가 국어의 신이라도 된 양 근거 없는 자신감에 차올라 어깨가 으쓱해졌습니다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 9월 모평 날, 시험지를 넘기는 서늘한 소리와 함께 심장이 굳어버렸습니다. 단순 암기했던 답은 아무 소용 없었고, 낯선 지문 앞에서는 눈이 핑핑 돌며 식은땀만 줄줄 흘린 채 처참하게 무너져 내렸습니다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "정신을 바짝 차리고 시작한 마지막 3회독은 '답'이 아닌 '평가원의 출제 코드'에 집착했습니다. 정답의 근거가 지문의 어느 문장과 연결되는지 악착같이 형광펜으로 잇다 보니, 비로소 출제자의 뇌 구조가 눈에 보이기 시작했습니다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능을 코앞에 둔 지금, 사설 모의고사의 괴랄한 킬러 지문도 막힘없이 도식화하며 풀어내는 나를 발견합니다. 기출 3회독은 단순히 책을 세 번 넘기는 작업이 아니라, 평가원의 시야를 내 머릿속에 이식하는 치열한 과정이었습니다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-03T07:01:55.967270Z"
+  },
+  {
     "id": "story-20260903040826",
     "title": "수포자가 수능 수학 2등급 맞고 오열한 썰",
     "publisher": "수학주식",
