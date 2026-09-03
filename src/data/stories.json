@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260903230854",
+    "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "교육청 모의고사 고정 1등급, 수능 최저 따위는 껌이라 믿었던 고3 여름방학. 근거 없는 자신감에 가득 차 '경찰대 기출이나 한번 풀어볼까?'라며 가벼운 마음으로 시험지를 인쇄했다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "1교시 국어와 영어 시험지를 펼친 순간, 눈을 의심했다. 평생 구경도 못한 극악무도한 어휘들과 끝없이 이어지는 문장 구조에 숨이 턱 막혔고, 1번 문제만 다섯 번을 넘게 읽었다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "이건 머리 식힐 겸 수학이나 풀자며 넘겼더니 거긴 더 지옥이었다. 수능 킬러 문항을 가볍게 뛰어넘는 기괴한 기하와 수식들의 향연에, 펜 끝만 바르르 떨릴 뿐 아무것도 적지 못했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "째깍거리는 시계 소리가 심장 타격음처럼 들리기 시작했다. 등 뒤로 식은땀이 흘러내리고, 머릿속은 하얗게 지워진 채 텅 빈 OMR 카드만 멍하니 바라보며 손을 벌벌 떨었다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 채점 시간, 빨간펜으로 사정없이 그어지는 비바람 속에 내 점수는 처참한 '42점'. 전교권을 놀던 내 자존심은 갈가리 찢겨 나갔고, 현실 부정의 헛웃음만 흘러나왔다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "우물 안 개구리였던 내 자신을 뼈저리게 반성한 날. 비록 처참하게 짓밟혔지만, 이 매콤한 예방주사 덕분에 자만을 버리고 다시 겸손하게 펜을 쥘 독기를 충전했다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-03T23:08:54.359923Z"
+  },
+  {
     "id": "story-20260903150159",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
