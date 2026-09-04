@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260904041624",
+    "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 3월 학평, 빨간 소나기가 내린 수학 시험지를 받고 머리가 하얘졌다. 굳건한 5등급. 친구들이 기하 29번 답을 맞혀보며 웃을 때, 나는 시험지를 서랍 깊숙이 구겨 넣으며 억지로 눈물을 삼켰다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "남들이 다 듣는 비싼 1타 강사의 N제나 실모를 살 돈도, 시간도 없었다. 내가 선택한 것은 오직 '평가원 10개년 기출문제집' 단 한 권. 주변에선 개념도 없이 기출을 푸냐며 비웃었지만 나는 정면 돌파를 결심했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "6월 모의고사 성적은 여전히 4등급. 새벽 2시, 풀리지 않는 22번 문항을 붙잡고 씨름하다 결국 눈물이 왈칵 쏟아져 연습장을 적셨다. '내가 가고 있는 이 길이 정말 맞을까?' 하는 지독한 회의감이 온몸을 덮쳤다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "여름방학의 끝자락, 기출문제를 5회독째 돌리던 날 기적이 시작됐다. 낯선 모의고사 문제를 보는데 머릿속에서 '어? 이거 19학년도 수능 30번이랑 똑같은 논리잖아!' 하며 보이지 않던 출제자의 의도가 선명하게 그려졌다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "차가운 바람이 불던 수능 날, 사각거리는 시험지 넘기는 소리만 가득한 교실. 예전 같으면 심장이 터질 듯 떨렸겠지만, 수백 번 분석한 기출의 패턴 덕분에 내 손가락은 망설임 없이 킬러 문항의 식을 써 내려갔다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 마주한 수능 성적표, 수학 영역 옆에 당당히 박힌 '1등급'. 남들이 뻔하다고 비웃던 기출이라는 정석을 미련할 정도로 깊게 파고든 끝에, 나는 마침내 내 인생 가장 완벽한 역전극을 완성했다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-04T04:16:24.837382Z"
+  },
+  {
     "id": "story-20260903230854",
     "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
     "publisher": "수학주식",
