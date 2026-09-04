@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260904070209",
+    "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고등학교 내내 수학 내신은 늘 압도적인 1등급이었어. '수능 수학도 양치기로 어떻게든 비벼지겠지'라며 수능을 내신 시험의 연장선 정도로 쉽게 생각했던 게 내 지옥의 시작이었지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 당일, 차가운 시험장 공기 속에서 수학 시험지를 펼친 순간 싸한 소름이 돋았어. 1페이지를 넘기자마자 마주한 준킬러 문항들 앞에서 머리가 하얗게 비더니 첫 계산부터 꼬이기 시작하더라고."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "벼락치기 공식 대입에만 익숙했던 나에게 수능은 완전히 다른 사고력을 요구했어. 째깍거리는 시계 소리는 심장을 때리고, 식은땀으로 젖은 손가락 사이로 샤프심이 뚝뚝 부러지며 멘탈이 산산조각 났지."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 시험 종료 종이 울렸고, 집에 돌아와 가채점을 시작한 내 눈 앞은 순식간에 흐려졌어. 비가 내리는 가채점 표 위로 선명하게 찍힌 원점수, 마킹 실수조차 없는 빼도 박도 못할 '3등급'이었어."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 밤 이불을 뒤집어쓰고 목이 쉬어라 오열하며 뼈저리게 깨달았어. 요령과 단순 암기로 만든 가짜 1등급의 오만에 취해, 수능 수학의 깊이를 무시했던 대가는 너무나도 시리고 잔인하다는 걸."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-04T07:02:09.855930Z"
+  },
+  {
     "id": "story-20260904041624",
     "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
     "publisher": "수학주식",
