@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260904230155",
+    "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "6월 모평 수학 성적표에 찍힌 선명한 '5등급'. 반 친구들의 웃음소리 뒤로 식은땀이 차갑게 흐르고, 내 대입 수험 생활은 이대로 끝난 줄로만 알았다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"학원 다 끊고 딱 기출 한 권만 죽어라 판다.\" 불안감에 심장이 뛰었지만, 책상 위에 덩그러니 놓인 두꺼운 평가원 기출문제집을 펴며 주먹을 꽉 쥐었다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "처음엔 4점짜리 한 문제에 30분이 넘게 걸렸다. 해설지를 멀리하고 '평가원이 왜 이 조건을 줬을까' 밤새 집요하게 고민하며 연습장을 눈물로 채워나갔다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "기출을 5회독째 돌리던 어느 새벽, 머릿속이 번쩍였다. 낯선 고난도 문제들 속에서 평가원 특유의 출제 공식과 의도가 마법처럼 투명하게 보이기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대망의 수능 날, 긴장감 속에 수학 시험지를 넘기는데 소름이 돋았다. 모든 문제가 내가 씹어 먹었던 기출의 변형일 뿐이었고, 내 샤프는 멈춤 없이 나아갔다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "가채점 결과는 내 인생 최초의 '수학 1등급'. 기출만 제대로 파도 대학 간판이 바뀐다는 걸 온몸으로 증명해 낸 순간, 참았던 뜨거운 눈물이 왈칵 쏟아졌다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-04T23:01:55.451472Z"
+  },
+  {
     "id": "story-20260904150203",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
