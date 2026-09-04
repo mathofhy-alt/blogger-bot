@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260904150203",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 D-100, 만년 수학 4등급 성적표를 받고 머리가 하얘졌다. 이대로는 가고 싶은 대학 근처에도 못 가겠다는 절박함에, 수험생 커뮤니티에서 극찬하는 두꺼운 기출문제집을 덜컥 구매했다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "1회독은 지옥 그 자체였다. 빨간색 오답 비가 내리는 시험지를 보며 자괴감이 몰려왔지만, 새벽 2시 불 꺼진 독서실에서 연필 가루를 손에 묻혀가며 꾸역꾸역 한 장씩 넘겼다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 끝낸 2회독, 마법처럼 문제가 술술 풀리기 시작했다. 스치듯 봐도 풀이법이 떠오르자 '나 천재인가?' 하는 착각과 함께 명문대 캠퍼스를 거니는 행복한 상상에 부풀었다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 9월 평가원 모의고사 날, 시험지를 펼치자마자 온몸에 소름이 돋았다. 단순히 답과 풀이 과정을 외워 풀던 나쁜 버릇 때문에, 조금만 꼬아 낸 신유형 앞에서는 손도 대지 못하고 무너졌다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "눈물의 피드백 끝에 깨달았다. 진짜 '회독'은 답을 맞히는 게 아니라 평가원의 출제 의도와 출제 원리를 뜯어보는 것임을. 남은 한 달은 한 문제를 풀더라도 풀이의 근거를 집요하게 추적했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대망의 수능 날, 신기하게도 수학 시험지를 펼치자 내가 분석했던 평가원의 설계도가 선명하게 보였다. 떨림은 확신으로 바뀌었고, 마침내 내 인생 최고 점수인 '1등급'을 쟁취해냈다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-04T15:02:03.268026Z"
+  },
+  {
     "id": "story-20260904070209",
     "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
     "publisher": "수학주식",
