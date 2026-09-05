@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260905150151",
+    "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "매주 대치동 일타강사 현강 자료를 가방 가득 담아오며 기분에 취해 있었다. 하지만 내 성적표에 박힌 국수영 등급은 여전히 차가운 '평균 3등급', 내 공부가 아닌 강사의 쇼를 구경했을 뿐이었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"이렇게는 답이 없다.\" 부모님께 죄송함을 무릅쓰고 대치동 학원을 전부 환불했다. 독서실 책상에 앉아 오직 껍데기뿐인 찌라시 교재 대신, 두툼한 평가원 기출문제집 한 권만 올려놓았다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "일타강사의 현란한 야매 스킬이 사라진 빈자리, 날것의 4점짜리 수학 문제 앞에서 완전히 얼어붙었다. 고요한 독서실 안에서 연필도 대지 못한 채, 등 뒤로 식은땀이 흘러내리기 시작했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "해설지를 찢어 버리고, 한 문제에 2시간씩 매달렸다. 땀을 쥐며 개념서와 시험지를 수없이 오가자, 새까만 연필가루가 묻은 손끝에서 드디어 막혔던 논리의 실타래가 서서히 풀리기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"아, 이래서 이 조건을 줬구나!\" 머릿속 기어들이 딱 맞물리며 온몸에 소름이 돋았다. 출제자가 숨겨놓은 일관된 출제 원리가 눈앞에 훤히 보이자, 나도 모르게 헛웃음이 터져 나왔다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 이후 내 모의고사 성적표는 단 한 번도 1등급 내려간 적이 없다. 진짜 공부는 화려한 명강의를 들을 때가 아니라, 홀로 뇌가 녹아내릴 듯 치열하게 고민하는 순간 시작된다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-05T15:01:51.525414Z"
+  },
+  {
     "id": "story-20260905070200",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
