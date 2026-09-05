@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260905041122",
+    "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대치동에서 매달 백만 원 넘게 쓰며 1타 강사들의 실모를 산더미처럼 풀었어. 그런데 6월 모평에서 국어 3등급을 받자마자 머리가 하얘지더라. 남들 다 하니까 무작정 따라가던 내 공부가 완전히 가짜였다는 걸 깨달은 순간이었지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 부모님 반대를 무릅쓰고 대치동 학원들을 전부 그만뒀어. 독서실 구석자리에 혼자 앉아 화려한 사설 교재 대신 누런 평가원 기출시험지 한 장을 올려놓았지. 친구들의 걱정 섞인 카톡 속에서 내 심장은 터질 듯이 뛰었어."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "기출 시험지를 펼치고 펜을 쥐었는데 손끝이 미세하게 떨리더라고. 화려한 야매 스킬을 다 빼고 오직 지문과 일대일로 마주하니 알겠더라. 나는 그동안 글을 제대로 읽은 게 아니라, 그저 글자 위를 방황하며 스캔만 하고 있었던 거야."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "문장 사이의 연결고리를 찾기 위해 오직 한 지문만 세 시간째 붙잡고 씨름했어. 에어컨 바람 아래에서 이마에 식은땀이 송골송골 맺히던 그 순간, 믿을 수 없는 일이 일어났지. 출제자가 숨겨놓은 정교한 징검다리가 눈앞에 선명히 드러나기 시작한 거야."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"아, 이래서 정답이 이거구나!\" 머릿속에서 번개가 친 듯 소름이 돋았어. 꼼수가 아니라, 평가원이 파놓은 함정과 정답의 근거는 언제나 지문 속에 가장 투명하고 정직하게 숨겨져 있었던 거지. 비로소 평가원의 눈을 갖게 된 순간이었어."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 이후 내 마음속 불안은 완전히 사라졌어. 남들이 만든 자료에 휘둘리지 않고 오직 기출의 본질만 파고드니, 마침내 국어 고정 1등급이라는 벽이 깨지더라고. 진짜 공부는 비싼 강의를 듣는 게 아니라 내 손으로 직접 깨부수며 얻는 거였어."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-05T04:11:22.783800Z"
+  },
+  {
     "id": "story-20260904230155",
     "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
     "publisher": "수학주식",
