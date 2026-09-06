@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260906150155",
+    "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "매달 백만 원 넘는 대치동 대형 강의실 앞줄에 앉아, 일명 '1타 강사 실모'를 풀 때만 해도 내가 무적인 줄 알았다. 남들 다 아는 야매 스킬과 화려한 자료집만 끼고 있으면 무조건 수능 1등급은 따놓은 당상이라 믿었으니까."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"자료에만 의존하는 공부는 진짜가 아니다.\" 문득 스친 불안감에 대치동 학원을 전부 끊고 독서실로 들어갔다. 오직 평가원 기출문제집 한 권만 책상 위에 올려둔 채, 나만의 외로운 싸움을 시작했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 학원 강사의 해설지 없이 혼자 마주한 비문학 지문은 거대한 벽 같았다. 화려한 스킬을 적용하려 할수록 머릿속이 하얘졌고, 시험지 넘기는 소리만 가득한 독서실에서 혼자 식은땀을 흘렸다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"내가 여태껏 한 건 공부가 아니라 암기였구나.\" 채점할 때마다 쏟아지는 빨간 비에 가슴이 철렁 내려앉았다. 대치동 자료를 걷어내자 드러난 내 진짜 밑천은 겨우 턱걸이 3등급이었다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 모든 야매 스킬을 다 버리고, 문장과 문장의 유기적 연결에만 집착하며 지문을 씹어 먹듯 읽기 시작했다. 그렇게 보름쯤 지났을까, 평가원 출제자가 지문 속에 심어둔 논리적 설계도가 마법처럼 눈에 보이기 시작했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 치러진 시험에서 떨리지 않는 손으로 국어 만점을 찍었다. 대치동 1타 강사의 비법 따위가 아니라, 스스로 기출을 고민하며 얻은 '논리적 사고력'이 진짜 무기였다는 걸 깨달은 순간이었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-06T15:01:55.099613Z"
+  },
+  {
     "id": "story-20260906070154",
     "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
     "publisher": "수학주식",
