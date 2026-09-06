@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260906070154",
+    "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "중딩 때 수학은 맨날 A만 받아서 솔직히 고등학교 수학도 별거 없을 줄 알았다. 3월 첫 모의고사 날, 내 자리에 앉아 컴싸를 만지작거리며 속으로 1등급은 따놓은 당상이라며 거만하게 웃고 있었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험 시작 종이 울리고 시험지를 넘기는데, 어라? 4번 문제부터 갑자기 막히기 시작했다. 사방에서 사각사각 시험지 넘기는 소리가 들려오자 갑자기 심장이 미친 듯이 뛰고 손에 식은땀이 차올랐다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "분명 아는 개념인데 공식은 전혀 기억 안 나고, 눈앞의 시계 초침 소리는 왜 이리 빨라지는지. 결국 뒷장의 4점짜리 킬러 문제들은 구경도 못한 채, 대충 찍은 OMR 카드를 허탈하게 제출하고 말았다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "가채점 결과는 충격적인 40점. 비 내리는 시험지 위에 선명히 남겨진 채점 흔적과 '6등급'이라는 숫자를 마주하는 순간, 머리가 띵해지며 교실 천장이 빙글빙글 도는 것만 같았다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "집에 오자마자 침대에 쓰러져 베개에 얼굴을 묻고 소리 없이 울었다. '나 나름 공부 좀 한다고 생각했는데, 앞으로 대입은 어쩌지?' 하는 깊은 절망감이 온몸을 무겁게 짓눌렀다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 이대로 무너질 순 없었다. 억지로 눈물을 닦고 오답 노트를 펴는 순간 깨달았다. 단순 암기식 공부는 완전히 끝났고, 이제 진짜 '수학의 뼈대'부터 다시 채워야 한다는 것을."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-06T07:01:54.237044Z"
+  },
+  {
     "id": "story-20260906041928",
     "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
     "publisher": "수학주식",
