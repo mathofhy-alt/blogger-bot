@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260906041928",
+    "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "전교권 내신 1.0, 수학은 언제나 압도적 전교 1등이었어. 학교 시험은 족보만 달달 외워도 100점이었으니까, 솔직히 수능 수학도 당연히 1등급일 줄 알았지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 당일, 2교시 수학 시험지를 받아 들고 기분 좋게 심호흡을 했어. 하지만 '평소처럼만 하자'며 첫 장을 넘긴 순간, 10번대 준킬러부터 심상치 않은 기운이 엄습하더라."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "머릿속이 하얘지면서 등 뒤로 식은땀이 흘러내렸어. 내신 시험지에서 보던 뻔한 유형은 단 하나도 없었고, 사방에서 들리는 날카로운 샤프 소리가 내 심장을 미친 듯이 조여왔지."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "계산은 꼬이고 시간은 무자비하게 흘러가는데, 눈물 고인 시야 사이로 시험 종료 종이 울렸어. 가채점표를 적어 내려가며 직감했지, 내 수능은 완전히 망했다는 걸."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "며칠 뒤 받아본 성적표에 선명하게 찍힌 수학 '3등급'. 살면서 단 한 번도 받아본 적 없는 숫자를 마주한 순간, 온 세상이 무너지는 것 같아 방구석에서 베개를 안고 오열했어."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "단순 암기식 내신 공부에 취해 진짜 수학 실력을 착각했던 대가는 너무나 뼈아팠어. 제발 나처럼 자만하지 마, 수능은 사고력의 깊이가 다른 진짜 괴물들의 싸움이니까."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-06T04:19:28.249414Z"
+  },
+  {
     "id": "story-20260905230154",
     "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
     "publisher": "수학주식",
