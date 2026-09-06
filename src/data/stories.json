@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260906230150",
+    "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 6월 모평, 사방에서 사각거리며 시험지 넘어가는 소리가 들리는데 내 머릿속은 하얗게 비어갔다. 찍어서 맞춘 것들을 빼고 나니 성적표에 선명하게 찍힌 '5등급', 이대로라면 대학은커녕 앞날이 캄캄하다는 현실에 등 뒤로 식은땀이 흘렀다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "남들 다 푸는 일타강사의 N제와 실전 모의고사를 무작정 사서 풀려 했지만, 한 페이지도 스스로 해결하지 못한 채 해설지만 베끼는 악순환이 반복됐다. 돈은 돈대로 쓰고 성적은 제자리인 비참함에 책상에 엎드려 왈칵 눈물을 쏟았다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능을 100일 앞둔 날, '에라 모르겠다'는 심정으로 복잡한 문제집들을 다 버리고 평가원 5개년 기출문제를 전부 인쇄했다. 화려한 스킬 대신, 오직 평가원이 출제한 본질적인 문제 패턴에만 내 모든 것을 걸어보기로 결심했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "한 시험지를 최소 5번씩 반복해 풀며 출제자가 지문에 숨겨둔 힌트들을 집요하게 파고들었다. 왜 이 공식을 써야만 하는지 스스로에게 집요하게 질문하자, 어느 순간 복잡하게 꼬여 있던 수학 개념들의 유기적인 뼈대가 보이기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "드디어 치러진 9월 모평, 최고 난이도 킬러 문항을 마주한 순간 심장이 쿵쾅거렸지만 머리는 차분했다. 기출 분석을 통해 수십 번도 더 분석했던 그 유형의 변형이라는 것이 직관적으로 읽히며, 풀이 과정이 일직선으로 그려지는 전율을 느꼈다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그리고 대망의 수능 날 가채점 결과, 당당하게 마주한 수학 '96점 1등급'. 너덜너덜해질 때까지 분석했던 기출 시험지 더미를 끌어안고 뜨거운 눈물을 흘리며 확신했다, 기출은 결코 수험생을 배신하지 않는다는 것을."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-06T23:01:50.873078Z"
+  },
+  {
     "id": "story-20260906150155",
     "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
     "publisher": "수학주식",
