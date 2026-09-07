@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260907070159",
+    "title": "수포자가 수능 수학 2등급 맞고 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수학은 항상 7~8등급, 내 인생에 수학은 평생 없을 줄 알았다. 수능 당일 교실, 사방에서 들리는 시험지 넘기는 소리에 심장이 터질 것 같았고 내 손엔 식은땀만 가득했다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "포기하려던 순간, 지난 3개월 동안 피눈물 흘리며 오답 노트를 붙잡고 독서실 불을 끄던 밤들이 스쳐 지나갔다. '어려운 킬러는 버리고 아는 건 다 맞춘다'며 이 악물고 샤프를 쥐었다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그런데 기적이 일어났다. 시험지를 넘길 때마다 그토록 나를 괴롭히던 비킬러 4점짜리 도형과 수열 문제들이 기적처럼 하나둘씩 풀리기 시작했다. 손끝이 떨려왔다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험이 끝나고 심장이 터질 것 같은 마음으로 가채점을 시작했다. 빨간 소나기가 내릴 줄 알았던 시험지에 큼직한 빨간 동그라미들이 그려지며 믿을 수 없는 숫자가 완성됐다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "원점수 80점, 내 평생 단 한 번도 받아본 적 없는 당당한 '수학 2등급'. 그 화면을 확인한 순간, 수험생활 동안 무시받고 좌절했던 설움이 터져 나와 방바닥을 치며 오열하고 말았다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-07T07:01:59.315979Z"
+  },
+  {
     "id": "story-20260907041847",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
