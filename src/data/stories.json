@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260907230208",
+    "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "모의고사 수학 영역, 21번까지 거침없이 풀고 나니 OMR 카드엔 자부심만 가득했다. 드디어 마주한 대망의 공통과목 22번 킬러 문항, 이번엔 진짜 안정적인 1등급을 찍겠다며 비장하게 샤프를 고쳐 잡았다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "삼차함수 그래프 조건들을 보며 자신 있게 특수한 개형을 그리기 시작했다. 하지만 자신만만하게 써 내려가던 수식은 세 줄을 넘기지 못하고 턱 막혀버렸고, 순간 교실의 차가운 정적이 내 귓가를 때렸다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "지우고 다시 풀기를 세 번째, 머릿속이 하얗게 비워지는 '뇌정지'가 찾아왔다. 주변 녀석들의 사각거리는 시험지 넘기는 소리는 나를 비웃는 환청처럼 들렸고, 손가락 끝에는 축축한 식은땀이 고였다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "교실 뒤쪽 수능 시계의 바늘은 비정하게 남은 시간 10분을 가리키고 있었다. 찢어질 듯 지워낸 시험지 위에는 지우개 가루만 수두룩했고, 온몸의 피가 차갑게 식어가는 절망감이 나를 삼켰다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그 순간, 포기하려던 찰나에 조건 첫 줄의 '양수'라는 두 글자가 뒤늦게 눈에 꽂혔다. '아, 내가 음수로 놓고 풀고 있었구나!' 벼락을 맞은 듯한 깨달음과 함께, 남은 3분 동안 미친 속도로 연필을 굴렸다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "종소리가 울리기 직전 가까스로 OMR 카드 마킹을 끝내고 겨우 펜을 내려놓았다. 손가락 끝은 파르르 떨리고 심장은 터질 것 같았지만, 지옥 끝에서 살아 돌아온 기분에 온몸에 전율이 흘렀다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-07T23:02:08.050868Z"
+  },
+  {
     "id": "story-20260907150203",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
