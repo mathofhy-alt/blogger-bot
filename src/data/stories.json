@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260907041847",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 D-100 성적표에 찍힌 국어 4등급. 이대로 가다간 대학 문턱도 못 밟는다는 공포에, 커뮤니티에서 추천받은 두꺼운 기출문제집을 독서실 책상에 쌓아두고 피눈물 나는 3회독 대장정을 시작했다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "1회독 때는 지문 하나 읽는데 숨이 턱 막히고, 비문학 경제 지문 앞에서는 온몸에 식은땀이 흘렀다. 맞힌 문제보다 틀린 비내리는 빨간 펜 소나기가 시험지를 덮을 때마다 독서실을 당장이라도 뛰쳐나가고 싶었다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "악으로 버텨낸 2회독, 신기하게도 출제 의도가 어렴풋이 보이기 시작했다. 매번 나를 가볍게 낚아채던 매력적인 오답들의 일정한 패턴과, 문제풀이 때 자꾸만 덤벙대는 나쁜 습관들이 낱낱이 투명하게 드러났다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대망의 3회독, 이제는 지문 첫 문장만 읽어도 출제자의 의도와 오답 함정이 머릿속에 3D처럼 입체적으로 그려졌다. 사각거리는 샤프 소리 속에서 마침내 글의 흐름과 뇌가 완벽히 동화되는 소름 돋는 카타르시스를 느꼈다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그리고 맞이한 모의고사 날, 그렇게 나를 괴롭히던 국어 영역 시험지를 펼치는 순간 전혀 떨리지 않았다. 주변 학생들이 긴장감에 한숨을 내쉴 때, 나는 3회독으로 갈고닦은 본능적인 감각으로 거침없이 정답을 골라 나갔다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 채점 시간, 시뻘건 소나기 대신 당당하게 '원점수 98점, 1등급'이 찍혔다. 수능 100일 전 시작한 기출 3회독은 단순히 문제를 푸는 연습이 아니라 평가원의 출제 알고리즘을 완벽하게 해킹하는 가장 강력한 치트키였다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-07T04:18:47.240297Z"
+  },
+  {
     "id": "story-20260906230150",
     "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
     "publisher": "수학주식",
