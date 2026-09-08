@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260908150215",
+    "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고2 겨울방학, 카톡방은 온통 '야 롤 드와'라는 알림으로 불이 났다. 내 성적은 수학 평균 4등급, 이대로 피시방만 다니다간 인생 망하겠다는 차가운 현실이 덮쳐왔다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "친구들이 협곡에서 티어를 올리며 밤을 새울 때, 나는 독서실 구석 자리에 틀어박혔다. 차가운 공기 속에서 두꺼운 수능 기출문제집을 펼치며 볼펜을 부러질 듯 꽉 쥐었다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "처음엔 4점짜리 킬러 문항 앞에서 숨이 턱 막혔고, 식은땀만 흘리며 한 시간 동안 단 한 문제도 풀지 못했다. 자괴감에 눈물이 고였지만, 해설지를 통째로 씹어 먹겠다는 각오로 버텼다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "겨울방학 끝자락인 2월 말이 되자 기적이 찾아왔다. 지옥 같던 기출문제의 출제 공식이 퍼즐처럼 눈에 보이기 시작했고, 시험지를 넘기는 내 손끝에 짜릿한 소름이 돋았다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "첫 3월 학평 날, 롤 하느라 밤새운 친구들이 시험지를 붙잡고 좌절할 때 난 혼자 속으로 미소를 지었다. 마침내 받아든 수학 '1등급' 성적표, 내 완벽한 역전극의 시작이었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-08T15:02:15.316182Z"
+  },
+  {
     "id": "story-20260908070200",
     "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
     "publisher": "수학주식",
