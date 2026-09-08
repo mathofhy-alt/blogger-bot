@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260908041902",
+    "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "매달 대치동 현강이랑 킬러 실모에 백만 원 넘게 태우며 '난 남들과 다르다'는 뽕에 취해 있었다. 정작 내 모의고사 성적표에는 겉멋만 잔뜩 든 애매한 3등급이 박혀있는데도 말이다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"이러다 삼수하겠다\"는 공포가 엄습한 날, 부모님께 선언하고 대치동 학원들을 전부 환불했다. 그리고 독서실 구석탱이에 박혀 오직 까만 글씨만 가득한 5개년 평가원 기출 시험지 뭉치만 남겨두었다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "화려한 1타 강사의 편법 스킬 없이 맨땅에 기출을 풀기 시작하자, 당장 쉬운 3점짜리 문항에서부터 막혀 식은땀이 흘렀다. 그동안 강사의 풀이 쇼를 구경하며 그걸 내 실력이라 착각했단 비참함이 밀려왔다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "해설지도 덮어버린 채 한 지문만 물고 늘어지며 세 시간을 고민했다. 순간, 지문 속 문장들이 유기적으로 연결되고 출제자가 파놓은 함정의 설계도가 안개 걷히듯 머릿속에 번뜩이며 소름이 돋았다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "출제의 본질과 메커니즘을 깨닫자, 그다음부터는 어떤 낯선 킬러 문항을 만나도 칼날처럼 정답만 찾아내기 시작했다. 대치동의 가짜 약을 끊고 스스로 일어선 순간, 내 손으로 당당히 수능 1등급을 거머쥐었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-08T04:19:02.498063Z"
+  },
+  {
     "id": "story-20260907230208",
     "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
     "publisher": "수학주식",
