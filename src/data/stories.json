@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260908230212",
+    "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "6평 수학 5등급을 찍고 그냥 다 포기할까 생각했다. 아무리 들이부어도 오르지 않는 점수에 눈물 흘리던 그날 밤, 책상 구석에 처박혀 있던 사관학교 기출 시험지가 눈에 들어왔다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "‘어차피 수능 수학 망한 거, 극악무도하다는 사관학교 맛이나 보자’며 오기로 시험지를 폈다. 숨이 턱 막히는 고난도 비주얼에 손가락이 바르르 떨렸지만 천천히 식을 적어 내려갔다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그런데 웬걸, 꼬여있던 실타래가 풀리듯 개념들이 머릿속에서 짜 맞춰지기 시작했다. 30분 동안 끙끙대며 수식을 적어가다 마침내 정답을 도출해 낸 순간, 온몸에 소름이 돋았다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "사관학교 문제는 겉만 무섭지, 결국 '본질적인 개념' 하나로 관통된다는 걸 깨달았다. 밤을 새워 기출을 격파하는 동안 수학이 단순한 암기가 아닌 거대한 퍼즐처럼 재밌어지기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "이후 수능 모의고사를 다시 풀었을 때, 신기하게도 출제자의 의도가 눈에 훤히 보였다. 사관학교라는 높은 벽을 넘어선 쾌감이, 포기하려던 나에게 ‘할 수 있다’는 강력한 구원의 무기가 되어준 것이다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-08T23:02:12.390474Z"
+  },
+  {
     "id": "story-20260908150215",
     "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
     "publisher": "수학주식",
