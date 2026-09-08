@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260908070200",
+    "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "모의고사 올1등급을 찍고 경찰대 기출을 호기롭게 뽑았다. 스톱워치를 켜는 순간까지만 해도 내 미래가 아주 반짝이는 줄 알았지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 1페이지를 넘기자마자 숨이 턱 막혔다. 첫 문제부터 외계어 같은 수식이 나열되어 있어 연필 쥔 손이 덜덜 떨리기 시작했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시간은 사정없이 흘러가는데 겨우 3번에 묶여 있었다. 등줄기에 식은땀이 흐르고, 시계 초침 소리가 시한폭탄처럼 귀를 사정없이 때렸다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "멘탈을 부여잡고 펼친 영어는 대학 원서 수준이었다. 생전 처음 보는 극악무도한 단어들이 춤을 추자 머릿속이 하얗게 비워졌다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 샤프를 던지듯 내려놓았다. 가채점 결과는 40점도 안 되는 처참한 점수, 전교권이라 자만했던 내 자존심이 완전히 박살 났다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "커뮤니티에 '경찰대 멘붕'을 검색해 보고 나서야 안도의 한숨을 쉬었다. 역시 여긴 괴수들의 리그다. 난 조용히 수능 공부나 해야겠다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-08T07:02:00.178231Z"
+  },
+  {
     "id": "story-20260908041902",
     "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
     "publisher": "수학주식",
