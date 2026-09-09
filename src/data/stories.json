@@ -1,5 +1,51 @@
 [
   {
+    "id": "story-20260909150207",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 D-100, 수학 4등급 성적표를 찢어버리고 싶던 날 결심했다. 책상 가득 쌓인 검은색 기출문제집을 보며 다짐했다. '딱 3회독만 제대로 돌린다. 내 인생을 건 승부다.'"
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "1회독 시작. 막히는 문제는 바로 해설지를 보며 고개를 끄덕였다. '아, 대충 이렇게 푸는 거구나.' 연습장에 지저분하게 계산을 끄적이며 내가 엄청난 공부를 하고 있다는 착각에 취해갔다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "2회독은 거침없었다. 이미 답과 풀이 흐름이 머릿속에 희미하게 남아있어 펜 끝이 날아다녔다. 3초 만에 킬러 문항을 슥슥 풀어내며 스스로가 수학 천재가 된 듯한 도취감에 실실 웃음이 나왔다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대망의 3회독, D-50. 깨끗한 새 시험지에 문제를 다시 마주한 순간 손끝이 차갑게 얼어붙었다. 풀이 과정을 단 한 줄도 적지 못하고 멍하니 하얀 여백만 바라보는데 등 뒤로 식은땀이 흘러내렸다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "내가 한 건 공부가 아니라 단순 '암기'였다는 걸 깨달은 날, 10월 학평 종이 울렸다. 주위에서 사각사각 시험지 넘기는 소리가 숨을 막히게 했고, 내 비 내리는 시험지 위로 눈물이 툭 떨어졌다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "남은 한 달, 속도전을 완전히 버리고 한 문제의 개념을 뼈째로 씹어 먹기 시작했다. '왜 이 공식이 유도되었는가?' 스스로에게 끊임없이 질문하며 손가락이 새까맣게 물들 때쯤 수학의 막이 걷혔다."
+      },
+      {
+        "id": "page7",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 당일, 신기하게도 시험지가 느리게 읽혔고 출제자의 의도가 투명하게 보였다. 마침내 받아든 수학 1등급 성적표. 기출 회독은 횟수가 아니라, 내 비겁함과 마주하는 깊이의 차이였다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-09T15:02:07.619882Z"
+  },
+  {
     "id": "story-20260909070208",
     "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
     "publisher": "수학주식",
