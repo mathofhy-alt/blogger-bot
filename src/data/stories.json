@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260910150242",
+    "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "만년 수학 3등급의 늪에 빠져 울고 싶던 9월 모평 직후, 나는 독기를 품고 독서실 책상에 앉았다. 평가원 5개년 기출 시험지를 전부 인쇄해 사물함에 처박아둔 가위와 풀을 꺼냈다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "서걱서걱, 새벽 2시의 정적을 깨는 가위질 소리만이 방 안을 채웠다. 틀린 문제들을 오려 오답 노트에 붙이며, 내가 왜 이 4점짜리 문항에서 무릎을 꿇었는지 이 악물고 분석하기 시작했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그런데 22학년도 기출과 24학년도 기출 오답을 나란히 붙이는 순간, 등줄기에 차가운 식은땀이 흘렀다. 전혀 다른 문제라고 생각했던 두 문항의 숫자와 발문을 지우자, 완전히 똑같은 함수 공식이 숨어있었다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"나는 새로운 문제를 못 풀었던 게 아니었어.\" 기출이라는 화려한 포장지에 속아, 3년째 똑같은 수학적 함정에 스스로 걸어 들어갔다는 비참한 깨달음이 머리를 강하게 때렸다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그 자리에서 가위를 내려놓았다. 단순히 틀린 문제를 오려 붙이는 오답노트는 노동일 뿐이었다. 문제 속에 숨겨진 출제자의 설계도를 파헤쳐 노트에 단 세 줄의 '행동 영역'으로 요약하기 시작했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 이후 수학 시험지는 암기가 아닌 숨은그림찾기가 되었고, 수능 날 당당히 1등급을 찍었다. 기억해라, 오답노트는 문제 수집이 아니라 출제자의 뇌와 내 뇌를 동기화하는 가장 치열한 추리 과정이다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-10T15:02:42.096162Z"
+  },
+  {
     "id": "story-20260910070203",
     "title": "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
     "publisher": "수학주식",
