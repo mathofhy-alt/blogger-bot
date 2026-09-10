@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260910070203",
+    "title": "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "현역 때 3등급 맞고 재수 시작할 때, 명문대 간 선배들이 입을 모아 '기출만 완벽히 돌려라' 하더라고. 코웃음 치며 기출문제집을 사서 세 번씩 풀었고, 솔직히 다 외웠다고 자만했지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "근데 6월 모평 날, 국어 비문학 지문을 읽는데 심장이 덜컥 내려앉더라. 분명 기출에서 본 구조인데, 낯선 단어 몇 개에 막히자마자 머릿속이 하얘지고 시험지 넘기는 소리가 총소리처럼 들렸어."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "처참한 성적표를 들고 울면서 깨달았어. 나는 기출을 '분석'한 게 아니라, 답지와 해설의 흐름을 통째로 '암기'해서 아는 느낌에 취해있었던 거야. 기출문제의 진짜 본질은 그게 아니었는데."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "평가원이 문제를 출제할 때 쓰는 '논리적 설계도'를 뜯어보기 시작했어. 이 선지가 왜 정답이고 왜 오답인지, 출제자가 파놓은 함정의 공식을 스스로 찾아내며 뇌가 깨어나는 기분이 들었지."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그 결과 수능 날 어떤 낯선 킬러 문항을 만나도 '아, 이 자식들 또 이 패턴 썼네' 하고 웃으며 풀어냈고, 당당히 1등급을 쟁취했어. 기출이 전부라는 건 외우라는 게 아니라, 평가원의 뇌를 복사하라는 뜻이야."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-10T07:02:03.673320Z"
+  },
+  {
     "id": "story-20260910042213",
     "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
     "publisher": "수학주식",
