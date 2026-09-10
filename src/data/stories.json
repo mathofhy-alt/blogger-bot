@@ -1,5 +1,51 @@
 [
   {
+    "id": "story-20260910230223",
+    "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고2 겨울방학식 날, 애들은 PC방으로 뛰어 가며 '칼바람 한 판?'을 외쳤다. 내 성적표엔 처참한 4등급 낙인이 찍혀 있었고, 이번 방학마저 날리면 진짜 끝이라는 공포가 밀려왔다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "방에 틀어박혀 무작정 두꺼운 개념서를 폈지만 하얀 건 종이요 까만 건 글씨였다. 단톡방에선 '누구 실버 승급했냐'며 알림이 울려댔고, 나 혼자 제자리걸음인 것 같아 식은땀이 흘렀다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "이대로는 안 되겠다 싶어 독서실 인쇄기에서 평가원 5개년 기출문제를 전부 뽑았다. 갱지 냄새 폴폴 나는 시험지 뭉치를 책상에 쌓아두고, 딱 이 괴물들만 완벽히 씹어 먹기로 결심했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "눈이 침침해질 때까지 평가원의 출제 코드를 뜯어봤다. 맞은 문제도 왜 맞았는지 출제자의 의도를 역추적했고, 새벽의 고요한 독서실에는 사각거리는 샤프 소리만 가득했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "친구들이 단톡방에 '칼바람 나락' 펜타킬 캡처본을 올릴 때, 나는 오답 노트에 빽빽한 오답 원인을 적어 내려갔다. 손가락엔 단단한 굳은살이 박였고, 내 등급도 조금씩 요동치기 시작했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 첫 3월 학평 날, 시험지를 넘기는 순간 소름이 돋았다. 겨울내내 분석했던 평가원의 지문 전개 방식과 문제 패턴이 내 눈에 훤히 보였다. 펜을 쥔 손에 짜릿한 전율이 흘렀다."
+      },
+      {
+        "id": "page7",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수학·영어 당당하게 1등급 박힌 성적표를 보며, 비로소 길고 길었던 겨울의 승리를 확신했다. '야, PC방 갈래?'라며 다가오는 친구들을 뒤로하고, 진짜 게임은 이제부터 시작이었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-10T23:02:23.295498Z"
+  },
+  {
     "id": "story-20260910150242",
     "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
     "publisher": "수학주식",
