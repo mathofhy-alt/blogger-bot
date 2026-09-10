@@ -1,5 +1,51 @@
 [
   {
+    "id": "story-20260910042213",
+    "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "만년 3등급에 갇혀 있던 고3 시절, 6월 모평 수학 시험지를 찢어발기듯 오답 노트를 쓰기 시작했다. 손때 묻은 평가원 기출문제집을 펼치고, 두꺼운 형광펜을 쥔 손에는 땀이 흥건히 배어 나왔다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "해설지를 그대로 베끼며 가위로 오려 붙인 오답 노트를 보며 묘한 성취감에 취해 있었다. '이렇게 열심히 하는데 수능 때는 무조건 1등급 가겠다'며 스스로를 위로하던 어리석은 시간이었다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 사설 모의고사를 보던 날, 지난주에 오답 정리까지 마쳤던 수열 킬러 문항과 똑같은 패턴의 문제 앞에서 내 머리는 다시 하얗게 굳어버렸다. 등 뒤로 식은땀이 흐르고 시험지가 사정없이 흔들렸다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "집에 와서 내가 정성껏 꾸민 오답 노트를 펼쳐보았을 때, 온몸에 소름이 돋았다. 나는 문제를 분석한 게 아니라 그저 해설지의 완벽한 수식을 '구경'하고 예쁘게 받아쓰기만 했던 것이었다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 이후 펜을 놓고 내 '오개념의 회로'를 적기 시작했다. 왜 이 조건에서 미분을 먼저 떠올렸는지, 출제자가 파놓은 어떤 함정에 내 뇌가 낚였는지를 집요하게 파고들며 출제자의 시선을 훔치기 시작했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 수능 날, 수학 시험지를 넘기는 소리가 요란한 고사장 안에서 신기한 일이 벌어졌다. 출제자의 의도가 투명하게 보이며 막힘없이 손이 움직였고, 마침내 내 인생 첫 '수학 100점'을 찍었다."
+      },
+      {
+        "id": "page7",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "얘들아, 화려하게 꾸민 오답 노트는 자위일 뿐이야. 문제집을 예쁘게 만들지 말고, 틀렸을 때의 니 뇌를 그대로 해부해라. 그 비참한 직면 끝에 진짜 1등급의 길이 열린다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-10T04:22:13.571072Z"
+  },
+  {
     "id": "story-20260909230243",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
