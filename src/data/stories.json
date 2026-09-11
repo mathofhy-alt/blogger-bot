@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260911042149",
+    "title": "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 시절 내 모의고사 성적은 늘 안정적인 2등급이었다. '기출이 전부다'라는 말만 철석같이 믿고 5개년 기출문제를 세 번씩 풀며 답을 달달 외웠을 때, 나는 수능을 완전히 정복한 줄로만 알았다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 수능 당일, 국어 영역 시험지를 넘기는 소리가 사방에서 들려올 때 내 심장은 멎는 듯했다. 분명 기출에서 숱하게 본 지문과 완벽히 같은 개념인데도, 교묘하게 비틀린 낯선 문제들 앞에 단 한 줄도 읽히지 않았다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 성적표에 찍힌 처참한 4등급을 보고 독재학원 구석자리에 주저앉았다. 시커먼 때가 묻은 기출문제집을 다시 펼쳤을 때 밀려오는 자괴감과 막막함에 눈물이 핑 돌았고, 숨이 턱 막혔다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "재수 생활 삼 개월째, 멍하니 문제집을 노려보다가 문득 뒤통수를 맞은 듯한 깨달음이 스쳤다. 나는 여태껏 '답을 맞히는 양치기 공부'만 했을 뿐, 평가원이 대체 왜 이 오답 선지를 설계했는지 그 '출제 원리'는 단 한 번도 보지 않았던 것이다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날부터 펜을 내려놓고 출제자의 머릿속을 해킹하듯 매달렸다. '왜 하필 이 단어 뒤에 이 조건을 붙였을까?' 끊임없이 질문하자, 마침내 평가원이 함정을 파놓는 특유의 알고리즘과 출제 공식이 선명하게 보이기 시작했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "두 번째 치른 수능 날, 놀랍게도 모든 문제가 출제자의 의도대로 훤히 읽히며 결국 백분위 99% 의대 합격증을 거머쥐었다. 기출이 전부라는 건 양으로 때우라는 게 아니라, 평가원의 사고방식을 내 뇌에 완벽히 동기화하라는 뜻이다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-11T04:21:49.082689Z"
+  },
+  {
     "id": "story-20260910230223",
     "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
     "publisher": "수학주식",
