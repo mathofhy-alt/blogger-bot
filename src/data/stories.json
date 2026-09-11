@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260911070159",
+    "title": "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "현역 시절, 늘 3등급에 머물던 내게 '기출만 5회독 하면 무조건 1등급'이라는 말은 진리 같았다. 대충 답이 외워진 시험지를 기계적으로 풀며 '나 이제 기출 마스터했다'고 자만했던 그 오만이 비극의 시작이었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "재수생이 되고 마주한 첫 6월 모의평가, 처음 보는 국어 독서 지문 앞에서 머릿속이 하얘졌다. 기출에서 본 개념인데도 손도 못 대고 땀만 흘리다 종이 울렸고, '내 공부는 가짜였다'는 절망이 뼈를 때렸다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "독서실 자리에 앉아 의대 합격 수기들을 미친 듯이 뒤졌다. 그들은 왜 똑같이 기출을 보면서도 백분위 100을 찍는데, 왜 나는 시험지를 통째로 외우다시피 했는데도 이 제자리걸음인지 억울해 미칠 것 같았다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그때 눈에 들어온 건 문제의 '답'이 아니라 출제자가 함정을 파둔 '설계'였다. 오답 선지가 왜 매력적이었는지, 지문의 어떤 정보가 문제로 변형되는지 그 뼈대를 뜯어보기 시작하자 비로소 눈이 뜨였다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대망의 9월 모의평가 날, 시험지를 넘기는 사각거림 속에서 전율을 느꼈다. 신유형이라 포장된 문제 너머로 '이 개념을 이렇게 꼬아냈구나' 하는 평가원의 의도가 훤히 보여 거침없이 샤프를 눌러 나갔다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "'기출이 전부다'라는 건 시험지가 똑같이 또 나온다는 뜻이 아니다. 평가원이 문제를 출제하는 '뇌 구조와 생각의 지도'를 네 머리에 박아두라는 뜻이다. 이걸 깨닫는 순간, 시험지의 지배자는 네가 된다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-11T07:01:59.618283Z"
+  },
+  {
     "id": "story-20260911042149",
     "title": "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
     "publisher": "수학주식",
