@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260912041952",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 D-100, 모의고사 성적표에 선명히 찍힌 처참한 4등급. 더는 물러설 곳이 없다는 절박함에 책상 위에 가장 두꺼운 수학 기출문제집을 올려놓았다. '딱 3번만 완벽하게 돌리자, 그럼 내 세상이 바뀔 거야.' 스스로를 가두는 지옥의 레이스가 시작되었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "새벽 3시, 스탠드 불빛 아래 코끝을 스치는 칼칼한 종이 냄새와 사각거리는 샤프 소리뿐이었다. 해설지를 찢어버리고 싶을 만큼 답답했지만, 오답의 이유를 한 줄 한 줄 손으로 적어가며 꾸역꾸역 1회독을 마쳤다. 눈은 충혈되고 손가락엔 단단한 굳은살이 박였다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 2회독을 넘어 3회독에 접어들었을 때, 등 뒤로 서늘한 소름이 돋았다. '나 지금 문제를 푸는 게 아니라, 그냥 예전에 봤던 답을 외우고 있는 거 아닌가?' 기출을 돌려도 성적이 안 나온다는 커뮤니티 글들이 뇌리를 스치며 등 뒤로 식은땀이 흘렀다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "절망 끝에서 펜을 내려놓고 생각의 방식을 완전히 바꿨다. 단순 문제 풀이가 아닌, 출제 위원의 머릿속을 들여다보듯 '왜 이 조건을 줬을까?'에 집착했다. 그 순간, 복잡하게 얽혀있던 기출문제의 유기적인 설계도가 머릿속에서 입체적으로 그려지기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그리고 대망의 10월 학평 날, 수학 시험지를 받아 든 순간 온몸에 전율이 흘렀다. 사각사각 시험지 넘기는 소리 속에, 내가 3회독 하며 분석했던 평가원의 설계 코드가 시험지 위에 훤히 겹쳐 보였다. 떨림은 확신으로 변했고, 막힘없이 펜 끝이 춤을 추기 시작했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "채점을 끝낸 시험지 위에는 기적 같은 빨간 동그라미들의 향연과 함께 '원점수 96점, 1등급'이 기다리고 있었다. 불안해하는 전국의 수험생들아, 진짜 기출 회독은 눈이 아니라 치열한 고민으로 하는 거다. 흔들리지 말고 너의 손때 묻은 그 책을 믿어라."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-12T04:19:52.882496Z"
+  },
+  {
     "id": "story-20260911150155",
     "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
     "publisher": "수학주식",
