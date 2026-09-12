@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260912150201",
+    "title": "수포자가 수능 수학 2등급 맞고 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 3월 모의고사 수학 7등급. 30문제 중 찍어서 맞춘 게 전부였던 나는 진짜 답도 없는 찐 수포자였어. 남들이 킬러 문항 풀 때, 난 혼자 패배감에 젖어 먼 산바라기만 했었지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "이러다간 대학 문턱도 못 밟겠다 싶어, 6월 모평 직후 독기를 품고 중학 수학 책부터 다시 폈어. 하루 14시간 독서실 처박혀서 공식 하나하나 피눈물 나게 외웠지."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "지독한 여름이 가고 9월 모평에서 기적처럼 '4등급'을 찍은 순간, 온몸에 소름이 돋았어. 늘 70점 미만 밑바닥만 깔아주던 내가 처음으로 희망이라는 걸 본 거야."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "드디어 수능 날, 싸늘한 교실에서 식은땀 흘리며 2교시 시험지를 넘기는데 손끝이 미치도록 떨리더라. 하지만 이내 내가 갈아 넣었던 수많은 오답노트의 촉감이 떠올랐어."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "놀랍게도 수능 시험지 속 낯선 기출 변형 문제들이 내 연필 끝에서 마법처럼 풀리기 시작하더라고. 사각거리는 소리 속에서 오직 나와 시험지만 존재하는 몰입을 경험했어."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "가채점 결과는 당당히 '2등급'. 성적표를 꼭 쥐고 독서실 비상구 계단에 주저앉아 꺼이꺼이 오열했어. 수포자였던 나도 해냈어, 진짜 포기하지 않길 정말 잘했다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-12T15:02:01.404465Z"
+  },
+  {
     "id": "story-20260912070156",
     "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
     "publisher": "수학주식",
