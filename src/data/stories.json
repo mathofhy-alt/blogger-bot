@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260913230155",
+    "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "모의고사 수학 5등급 성적표를 받고 세상이 무너지는 줄 알았다. 아무리 공식을 외우고 풀어봐도 4점짜리 앞에만 서면 머리가 하얗게 굳어버리니, 나 같은 건 아무리 해도 안 될 거라는 깊은 절망에 빠졌던 그날 밤."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "독서실 구석에서 멍하니 있다가, 우연히 책상 구석에 처박혀 있던 '사관학교 기출문제집'을 발견했다. 수능보다 훨씬 매콤하고 어렵다는 악명 높은 시험이라 겁부터 났지만, 어차피 밑바닥인데 밑져야 본전이라는 생각으로 샤프를 쥐었다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그런데 이상했다. 잔뜩 꼬아놓은 사설 모의고사들과 달리, 악명 높은 사관학교 4점 문항들은 개념의 뼈대가 너무나 투명하고 아름답게 보였다. 식은땀을 흘리며 한 줄씩 식을 적어 내려가는데, 막혔던 머릿속에서 희미한 길이 열리기 시작했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "사각거리는 샤프 소리만 가득한 새벽 2시, 세 쪽을 연속으로 거침없이 풀어내며 온몸에 소름이 돋았다. 평가원의 출제 원리를 극한으로 압축해 놓은 듯한 정교한 문제들을 내 손으로 뚫어내고 있다는 희열에 홀린 듯 빠져들었다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "조심스레 빨간 펜을 들고 채점을 시작하자, 하얀 시험지 위로 동그라미들이 비를 내리기 시작했다. 사관학교 킬러 문항이 풀린다는 믿기지 않는 현실에 가슴이 터질 듯 뛰었고, '나도 수학을 할 수 있는 머리였구나'라는 뜨거운 전율이 차올랐다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 이후 수학 책을 펼치는 두려움은 완전히 사라졌다. 기출문제들이 이제는 피해 가야 할 벽이 아니라 풀어내고 싶은 짜릿한 퍼즐로 보이기 시작했고, 나의 수험 생활은 180도 완전히 뒤바뀌었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-13T23:01:55.328959Z"
+  },
+  {
     "id": "story-20260913150157",
     "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
     "publisher": "수학주식",
