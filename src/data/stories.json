@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260913150157",
+    "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대치동 1타 강사 실모에 매달 수십만 원씩 태워도 내 국어 성적은 만년 3등급을 못 벗어났다. 무거운 해설지와 화려한 자료집에 파묻혀 숨이 막히던 어느 날, 나는 홀린 듯 학원을 전부 환불하고 독서실로 향했다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"너 그러다 수능 망한다\"는 친구들의 걱정을 뒤로한 채, 먼지 쌓인 평가원 5개년 기출문제집을 책상 위에 폈다. 아무런 해설도, 족집게 비법도 없는 날것의 시험지 앞에 서자 심장이 쿵쾅거리며 덜컥 겁이 나기 시작했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "타이머를 켜고 악명 높은 불수능 철학 지문을 읽어 내려가는데, 이마에 식은땀이 흘렀다. 하얗게 질린 머리로 웅성거리는 독서실 속에서, 내가 그동안 일타 강사의 화려한 강의를 그저 '구경'만 하고 있었다는 뼈아픈 사실을 깨달았다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "조급함을 버리고 펜을 쥔 채, 한 줄 한 줄 문장과 문장 사이의 숨겨진 연결고리를 집요하게 뜯어보기 시작했다. 그 순간 거짓말처럼, 출제진들이 지문 속에 정교하게 설계해 둔 논리의 그물망이 흐릿하게 보이기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "매일 아침부터 밤까지 기출의 구조를 체화하자, 그 어렵던 비문학 킬러 문항들이 수학 공식처럼 명쾌하게 풀려나갔다. 남이 떠먹여 주는 스킬이 아닌, 오직 내 머리로 텍스트를 장악하는 짜릿한 희열이 온몸을 감쌌다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 시험장, 시험지가 거칠게 펄럭이는 소리 너머로 당황해 땀을 흘리는 아이들이 보였다. 하지만 나는 미소를 지으며 덤덤하게 정답을 써 내려갔고, 마침내 내 인생 첫 국어 만점 성표를 손에 쥐었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-13T15:01:57.486267Z"
+  },
+  {
     "id": "story-20260913070156",
     "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
     "publisher": "수학주식",
