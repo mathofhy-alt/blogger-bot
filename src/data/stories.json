@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260913070156",
+    "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "중학교 수학은 대충 해도 늘 90점대라 고등학교도 만만하게 봤어. 3월 첫 모의고사 아침, '서울대 갈까 연세대 갈까' 김칫국을 들이키며 기분 좋게 시험지를 받았지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 4점짜리 응용 문항들이 들이닥치자 머릿속이 새하얘졌어. 사방에서 시험지 넘기는 소리가 파도처럼 들리는데, 나만 10번 문제에 갇혀 식은땀을 흘리고 있었지."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "종치기 5분 전, 심장이 터질 것 같았고 손끝이 덜덜 떨렸어. 결국 주관식은 구경도 못 한 채 남은 문제들을 한 번호로 한 줄 세우기 하며 OMR 카드를 제출해 버렸지."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "채점 시간, 시험지에 사정없이 비가 내리기 시작하는데 숨이 턱 막히더라. 빨간 비가 그치고 마주한 점수는 단 '40점'. 살면서 처음 본 5등급이란 숫자에 눈물만 흘렸어."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 밤 독서실에서 엉엉 울고 나서야 깨달았어. 고등 수학은 요령이 아니라 진짜 '체급' 싸움이라는 걸. 비참한 40점을 책상에 붙이고, 오늘부터 쌩기초부터 씹어먹기로 다짐했어."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-13T07:01:56.301394Z"
+  },
+  {
     "id": "story-20260913043320",
     "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
     "publisher": "수학주식",
