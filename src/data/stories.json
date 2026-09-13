@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260913043320",
+    "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 교육청 모의고사에서 국영수 안정적 1등급을 찍고 세상 무서울 게 없던 고3 시절. '경찰대 기출이나 재미로 풀어볼까?' 하고 당당하게 수험실 책상에 앉았다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "타이머를 맞추고 비장하게 1페이지를 넘긴 순간, 나는 내 눈을 의심했다. 수능 22번 킬러 문항급의 해괴한 공식들이 1번부터 5번까지 자비 없이 융단폭격을 때리고 있었다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "째깍거리는 시계 소리가 심장을 때리고, 식은땀이 등줄기를 타고 흘렀다. 분명 배운 개념인데도 꼬아놓은 유도 심문에 머릿속은 하얗게 지워지고 손가락만 바들바들 떨렸다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험이 끝나고 채점을 시작하는데, 시험지 위에 시뻘건 비가 내리다 못해 폭풍우가 몰아쳤다. 오만했던 내 자존심과 함께 무참히 박살 난 점수는 앞자리부터 처참한 40점대였다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "우물 안 개구리였음을 깨닫고 멍하니 하늘을 바라보았다. 그날 이후, 내 오만함을 완전히 쓰레기통에 처박고 책 표지가 닳도록 처음부터 다시 겸손하게 펜을 잡았다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-13T04:33:20.548880Z"
+  },
+  {
     "id": "story-20260912230156",
     "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
     "publisher": "수학주식",
