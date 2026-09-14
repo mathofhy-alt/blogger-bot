@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260914230157",
+    "title": "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "현역 때 난 기출문제를 5번이나 돌렸어. 답과 풀이 과정을 달달 외울 정도라 '수능 국어 1등급은 따놓은 당상이네'라며 오만하게 어깨를 으쓱였지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 수능 당일, 1교시 종이 울리고 시험지를 넘기는 순간 온몸의 피가 식었어. 분명 기출에서 본 개념인데, 꼬아놓은 선지 앞에서 머릿속이 하얗게 포맷되더라고."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "사각거리는 시험지 소리 사이로 나 혼자 식은땀을 흘렸고, 결국 처참한 4등급 성적표를 받았어. 재수 학원 구석자리에 앉아 '도대체 기출 공부가 뭐길래'라며 매일 밤을 괴로워했지."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "재수 6개월 차, 난 기출 분석의 패러다임을 바꿨어. 답을 맞히는 양치기가 아니라, 출제자가 왜 이 문장을 썼고 어떤 방식으로 함정을 설계했는지 그 '의도'를 쪼개기 시작했지."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그제야 보였어. 평가원은 매년 같은 본질적 논리를 다른 옷만 입혀서 출제하고 있었던 거야. 기출을 외우는 게 아니라, 출제자의 뇌와 내 뇌의 주파수를 맞추는 게 진짜 공부였어."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "다시 치른 수능에서 난 국어 백분위 99%를 찍었어. 얘들아, '기출이 전부다'라는 건 외우라는 뜻이 아니야. 출제자의 설계도가 네 눈에 완전히 투명하게 보일 때까지 씹어 먹으라는 뜻이야."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-14T23:01:57.493289Z"
+  },
+  {
     "id": "story-20260914150204",
     "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
     "publisher": "수학주식",
