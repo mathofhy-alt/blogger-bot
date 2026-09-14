@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260914150204",
+    "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고2 겨울방학, 친구들이 ‘롤’ 티어 올린다며 디스코드를 켤 때 나는 독서실로 향했다. 수학 5등급, 영어 4등급이라는 처참한 성적표를 품에 넣은 채, 매서운 칼바람을 뚫고 자습실 구석에 앉았다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "처음 편 기출문제집은 외계어 같았다. 3점짜리 비킬러 문제조차 손도 못 대고 멍하니 볼펜만 굴릴 때, 폰 화면에는 롤 승급에 성공했다는 단톡방 알림이 계속 떠서 미칠 것 같았다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "눈 딱 감고 단톡방을 나간 뒤 스마트폰을 정지시켰다. 롤 랭크 게임 대신 '평가원 기출 5회독'을 목표로 삼고, 하루 14시간 동안 해설지를 통째로 외울 기세로 분석하며 밤을 지새웠다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "방학이 끝나갈 무렵, 기적이 찾아왔다. 그렇게나 안 풀리던 수학 21번, 30번 킬러 문항들의 출제의도가 머릿속에서 입체적으로 그려지기 시작했고, 펜 끝은 거침없이 굴러갔다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "운명의 고3 3월 학력평가 날, 시험지를 넘기는 소리 속에서 나는 전율을 느꼈다. 막힘없이 써내려간 시험지 위로 매겨진 빨간 동그라미들. 가채점 결과는 수학 96점, 대역전의 1등급이었다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "개학 날, 여전히 롤 티어 얘기뿐인 친구들 앞에서 조용히 3월 성적표를 꺼냈다. 경악하는 녀석들의 표정을 보며 깨달았다. 인생이라는 진짜 게임에서 제대로 캐리한 건 바로 나였다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-14T15:02:04.911554Z"
+  },
+  {
     "id": "story-20260914070157",
     "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
     "publisher": "수학주식",
