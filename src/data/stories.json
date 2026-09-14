@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260914043935",
+    "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "6월, 9월 모평 수학 안정적 1등급. 자신만만하게 마주한 수능 시험지에서 대망의 22번을 펼쳤다. 이때까지만 해도 내가 이 킬러 문제를 무난히 찢어발길 줄 알았다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "조건에 나온 괴상망측한 사차함수 식을 마주한 순간 머릿속이 하얘졌다. 분명 기출에서 본 개형인데 왜 축이 안 잡히는 건지, 식은땀이 등줄기를 타고 흘러내렸다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "교실 벽시계 소리가 심장 박동보다 빠르게 귓가를 때렸다. 연습장에 의미 없는 그래프만 수십 번 그리다 보니 남은 시간은 단 5분. 완벽한 뇌정지가 찾아왔다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "답안지는 비어있고, 온 우주의 기운을 모아 찍어야 하는 운명의 순간이 왔다. 주관식 단골 정답 후보인 '0'과 '1', 그리고 홀연히 떠오른 '13' 사이에서 피 마르는 갈등이 시작됐다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 마음을 바꿔 '0'을 적어냈고, 시험 종료 후 확인한 진짜 정답은 내가 끝내 지워버린 '13'이었다. 허탈한 헛웃음을 지으며 재수학원 페이지를 새로고침했다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-14T04:39:35.444659Z"
+  },
+  {
     "id": "story-20260913230155",
     "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
     "publisher": "수학주식",
