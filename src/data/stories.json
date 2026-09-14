@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260914070157",
+    "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "내신 1.1등급에 수능 모의고사 고정 1등급, 나 정도면 경찰대도 비벼볼 만하지 않나? 근거 없는 근자감으로 가득 차서 독서실 책상에 빳빳한 경찰대 기출 시험지를 올려두었을 때까지만 해도 난 내가 천재인 줄 알았다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "첫 페이지를 넘기자마자 숨이 턱 막혔다. 분명 한글로 쓰여 있는데 검은 건 글씨요 흰 건 종이일 뿐, 1번부터 수능 킬러 문항을 아득히 초월한 기하학의 악몽이 펼쳐졌다. 째깍거리는 초침 소리가 심장박동을 사정없이 때렸다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "식은땀이 목덜미를 타고 뚝뚝 흘러내렸다. 정신을 차려보니 제한 시간 60분 중 절반이 지났는데 겨우 5문제를 붙잡고 있었다. 머릿속이 새하얗게 비어버리며 귓가에 삐- 소리가 들리는 듯한 극심한 공황이 찾아왔다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 타이머가 울리고 헛웃음을 지으며 채점을 시작했다. 빨간 색연필로 사정없이 비가 내리는 시험지. 최종 점수는 충격적인 42점이었다. '나 공부 좀 한다'고 꺼들먹거리던 대치동 키드의 오만이 단 80분 만에 산산조각 났다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "독서실을 나와 차가운 밤공기를 마시니 눈물이 핑 돌면서도 정신이 번쩍 들었다. 세상은 넓고 괴물은 차고 넘친다. 오늘부터 멘탈 꽉 잡고 겸손하게 대가리 박고 처음부터 다시 시작하자는 다짐과 함께, 무거운 발걸음을 옮긴다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-14T07:01:57.887489Z"
+  },
+  {
     "id": "story-20260914043935",
     "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
     "publisher": "수학주식",
