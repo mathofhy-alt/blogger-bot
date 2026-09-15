@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260915230210",
+    "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "모의고사 수학 영역, 21번까지 막힘없이 풀고 나니 시계는 아직 40분이나 남았다. '오늘 드디어 1등급 각이다'라는 확신과 함께 마지막 관문이자 악명 높은 22번 주관식 킬러 문제와 마주했다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "최고차항 계수가 양수인 삼차함수 f(x)의 복잡한 조건들이 눈에 들어왔다. 가볍게 샤프를 굴리며 연습장에 그래프 개형을 그리는데, 어째서인지 조건 (가)와 (나)가 서로 모순되는 듯 꼬이며 머릿속이 굳어갔다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "분명 쉬운 조건 같았는데, 세 번째 지우개 가루를 털어낼 때쯤 등 뒤로 차가운 식은땀이 흘렀다. 교실 안은 쥐 죽은 듯 조용한데 사방에서 들리는 타닥타닥 시험지 넘기는 소리가 나를 압박하기 시작했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "정신을 차려보니 남은 시간은 단 5분, 식은땀으로 축축해진 시험지 위에서 수식들이 제멋대로 흐릿하게 춤을 추었다. 분명 아는 개념인데도 사칙연산조차 뇌가 거부하는 완전한 '뇌정지' 상태에 빠져들었다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험 종료 종소리가 울리고 OMR 카드가 걷히는 바로 그 순간, 거짓말처럼 머릿속에 완벽한 삼차함수 그래프가 번쩍 스쳤다. 단지 x=2에서 접한다는 사소한 가정을 빼먹어 망했다는 깨달음에 헛웃음만 터져 나왔다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "집으로 가는 버스 안, 혹시나 해서 수험생 커뮤니티 앱을 켜자마자 '오늘 수학 22번 풀다가 뇌정지 온 호구 있냐'는 글이 눈에 띄었다. 왈칵 눈물이 고인 채로 '그 호구가 바로 나다'라고 떨리는 손가락으로 댓글을 적었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-15T23:02:10.970232Z"
+  },
+  {
     "id": "story-20260915150157",
     "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
     "publisher": "수학주식",
