@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260915070158",
+    "title": "수포자가 수능 수학 2등급 맞고 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 6월 모의고사까지 내 수학 성적은 늘 '7등급'이었다. 수학 책만 펴면 머리가 하얘져서 그냥 한 번호로 밀고 자던, 뼈 속까지 문과 체질의 진짜 '수포자'가 바로 나였다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"너 대학은 갈 수 있겠니?\" 담임의 무심한 한마디에 울컥해 그날로 독서실에 처박혔다. 기초 개념서 하나가 너덜너덜해질 때까지 뜯어보며, 하루 12시간씩 손가락에 피가 나도록 펜을 굴렸다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대망의 수능일, 2교시 수학 시간이 시작되자마자 심장이 터질 것처럼 뛰었다. 사방에서 시험지 넘기는 소리가 파도처럼 밀려오는데, 식은땀을 흘리며 필사적으로 1번부터 풀어 나갔다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그런데 거짓말처럼 막혔던 공식들이 머릿속에서 불꽃처럼 맞춰지기 시작했다. 외계어 같던 4점짜리 준킬러 문제들이 하나씩 풀려나갈 때, 온몸에 소름이 돋고 전율이 흘렀다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "집에 돌아와 채점 서비스를 켜고 빨간펜을 든 손이 사정없이 떨렸다. 동그라미가 비처럼 내리더니, 모니터 화면 속 내 최종 예측 등급에 기적 같은 '2등급'이 선명하게 찍혔다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그 순간 참았던 눈물이 봇물처럼 터져 나와 방구석에서 무릎을 꿇고 꺼이꺼이 오열했다. 포기하지 않고 버텨낸 지난 시간들이 스쳐 지나가며, 내 생애 가장 뜨거운 눈물을 흘렸다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-15T07:01:58.404454Z"
+  },
+  {
     "id": "story-20260915043949",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
