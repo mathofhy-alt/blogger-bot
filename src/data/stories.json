@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260915150157",
+    "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "매번 모의고사 4등급 언저리에서 맴돌며 수학 책을 찢어버리고 싶던 날들이었다. 아무리 개념을 외워도 킬러 문항 앞에서 머리가 하얘지니, 진짜 '수포자'가 되어야 하나 매일 밤 독서실에서 식은땀을 흘렸다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그러다 우연히 커뮤니티에서 '사관학교 기출이 진짜 정제된 보물이다'라는 글을 봤다. 수능보다 훨씬 어렵다는 악명에 손이 벌벌 떨렸지만, 밑져야 본전이라는 마음으로 인쇄기 버튼을 눌렀다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "침을 꿀꺽 삼키며 첫 장을 넘겼는데, 이상하게도 꼬아놓은 사설 모의고사와는 결이 달랐다. 투박하지만 평가원 특유의 묵직하고 정직한 개념들이 눈앞에 선명하게 보이기 시작했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "독서실의 고요함 속에 사각거리는 샤프 소리만 울려 퍼졌고, 막혔던 4점짜리 준킬러 문제들이 하나둘씩 풀려나갔다. 머릿속 흩어져 있던 공식들이 톱니바퀴처럼 딱 맞아떨어지는 전율이 온몸에 돋았다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "빨간 펜으로 채점을 하는데 동그라미가 소나기처럼 쏟아졌고, 난생처음 받아보는 고득점에 심장이 터질 듯 뛰었다. '나 수학 못하는 게 아니었구나, 단지 길을 헤매고 있었을 뿐이었어'라는 눈물겨운 확신이 차올랐다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 이후 수학은 무서운 괴물이 아닌, 풀어내고 싶은 도전적인 게임이 되었다. 지금 혹시 수학을 포기하려는 동료 수험생이 있다면, 딱 한 번만 사관학교 기출을 펴보라고 온 힘을 다해 말해주고 싶다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-15T15:01:57.550567Z"
+  },
+  {
     "id": "story-20260915070158",
     "title": "수포자가 수능 수학 2등급 맞고 오열한 썰",
     "publisher": "수학주식",
