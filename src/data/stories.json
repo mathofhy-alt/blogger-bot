@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260916150201",
+    "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 6월 모평 수학 5등급. 옆자리 애들이 시험지 넘기는 소리가 들릴 때마다 식은땀이 줄줄 흘렀어. 찍어서 맞춘 걸 빼면 사실상 바닥이었고 앞이 캄캄했지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "남들 다 듣는 일타 강사 인강에 두꺼운 사설 문제집을 사봤지만 진도조차 못 따라갔어. 화려한 스킬만 겉돌고 내 실력은 제자리라 완전히 절망했지."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 사설 책을 다 버리고 평가원 10개년 기출 한 권만 남겼어. 해설지 없이 한 문제만 3시간씩 째려보며 출제자가 파놓은 함정을 스스로 찾아내려고 몸부림쳤지."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "똑같은 기출을 5번 넘게 뜯어보자 어느 순간 공식 너머의 흐름이 보였어. '아, 평가원 수학은 암기가 아니라 길 찾기구나!' 하는 소름 돋는 깨달음이 온 거야."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 수능 시험장. 긴장 속에 시험지를 펼쳤는데 신기하게도 기출에서 분석했던 논리구조가 그대로 겹쳐 보였어. 막힘없이 샤프가 굴러갈 때 전율이 돋았지."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "가채점 결과는 당당하게 원점수 96점, 수능 인생 첫 1등급. 얇은 기출문제집 한 권을 걸레짝이 될 때까지 판 게 내 인생을 바꾼 신의 한 수였어."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-16T15:02:01.881646Z"
+  },
+  {
     "id": "story-20260916070155",
     "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
     "publisher": "수학주식",
