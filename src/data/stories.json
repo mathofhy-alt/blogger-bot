@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260916043521",
+    "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "이번 9모 수학은 솔직히 물로켓인 줄 알았다. 21번까지 순식간에 찢어버리고 시계를 보니 무려 35분이 남았고, 내 앞에는 대망의 수학 22번 킬러 문제만 덩그러니 남겨져 있었다. '올해 수능 만점은 나인가?' 하는 오만한 생각이 뇌리를 스쳤다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "삼차함수 그래프 개형을 연습장에 쓱쓱 그리며 식을 세우기 시작했다. 평가원이 흔히 파놓는 대칭성 함정인 줄 알고 혼자 피식 웃으며, 샤프 끝으로 조건들을 가볍게 요리해 나갔다. 이때까지만 해도 10분 컷 하고 마킹한 뒤 잘 생각뿐이었다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "어? 근데 왜 계산 결과에 함숫값이 계속 음수가 나오지? 조건 (가)와 (나)가 서로 모순을 일으키며 톱니바퀴처럼 어긋나기 시작했다. 주변에서는 사각사각 시험지 넘기는 소리가 천둥처럼 들렸고, 등 뒤로 식은땀 한 방울이 불길하게 흘러내렸다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험 종료 15분 전, 시험지는 이미 까맣게 칠해진 오류 그래프와 지우개 가루로 난장판이 되어 있었다. 순간 눈앞이 아득해지며 아무 생각도 나지 않는 '뇌정지' 상태가 찾아왔다. 더하기 빼기조차 헷갈리는 극심한 공포가 나를 집어삼켰다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "종료 5분 전, 눈물이 핑 도는 와중에 지푸라기라도 잡는 심정으로 발문을 다시 읽었다. 아, 미친... '양수 a'가 아니라 '정수 a'였잖아! 25분 동안 엉뚱한 조건으로 삽질했다는 걸 깨달은 순간, 머릿속에서 차가운 전율이 일어났다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "미친 듯이 떨리는 손으로 마지막 사칙연산을 끝내고 OMR 카드에 마킹을 하자마자 종료 종이 울렸다. 온몸이 식은땀으로 젖은 채 자리에 주저앉아 헛웃음만 터져 나왔다. 이게 바로 오르비에서 말하던 '뇌정지'의 진짜 공포구나 싶었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-16T04:35:21.809591Z"
+  },
+  {
     "id": "story-20260915230210",
     "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
     "publisher": "수학주식",
