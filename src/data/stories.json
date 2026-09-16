@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260916230204",
+    "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고2 겨울방학, 디코방은 '칼바람 한 판만'이라는 초대장으로 뜨거웠다. 내 모의고사 성적은 인서울은커녕 지방대도 아슬아슬한 수학 5등급. 마우스 휠을 굴리며 고민하던 나는, 눈을 감고 조용히 단톡방을 나갔다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "친구들이 밤새 롤 티어를 올릴 때, 나는 책상 위에 시커먼 기출문제집 3개년을 쌓았다. '이걸 다 씹어 먹기 전까진 PC방 근처에도 안 간다.' 영하 10도의 매서운 방학 공기 속에서, 내 독서실 책상 위 가습기 김만 피어올랐다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "처음에는 4점짜리 킬러 문항 하나를 붙잡고 1시간 동안 피눈물을 흘렸다. 해설지를 봐도 외계어 같아 머리를 쥐어뜯었지만, 포기하지 않고 지우개 가루를 무덤처럼 쌓아가며 출제의도를 뜯어발겼다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "한 달이 지나자 거짓말처럼 기출의 패턴이 눈에 들어오기 시작했다. 평가원 출제위원들이 함정을 파놓은 길목이 훤히 비쳤을 때의 소름 돋는 카타르시스. 친구들이 한타 싸움에 울고 웃을 때, 나는 진짜 수능을 깨부수는 무기를 갈고닦았다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 첫 3월 학력평가 날, 교실을 메운 팽팽한 긴장감 속에서 시험지가 배부됐다. 첫 페이지를 넘기는 순간 척추를 타고 전율이 흘렀다. 겨울내내 토하듯이 분석했던 기출의 논리가 시험지 위에서 그대로 춤추고 있었다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "성적표가 나온 날, 교실 한구석이 발칵 뒤집어졌다. '수학 5등급 -> 압도적 1등급'. 여전히 플래티넘 승급전에 목매던 친구들이 떨리는 목소리로 비결을 물었을 때, 나는 그저 조용히 미소 지으며 다음 기출문제집을 펼쳤다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-16T23:02:04.116443Z"
+  },
+  {
     "id": "story-20260916150201",
     "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
     "publisher": "수학주식",
