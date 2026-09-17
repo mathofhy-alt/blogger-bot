@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260917070201",
+    "title": "수포자가 수능 수학 2등급 맞고 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 6월 모평 때 수학 8등급을 찍고 그냥 수학을 놨었다. '어차피 난 문과니까'라며 도망치던 내게, 담임 선생님은 전문대나 알아보라며 차가운 팩폭을 날리셨다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 밤, 자존심이 상해 독서실에서 혼자 펑펑 울었다. 오기가 생겨 다음 날부터 하루 10시간씩 오직 수학 개념서만 피를 토하듯 달달 외우기 시작했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "드디어 수능 당일, 심장이 터질 것 같은 2교시 수학 시간. 시험지를 넘기는 서글픈 소리들 사이로 신기하게도 내가 외웠던 공식들이 머릿속에서 입체적으로 그려지기 시작했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "미친 듯이 사투를 벌이다 정신을 차려보니 종이 울렸다. 가채점표를 적을 때만 해도 손이 사시나무 떨듯 떨렸고, 혹시 밀려 쓰진 않았을까 온몸에 식은땀이 흘렀다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "가채점 사이트에 답을 넣는 순간, 믿기지 않는 빨간 동그라미들이 화면을 덮었다. 늘 바닥을 기던 내가 마침내 마주한 '안정적인 2등급'. 눈물이 핑 돌며 뇌정지가 왔다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "거실로 뛰쳐나가 엄마를 붙잡고 꺼이꺼이 오열을 터뜨렸다. 포기하고 싶을 때마다 참아냈던 서러움이 이제야 기쁨의 눈물로 쏟아진, 내 인생 가장 뜨거웠던 날이었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-17T07:02:01.050072Z"
+  },
+  {
     "id": "story-20260917044054",
     "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
     "publisher": "수학주식",
