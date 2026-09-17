@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260917150209",
+    "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고2 겨울방학식 날, 애들은 \"야, 오늘부터 롤 배치고사다\"라며 PC방으로 달려갔다. 내 수학 모의고사 성적표는 처참한 4등급이었지만, 나 역시 '아직 시간 많잖아?' 하며 애써 현실을 부정하고 있었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 독서실 책상에 앉아 수능 디데이를 계산해 본 순간, 등 뒤로 식은땀이 쫙 흘렀다. 단톡방에선 플래티넘을 달았네 어쩌네 떠들며 웃고 있을 때, 나 혼자 텅 빈 방안에서 '이러다 진짜 망하겠다'는 공포가 엄습해 왔다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날로 단톡방 알림을 끄고 롤도 지웠다. 시커먼 수학 기출문제집을 펼쳤는데 쉬운 3점짜리조차 손을 못 대 머리를 쥐어뜯었다. 새벽 2시, 귓가에는 차가운 겨울바람 소리와 내 깊은 한숨 소리만 가득했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "포기하려다 '딱 5번만 보고 죽자'고 결심했다. 사각거리는 샤프 소리와 함께 손가락에 굳은살이 박여갈 때쯤, 어느 순간 안 풀리던 평가원 기출의 논리와 출제의도가 한눈에 마법처럼 보이기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대망의 3월 학평 날 아침. 반 애들은 어제 있었던 롤 패치 노트 이야기를 하며 낄낄거렸지만 내 심장은 차분했다. 내 가방 속엔 겨울 내내 너덜너덜해지도록 씹어 먹은 기출문제집이 들어있었으니까."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험지를 넘기자마자 온몸에 짜릿한 전율이 돋았다. 겨울 내내 수십 번 마주했던 기출의 구조가 그대로 보였다. 당당하게 수학 1등급을 찍고 멍하니 후회하는 애들을 보며 속으로 웃었다. 역전은 겨울에 시작된다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-17T15:02:09.821451Z"
+  },
+  {
     "id": "story-20260917070201",
     "title": "수포자가 수능 수학 2등급 맞고 오열한 썰",
     "publisher": "수학주식",
