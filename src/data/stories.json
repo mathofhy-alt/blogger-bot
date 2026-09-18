@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260918070151",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 D-100, 모의고사 성적표에 찍힌 만년 국어 4등급을 보고 등골이 서늘해졌다. 이대로는 인서울조차 불가능하다는 생각에, 남들이 다 말리는 무모한 계획인 '기출문제집 3회독 마스터'에 내 모든 사활을 걸기로 결심했다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "숨 막히는 에어컨 바람 아래, 사각거리는 샤프 소리만이 독서실을 채웠다. 1회독 때는 시뻘건 비 내리던 시험지였지만, 지문 속 문장 간의 연결고리를 뼈째 발라내듯 집요하게 뜯어보며 매일 밤을 하얗게 지새웠다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 2회독에 접어들자 정답은 기억나는데 '왜 이게 정답인지' 논리적으로 설명이 안 되는 극심한 슬럼프가 찾아왔다. 차가운 독서실 책상 위로 식은땀이 뚝뚝 떨어졌고, 내가 여태껏 헛공부한 건가 싶어 덜컥 겁이 났다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "절망을 누르고 악으로 깡으로 채운 3회독째, 마침내 찾아온 9월 모의평가 날. 시험지를 넘기는 순간, 놀랍게도 출제자가 파놓은 함정들이 마치 투명한 설계도처럼 눈앞에 선명하게 드러나기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "채점 결과는 기적 같은 국어 1등급, 백분위 98이었다. 기출 3회독은 단순히 문제를 외우는 게 아니라 평가원의 출제 뇌세포를 내 뇌에 그대로 이식하는 과정이었음을 깨달으며, 나는 승리의 미소를 지었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-18T07:01:51.812331Z"
+  },
+  {
     "id": "story-20260918042553",
     "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
     "publisher": "수학주식",
