@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260918042553",
+    "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "만년 수학 3등급의 늪에 빠져 울고 싶던 6월 모평 직후의 밤. '이번엔 진짜 끝장낸다'며 비장하게 기출문제집과 가위를 들고 책상 앞에 앉았을 때까진 몰랐다. 내가 얼마나 멍청한 짓을 반복하고 있었는지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "오답노트에 붙일 오답을 오려내던 순간, 등줄기에 서늘한 식은땀이 흘렀다. 저번 달 모의고사에서도, 심지어 석 달 전 기출에서도 완벽하게 똑같은 개념, 똑같은 계산 구멍에서 똑같이 자빠졌다는 사실을 발견한 것이다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "멍하니 내 손에 든 가위와 풀을 바라봤다. 나는 공부를 한 게 아니라, 틀린 문제를 예쁘게 오려 붙이며 '오늘 공부 열심히 했다'고 스스로를 속이는 '가위질 노동'과 감성 브이로그용 껍데기 공부만 반복하고 있었다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "당장 가위를 던져버리고 해설지를 찢어 덮은 채 백지를 펼쳤다. 예쁜 노트 정리 따위 집어치우고, 내가 왜 이 조건에서 이 공식으로 넘어가지 못했는지 '내 뇌의 사고 회로가 끊어진 지점'을 이 잡듯 추적하기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "억지로 외우던 공식들이 유기적으로 연결되며 머릿속에 번개가 친 듯 쨍한 전율이 흘렀다. 평가원이 설계한 출제 원리와 함정이 훤히 내려다보이는 그 순간, 비로소 수학이 외우는 과목이 아닌 '이해하는 게임'으로 바뀌었다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "오답노트 개수에 집착하던 껍데기 공부를 끝내자, 두껍던 오답노트는 내 약점만 적힌 가벼운 단 한 장의 종이로 압축되었다. 이제 나는 완벽히 다른 눈빛으로, 다가올 수능 시험장을 향해 걸어 나갈 준비가 되었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-18T04:25:53.605771Z"
+  },
+  {
     "id": "story-20260917230159",
     "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
     "publisher": "수학주식",
