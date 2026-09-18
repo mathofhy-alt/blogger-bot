@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260918150156",
+    "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "월 200만 원짜리 대치동 1타 강사 서바이벌 모의고사반 프리패스. 남들 다 듣는 대형 강의실 앞자리에 앉아있으면, 내가 이미 1등급이 된 것 같은 기분 좋은 착각에 빠져 있었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 6월 모의고사 성적표는 처참한 4등급. 시험지를 넘길 때마다 식은땀이 비 오듯 흘렀고, 학원에서 배운 화려한 스킬들은 머릿속에서 하얗게 지워진 채 종소리가 울렸다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "충격에 휩싸여 대치동 학원 교재를 전부 쓰레기통에 처박고 독서실 골방으로 들어갔다. 오직 평가원 기출문제집 단 한 권만 올려놓고, 세상과 단절된 채 혼자만의 싸움을 시작했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "쉬운 4점짜리 한 문제에 40분씩 매달렸다. 해설지를 덮고 '왜 이 문장 뒤에 이 조건이 붙었을까?' 출제자의 의도를 집요하게 추적하며 머리를 쥐어뜯었다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그 순간, 머릿속에서 굳게 닫혀있던 논리의 문이 열렸다. 1타 강사들의 현란한 꼼수가 아니라, 평가원이 매년 반복해서 쓰는 정교한 출제 공식이 눈앞에 선명하게 그려지기 시작했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "9월 모의고사 가채점 결과, 늘 발목을 잡던 수학이 당당하게 96점 1등급. 결국 성적을 올리는 건 대치동의 족보가 아니라, 내 손으로 시험지를 찢어가며 고민했던 그 고독한 시간뿐이었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-18T15:01:56.788380Z"
+  },
+  {
     "id": "story-20260918070151",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
