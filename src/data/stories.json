@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260919042259",
+    "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "평소 모의고사 국수영 안정 1등급이라 솔직히 좀 거만했어. '수능보다 아주 조금 어렵겠지' 하며 콧노래 부르며 독서실 책상에 경찰대 기출 시험지를 당당하게 뽑아 올려놓았지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "타이머를 누르고 영어 1번 문항을 읽자마자 등 뒤로 식은땀이 쫙 흐르더라. 태어나서 처음 보는 괴랄한 어휘들과 끝없이 이어지는 지문의 압박에 뇌가 완전히 정지해 버렸어."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "정신줄 잡고 수학으로 넘어갔는데 그건 더 지옥이었지. 수능 최고난도 킬러급 문제가 1번부터 대놓고 등판하는데, 식을 쓰다 공간이 모자라 샤프심이 뚝뚝 부러지더라."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "절반도 채 풀지 못했는데 무심히 알람이 울렸고, 처참하게 비가 내리는 시험지를 마주했어. 온몸의 힘이 쭉 빠지면서 '내가 여태껏 한 공부는 뭐였지?' 싶어 눈물이 핑 돌았지."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 커뮤니티에 검색해 보니 이게 경찰대 기출을 처음 맛본 고3들의 필수 통과의례라더군. 무너진 자존심을 추스르고, 더 독해지기로 결심하며 뺨을 치고 다시 펜을 잡았어."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-19T04:22:59.882139Z"
+  },
+  {
     "id": "story-20260918230200",
     "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
     "publisher": "수학주식",
