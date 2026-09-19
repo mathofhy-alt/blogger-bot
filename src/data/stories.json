@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260919230152",
+    "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 시험장, 21번까지 막힘없이 풀어내며 오늘 무조건 수학 1등급이라는 확신이 뇌리를 스쳤다. 시험장 안의 숨 막히는 침묵 속에서, 나는 승리의 미소를 지으며 대망의 22번으로 시험지를 당당하게 넘겼다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 마주한 22번은 괴상한 삼차함수 그래프 조건으로 가득 찬 괴물이었다. '평소 풀던 기출 변형이네'라며 가볍게 샤프를 굴렸으나, 첫 줄 식을 세우는 것부터 계산이 이상하게 꼬이기 시작했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "째깍이는 아날로그시계 소리가 심장 타격음처럼 커지고, 이마에서 식은땀 한 방울이 시험지 위로 툭 떨어졌다. 사각사각 지우개 가루만 하얗게 쌓여가는데, 머릿속 회로가 뚝 끊긴 듯 다음 단계가 도무지 떠오르지 않았다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "옆자리 녀석의 거침없는 사각거림은 나를 더 미치게 만들었고, 시험지의 숫자들은 분열하듯 흐려졌다. 사칙연산조차 의심하게 되는 완전한 뇌정지 상태, 내 영혼은 이미 탈탈 털려 우주를 떠돌고 있었다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험 종료 5분 전을 알리는 종소리에 심장이 덜컥 내려앉았고, 나는 풀이 과정을 전부 포기한 채 직관에 몸을 맡겼다. 삼차함수 극대극소 비율 관계를 째려보며 가장 그럴듯한 숫자 '12'를 OMR 카드에 미친 듯이 마킹했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 저녁 가채점 시간, 떨리는 손으로 채점 사이트를 새로고침하던 나는 비명을 지르고 말았다. 내가 찍은 '12'가 진짜 정답이었던 것! 안도의 눈물 뒤로, 시험장에선 왜 그 쉬운 게 안 보였는지 허탈한 실소가 터져 나왔다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-19T23:01:52.918231Z"
+  },
+  {
     "id": "story-20260919150151",
     "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
     "publisher": "수학주식",
