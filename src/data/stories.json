@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260919070154",
+    "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "중학교 땐 공부 좀 한다는 소리 들었고, 수학은 늘 A등급이었지. 고1 3월 첫 모의고사 아침, '수능 맛보기나 해볼까?' 하며 자신만만하게 시험지를 받아 들었어."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "종이 울리고 시험지를 넘기는데, 어라? 10번 문제부터 막히기 시작하는 거야. 사각거리는 아날로그시계 초침 소리만 귓가에 박히고 등에선 식은땀이 흘렀지."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "별표만 치다 보니 어느새 마지막 페이지의 킬러 문항들만 남았더라고. 하얗게 질린 시험지를 보며 머릿속도 완전히 포맷되는 끔찍한 기분이 들었어."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "채점 시간, 빨간 비가 사정없이 내리더니 결국 마주한 점수는 '40점'. 내 인생에서 단 한 번도 본 적 없는 처참한 숫자에 눈앞이 캄캄해졌어."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "교실 뒤편에 붙은 등급컷을 보며, 중학교 때의 얄팍한 암기식 공부는 고등학교에서 전혀 통하지 않는다는 잔인한 현실을 뼈저리게 깨달았지."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "한참을 울다가 책꽂이에서 고1 수학 기본서를 다시 꺼냈어. 40점짜리 시험지를 오답 노트 맨 앞에 붙이며, 진짜 독하게 시작해 보기로 결심했지."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-19T07:01:54.488784Z"
+  },
+  {
     "id": "story-20260919042259",
     "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
     "publisher": "수학주식",
