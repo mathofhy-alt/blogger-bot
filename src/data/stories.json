@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260920150153",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 D-100일, 모의고사 국어 4등급 성적표를 받고 뒤통수를 맞은 듯 멍해졌다. 더는 물러설 곳이 없다는 생각에 피눈물을 흘리며 두꺼운 기출문제집을 독서실 책상에 얹었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "1회독은 그야말로 지옥이었다. 모르는 단어투성이에 눈물이 고였고, 밤새 사각거리는 샤프 소리 속에서 뻑뻑한 눈을 비벼가며 겨우 마지막 페이지를 넘겼다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "이어진 2회독, 신기하게도 평가원의 고약한 함정들이 보이기 시작했다. 나를 낚으려 파놓은 매력적인 오답들을 발견할 때마다 등등했던 불안감이 확신으로 바뀌었다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "망설임 없던 3회독 단계에선 첫 문장만 읽어도 출제자의 의도가 머릿속에 훤히 그려졌다. 시험지 넘기는 속도가 빨라지며 온몸에 짜릿한 전율이 흘렀다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대망의 시험 날, 떨리는 손으로 시험지를 펼쳤을 때 나는 승리를 직감했다. 기출에서 질리도록 본 논리 구조가 훤히 겹쳐 보였고, 마침내 인생 첫 국어 1등급을 거머쥐었다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 100일은 절대 짧은 시간이 아니다. 방법이 틀렸을 뿐이니, 지금 당장 불안해할 시간에 기출문제집 첫 장을 펼쳐라. 기출은 절대 너를 배신하지 않는다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-20T15:01:53.208118Z"
+  },
+  {
     "id": "story-20260920070151",
     "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
     "publisher": "수학주식",
