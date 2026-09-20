@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260920230204",
+    "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "평소 수학 고정 1등급이라 자부하던 모의고사 날. 앞장까지 막힘없이 풀고 마지막 22번을 맞닥뜨렸을 때, 시계에는 무려 30분이 남아 있었습니다. '오늘 드디어 만점 각이다'라며 기분 좋게 펜을 돌렸죠."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 발문을 읽는 순간 머릿속 회로가 단체로 버벅거리기 시작했습니다. 최고차항 계수가 양수인 삼차함수라는데, 아무리 그래프를 그려봐도 조건에 맞는 개형이 단 하나도 나오지 않는 겁니다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "째깍거리는 아날로그시계 소리가 유난히 크게 울리고, 등 뒤로 식은땀이 주르륵 흘렀습니다. 당황하니까 '7 더하기 8' 같은 아주 쉬운 초등학교 산수마저 머릿속에서 하얗게 지워지더군요."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "남은 시간 5분, 사방에서 시험지 넘기는 소리가 파도처럼 밀려오는데 저 혼자 심연에 갇힌 기분이었죠. 결국 반쯤 정신이 나간 심정으로 수험생 국룰 찍기 숫자인 '-1'을 대충 적어 넣었습니다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험이 끝나고 떨리는 손으로 수험생 커뮤니티에 접속하자마자 심장이 쿵 내려앉았습니다. '이번 22번 조건 대입만 하면 바로 풀리네'라는 글을 보고 나서야, 제가 문제를 완전히 잘못 읽었다는 걸 깨달았죠."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 채점 결과는 처참한 등급 하락이었고, 그날 밤 침대 이불을 차며 눈물을 흘렸습니다. 여러분은 아무리 시간이 많아도 절대 자만하지 마세요, 저처럼 22번에 뇌정지 오고 피눈물 흘립니다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-20T23:02:04.228454Z"
+  },
+  {
     "id": "story-20260920150153",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
