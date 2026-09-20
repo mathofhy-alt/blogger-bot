@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260920070151",
+    "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "내신 수학은 항상 전교 1등이었고, 1등급 아래로는 내려가 본 적이 없었다. 수능 수학쯤이야 내신 공부하듯 문제집만 양치기로 밀어붙이면 가볍게 1등급 찍을 줄 알았지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "드디어 수능 당일, 2교시 수학 시험지가 배부되고 사방에서 사각거리는 소리가 들렸다. 그런데 4점짜리 준킬러 문항에 진입하자마자 머릿속이 하얗게 비어버리기 시작했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "외워서 풀던 내신 유형과는 차원이 달랐다. 낯선 조건 해석에 갇혀 시간은 미친 듯이 흘러갔고, 등 뒤로 식은땀이 흐르며 OMR 카드에 마킹하는 손이 사정없이 떨렸다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 당일 밤 가채점을 하는데 빨간 비가 내리는 시험지를 보며 심장이 곤두박질쳤다. 믿었던 내신 1등급의 자존심은 완전히 박살 났고, 채점 결과는 차가운 '3등급'이었다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "침대에 엎드려 이불을 뒤집어쓴 채 밤새 서럽게 오열했다. 단순 암기와 기계적인 양치기 공부는 수능이라는 진짜 시험 앞에서 아무런 힘도 쓰지 못한다는 걸 너무 늦게 깨달았다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-20T07:01:51.801711Z"
+  },
+  {
     "id": "story-20260920044122",
     "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
     "publisher": "수학주식",
