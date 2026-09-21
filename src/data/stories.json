@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260921150158",
+    "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "전교 내신 1.0, 수학만큼은 언제나 독보적인 전교 1등이었던 나. 학교 시험지는 20분 만에 다 풀고 하품하던 내가 수능날 그렇게 처참하게 무너질 줄은 꿈에도 몰랐다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 날 2교시, 시험지를 펼쳤을 때까지만 해도 자신감이 넘쳤다. 1번부터 10번까지는 평소처럼 막힘없이 풀려나갔고, 난 이번에도 무난하게 1등급을 받을 거라 확신했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 14번 준킬러 문항에서 숨이 턱 막혔다. 내신 때 외웠던 수많은 유형과 공식들이 머릿속에서 어지럽게 엉켰고, 식은땀이 눈을 찔러 시야가 흐려지기 시작했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "사각사각 시험지 넘기는 소리가 거대한 압박감으로 귓가를 때렸다. 심장은 미친 듯이 뛰는데 시간은 속절없이 흘러갔고, 결국 몇 문제를 허겁지겁 찍은 채 종이 울려버렸다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "가채점 시간, 채점용 빨간 펜이 시험지를 지나갈 때마다 가슴이 내려앉았다. 3점짜리 쉬운 문항마저 우수수 비가 내리며 마주한 '수능 수학 3등급', 눈물조차 나오지 않는 충격이었다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "내신 1등급이라는 달콤한 껍데기에 취해 수능의 본질을 외면했던 대가는 너무나 잔혹했다. 뼈저리게 깨달았다, 내신은 단순 암기와 양치기지만 수능은 진짜 사고력의 싸움이라는 것을."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-21T15:01:58.396517Z"
+  },
+  {
     "id": "story-20260921070158",
     "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
     "publisher": "수학주식",
