@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260921230206",
+    "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고2 11월 학평 수학 4등급 성적표를 받고 세상이 무너지는 줄 알았다. 날씨는 미치게 추운데, 단톡방에서는 '야 롤 드와라 칼바람 고'라며 철없는 동기들의 카톡이 끊임없이 울려댔다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "큰맘 먹고 PC방 유혹을 뿌리친 채 독서실 구석 자리에 앉았다. 친구들의 디스코드 로그인 알림을 강제로 끄고, 책장에 꽂혀 있던 빳빳하고 두꺼운 수학 기출문제집을 비장하게 펼쳤다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "처음엔 비참했다. 남들 롤 티어 올릴 때, 난 4점짜리 기출 한 문제에 막혀 두 시간을 끙끙대며 지우개 가루만 만들었다. 시험지가 찢어질 듯 샤프를 꾹꾹 누르며 눈물이 핑 돌기도 했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그렇게 고통의 1월이 지나고 기출을 3회독째 돌렸을 때, 신기하게도 출제자의 의도가 보이기 시작했다. 슥슥 시험지 넘기는 소리만 가득한 새벽, 마침내 나만의 오답 노트가 완벽하게 완성되어 갔다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "운명의 고3 3월 학력평가 당일, 교실 안은 극도의 긴장감과 한숨으로 가득했다. 하지만 수학 시험지를 넘기는 순간, 겨울방학 내내 닳도록 풀었던 기출의 유형들이 선명하게 눈앞에 겹쳐 보였다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "'수학 1등급.' 채점 결과가 믿기지 않아 손이 벌벌 떨렸다. 여전히 실버 탈출에 목숨 거는 친구들의 카톡을 보며, 나는 조용히 성적표를 덮고 짜릿한 역전의 미소를 지었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-21T23:02:06.245068Z"
+  },
+  {
     "id": "story-20260921150158",
     "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
     "publisher": "수학주식",
