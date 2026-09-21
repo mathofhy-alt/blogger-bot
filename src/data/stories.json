@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260921044007",
+    "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "중학교 때 나름 전교권에서 놀던 실력이라, 고등학교 첫 3월 모의고사 따위 가볍게 씹어 먹을 줄 알았다. '수학? 1등급 찍고 의대 가야지'라며 건방지게 샤프를 굴릴 때만 해도 내 미래가 어떻게 박살 날지 전혀 몰랐다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험 시작종이 울리고 시험지를 넘기는데 사각거리는 소리 사이로 기괴한 침묵이 흘렀다. 분명 아는 개념 같은데 손이 완전히 굳었고, 14번 도형 문제를 마주한 순간 머릿속이 하얘지며 식은땀이 흘러내렸다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "종소리와 함께 채점을 시작하자 내 빨간 펜은 마치 비 내리는 소나기처럼 시험지 위를 그어 내려갔다. 채점 결과는 충격적인 '40점', 태어나서 처음 보는 처참한 숫자에 손끝이 떨리며 눈앞이 아득해졌다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "'이번 수학 엄청 쉽지 않았냐?'라는 짝꿍의 목소리를 뒤로한 채, 나는 도망치듯 교실을 빠져나왔다. 버스 창문에 이마를 기댄 채, 중학교 시절의 거만했던 내가 너무 한심하고 부끄러워서 왈칵 눈물이 쏟아졌다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "비참하게 무너졌던 그날 밤, 나는 독서실 구석 자리에서 눈물을 닦고 개념서 첫 장을 다시 폈다. 40점이라는 숫자는 씻을 수 없는 상처였지만, 내 진짜 공부는 바로 그 최악의 절망 끝에서 시작되고 있었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-21T04:40:07.324631Z"
+  },
+  {
     "id": "story-20260920230204",
     "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
     "publisher": "수학주식",
