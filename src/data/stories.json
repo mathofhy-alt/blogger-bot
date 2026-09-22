@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260922070156",
+    "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "전교 1등, 내신 수학은 무조건 100점. 학교 선생님들도 '넌 당연히 메디컬이나 스카이 감'이라며 치켜세웠고, 나 역시 수능 수학쯤은 껌인 줄 알았다. 모의고사 대충 풀어도 1등급 턱걸이는 나왔으니까."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 수능 당일, 2교시 수학 시험지를 펼친 순간 등줄기에 소름이 돋았다. 4점짜리 첫 페이지인 9번부터 막히기 시작하더니, 내신 때 주야장천 외운 양치기 유형은 단 하나도 보이지 않았다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "째깍거리는 시계 소리 속에서 사각사각 옆자리 애들 시험지 넘기는 소리가 파도처럼 나를 압박했다. 식은땀이 눈을 찔러도 22번, 30번은커녕 준킬러조차 손을 못 대고 헤매다 결국 종이 울려버렸다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "채점 시간, 빨간 비가 내리는 시험지를 보며 억눌렀던 눈물이 터져 나왔다. 가채점 결과는 충격적인 '3등급 76점'. 내신 1등급이라고 자만하며 낯선 신유형을 깊이 고민하지 않았던 지난날이 뼈저리게 후회됐다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 수시 최저를 못 맞춰 올광탈하고 재수학원 선행반에 주저앉아 있다. 내신 등급의 달콤함에 속아 수능이라는 진짜 시험의 깊이를 우습게 본 대가는 너무나 잔인했다. 얘들아, 진짜 내신 잘 나온다고 절대 방심하지 마라."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-22T07:01:56.612248Z"
+  },
+  {
     "id": "story-20260922043557",
     "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
     "publisher": "수학주식",
