@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260922043557",
+    "title": "수학 킬러문제 22번 풀다가 뇌정지 온 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "6월 모평 수학 시간, 앞장의 쉬운 문제들을 광속으로 해치우고 드디어 마주한 공통과목 마지막 22번. 1등급을 가를 이 킬러 문항만 풀어내면 오늘도 완벽한 승리라고 확신하며 자신 있게 펜을 굴리기 시작했다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "최고차항 계수가 1인 삼차함수 f(x)를 그리며 화려하게 시작했는데, 뇌를 스치는 이상한 기운. 조건 가와 나의 관계가 도무지 앞뒤가 안 맞는다. 식을 써내려가던 손끝이 미세하게 떨리기 시작했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "째깍이는 시계 소리만 고막을 때리고, 사방에서 다른 애들이 시험지 넘기는 '스윽' 소리가 압박해온다. 순간 머릿속이 하얗게 비어가더니, 쉬운 더하기 빼기조차 손에 잡히지 않는 심각한 '뇌정지'가 찾아왔다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험 종료 5분 전, 심장이 터질 것 같은 고요 속에서 손등에는 식은땀이 흘러내렸다. 다시 정신을 차려보려 식을 노려보았지만, 눈앞의 숫자들은 이미 외계어처럼 둥둥 떠다니며 나를 조롱하는 것만 같았다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "결국 논리적 풀이를 포기하고 주관식 답안지에 내가 가장 좋아하는 숫자인 '13'을 마킹했다. OMR 카드를 제출하자마자 온몸의 힘이 쭉 빠지며, 내 소중한 1등급의 꿈도 함께 날아간 기분이었다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "집에 돌아와 채점 방송을 켜니 실시간 수험생 커뮤니티는 이미 불타오르고 있었다. 혹시나 하는 마음에 두근거리며 확인한 22번의 진짜 정답은... '4'. 역시 찍어서 맞히는 기적 같은 건 나에게 존재하지 않았다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-22T04:35:57.772016Z"
+  },
+  {
     "id": "story-20260921230206",
     "title": "고2 겨울방학, 남들 롤할때 기출문제 풀어서 역전한 썰",
     "publisher": "수학주식",
