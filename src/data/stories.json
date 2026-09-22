@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260922230200",
+    "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "모의고사 늘 안정적인 국수영 1등급이라 \"나 혹시 경찰대 체질인가?\" 하고 근자감 넘치게 기출을 펼쳤음. 제복 입은 내 미래를 상상하며 독서실에서 비장하게 샤프를 쥐었지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "근데 1번부터 턱 막히더라. 영어는 단어가 무슨 외계어고, 수학은 3점짜리가 수능 킬러급이었음. 한 장 넘기기도 전에 머리가 하얘지며 손에 식은땀이 쫙 흐르기 시작했지."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "어떻게든 비벼보려는데 제한시간 80분 중 벌써 40분이 날아갔더라. 수능이랑은 차원이 다른 괴랄한 계산량과 난이도에 멘탈이 바스러지고 독서실 백색소음마저 나를 비웃는 것 같았음."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "반쯤 울며 찍고 채점하는데 비가 내리다 못해 폭우가 쏟아짐. 마주한 점수는 충격적인 30점대. 내가 알던 수능 1등급의 자만심이 바닥까지 와르르 무너져 내리는 순간이었음."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"아, 여긴 진짜 굇수들이 가는 영역이구나\" 싶으면서 온몸에 힘이 탁 풀렸어. 하늘 높은 줄 모르던 내 오만함을 반성하고, 진짜 겸손하게 공부 해야겠다고 뼈저리게 느낌."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "오늘부로 근자감 싹 접고 겸손하게 국어 연계교재부터 다시 펼쳤다. 경찰대 기출은 내 분수를 알게 해준, 아주 고맙고 매운 예방주사였다고 생각하려고. 열공하자 얘들아."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-22T23:02:00.973198Z"
+  },
+  {
     "id": "story-20260922150226",
     "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
     "publisher": "수학주식",
