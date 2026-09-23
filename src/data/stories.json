@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260923230157",
+    "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "중학교 내내 수학은 늘 90점대라 나름 '수학 좀 친다'고 자부했었다. 고1 올라와서 치른 대망의 3월 첫 모의고사, 시험지를 받기 전까지만 해도 내 미래가 서울대 갈 줄 알고 김칫국부터 마시고 있었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "\"시험 시작!\" 종이 울리고 1, 2페이지는 가볍게 풀었는데, 3페이지로 넘어가면서부터 식은땀이 흐르기 시작했다. 분명히 배운 개념인데 숫자와 기호들이 낯설게 엉키더니 머릿속이 하얘졌고, 사방에서 들리는 사각사각 시험지 넘기는 소리가 나를 압박했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시간은 미친 듯이 흘러가는데 손댈 수 없는 4점짜리 킬러 문항들이 나를 비웃는 것 같았다. 결국 마지막 10분을 남겨두고 번호 하나로 기둥을 세우며 OMR 카드를 마킹하는데, 심장이 쿵쾅거려 손끝이 벌벌 떨렸다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "야간자율학습 시간, 수험생 커뮤니티에 뜬 등급컷을 보며 빨간펜으로 가채점을 시작했다. 시험지에 비 내리듯 사정없이 그어지는 빨간 줄을 보며 내 눈을 의심했고, 최종 점수 '40점'을 마주한 순간 온몸의 피가 차갑게 식어내렸다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "반에서 늘 나보다 공부 못한다고 생각했던 녀석들이 \"이번 수학 쉬웠지 않냐\"며 떠드는 소리가 아득하게 들려왔다. 중학교 때의 얄팍한 암기식 공부법이 철저히 박살났음을 깨닫고, 서랍 깊숙이 시험지를 처박으며 조용히 눈물을 삼켰다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 밤, 커뮤니티에 '고1 3모 수학 40점 갱생 가능하냐'는 글을 올리며 비장하게 수학 기본서 첫 장을 다시 펼쳤다. 이 비참함을 절대로 잊지 않고, 수능 날에는 반드시 1등급으로 웃어주겠노라 다짐하며 펜을 굳게 쥐었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-23T23:01:57.958396Z"
+  },
+  {
     "id": "story-20260923070205",
     "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
     "publisher": "수학주식",
