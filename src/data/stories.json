@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260923043215",
+    "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 6평 수학 시간, 사방에서 시험지 넘어가는 소리가 들리는데 내 시험지는 하얗기만 했다. 결국 찍기 바빴던 마킹 마감 종이 울리고, 성적표에 선명하게 찍힌 '5등급'을 보며 머리가 아득해졌다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "남들은 대치동 1타 강사의 비싼 실모를 풀 때, 집안 형편이 어려웠던 나는 그냥 두꺼운 기출문제집 딱 한 권만 샀다. '여기에 평가원의 모든 출제 공식이 들어있다'는 말을 무식하게 믿어보기로 했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "처음엔 해설지를 봐도 외계어 같아서 쉬운 4점짜리 한 문제에 1시간씩 붙잡고 피눈물을 흘렸다. 하지만 풀이 과정을 오답 노트에 통째로 베껴 쓰고 지우기를 반복하며 출제자가 숨겨놓은 개념의 뼈대를 집요하게 파고들었다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그렇게 기출을 세 바퀴쯤 돌렸을 때 머릿속에서 기적이 일어났다. 어렵게만 보이던 사설 변형 문제들도 결국 과거 기출문제의 연결고리를 조금씩 비튼 것에 불과하다는 본질이 번개처럼 뇌리에 꽂히기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대망의 수능 날, 긴장감 속에 수학 시험지를 넘기는데 신기하게 온몸에 소름이 돋았다. 그토록 무섭던 킬러 문항들이 내가 수백 번도 넘게 분석했던 기출문제들의 실루엣을 그대로 겹쳐 보이며 내 손끝에서 거침없이 풀려나갔다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 받아 든 성적표에는 당당하게 '수학 1등급' 두 글자가 박혀 있었다. 비싼 학원도, 화려한 사설 교재도 필요 없다. 기출을 온전히 내 피와 살로 만들면 수능 수학은 반드시 뚫린다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-23T04:32:15.901015Z"
+  },
+  {
     "id": "story-20260922230200",
     "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
     "publisher": "수학주식",
