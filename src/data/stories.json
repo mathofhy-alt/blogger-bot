@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260924042947",
+    "title": "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 시절 국어 모평 1등급을 놓친 적 없던 난, 기출문제집을 5번이나 회독하며 모든 답을 외우고 있었어. '기출은 다 마스터했다'며 오만한 자신감에 가득 차 있었지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 수능 당일, 시험지를 넘기는 서늘한 소리 속에서 식은땀이 비 오듯 흘렀어. 처음 보는 지문 앞에서 내가 외운 기출 양식은 무용지물이었고, 결국 4등급이라는 처참한 성적표를 받았지."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "재수 종합반 책상에 앉아 작년과 똑같은 기출책을 다시 폈을 때 밀려오는 허무함이란. '이미 답을 다 아는데, 이걸 또 시간 재고 푸는 게 도대체 무슨 의미가 있을까' 싶어 멍하니 허공만 바라봤어."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그러다 문득 답이 아닌 '조건'들이 눈에 들어오기 시작했어. 평가원 출제자들이 오답 선지를 만들기 위해 본문 단어를 어떻게 교묘히 비틀었는지, 그 정교한 '설계도'가 보인 순간 온몸에 전율이 돋았지."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "기출이 전부라는 말은 답을 외우라는 게 아니었어. 평가원이 매년 반복해서 출제하는 '정답을 숨기고 매력적인 오답을 만드는 공식'을 내 뇌에 완전히 이식하라는 뜻이었던 거야."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "두 번째 수능 날, 시험지를 넘기는데 더 이상 심장이 떨리지 않더라. 아무리 낯선 신유형 지문이 나와도 그 뒤에 숨겨진 평가원의 출제 공식이 훤히 들여다보였고, 난 웃으며 거침없이 사프를 굴렸어."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-24T04:29:47.890619Z"
+  },
+  {
     "id": "story-20260923230157",
     "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
     "publisher": "수학주식",
