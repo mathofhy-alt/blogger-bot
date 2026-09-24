@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260924230213",
+    "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "전교 1등, 내신 수학은 무조건 100점. 3년 내내 1등급을 놓친 적 없던 나는 내가 수학 천재인 줄 알았다. 수능도 기출 몇 번 돌리면 가뿐하게 만점 받을 거라 자만했었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "드디어 수능 당일. 차가운 교실 공기 속에서 수학 시험지가 배부되고, '시작' 소리와 함께 1번부터 거침없이 풀어나갔다. 이때까지만 해도 1등급은 당연히 내 차지인 줄 알았다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 11번을 넘어선 순간, 숨이 턱 막혔다. 내신 때 닳도록 외웠던 문제 유형은 단 하나도 없었고, 생전 처음 보는 낯선 그래프들이 내 앞길을 꽉 가로막고 있었다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험장의 아날로그시계 소리가 심장을 찢는 것 같았다. 풀리지 않는 한 문제를 붙잡고 손을 덜덜 떨다 보니 어느새 남은 시간은 15분, 눈앞이 하얗게 흐려지기 시작했다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 당일 저녁, 채점 결과는 처참한 '3등급'. 내신 1등급의 자존심은 갈가리 찢겼고, 내가 해온 수학은 진짜 수학이 아니라 그저 단순 암기였다는 생각에 방바닥에서 목놓아 오열했다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "내신은 성실함의 영역이지만, 수능은 사고력의 깊이를 묻는 시험이었다. 나와 같은 실수를 반복하지 마라. 수능 수학을 잡으려면 양치기가 아니라 스스로 끝까지 생각하는 힘을 길러야 한다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-24T23:02:13.811602Z"
+  },
+  {
     "id": "story-20260924070154",
     "title": "재수생이 말해주는 '기출문제가 전부다'라는 말의 진짜 의미",
     "publisher": "수학주식",
