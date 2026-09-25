@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260925070146",
+    "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "중학교 때는 수학 공부 좀 한다며 90점 밑으로 내려가 본 적이 없었다. 고1 3월 첫 모의고사 날 아침, 내 손에 쥔 컴퓨터용 사인펜이 마치 무기라도 된 양 어깨를 한껏 으쓱이며 교실로 들어섰다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 시험 시작 종이 울리고 시험지를 넘기는 순간, 내 심장은 쿵 내려앉았다. 사방에서 사각거리는 필기구 소리가 들려오는데, 4점짜리 문항들은 마치 외계어처럼 보여 식은땀이 온몸을 적시기 시작했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시계 바늘은 미친 듯이 달려가는데 손도 대지 못한 문항들이 눈앞에 수두룩했다. 결국 OMR 카드 마킹 시간 5분을 남겨두고 번호 하나로 기둥을 세우는 순간, 온몸의 피가 식는 참담한 기분이 들었다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "채점 결과는 처참한 '40점', 난생처음 마주하는 5등급이라는 숫자가 성적표에 선명하게 박혔다. 내 머리가 이토록 나빴던 건가 싶어, 텅 빈 교실에서 찢겨진 시험지를 붙잡고 눈물조차 나오지 않는 허탈감에 빠졌다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "집으로 돌아와 충격을 가라앉히고 오답 노트를 만들며 내 공부의 민낯을 마주했다. 단순히 유형을 암기하던 중학교 식 야매 공부법은 고등학교 수학이라는 벽 앞에서 아무짝에도 쓸모없다는 것을 뼈저리게 깨달았다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그날 이후 독서실 구석에서 수학 개념서가 너덜너덜해질 때까지 파고들며 기초부터 다시 쌓기 시작했다. 지금 이 처참한 40점은 내가 수능 날 수학 100점을 맞기 위해 맞은 가장 완벽한 예방주사일 뿐이니까."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-25T07:01:46.608735Z"
+  },
+  {
     "id": "story-20260925044057",
     "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
     "publisher": "수학주식",
