@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260925230156",
+    "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고교 3년 내내 내신 수학은 전교 1등, 늘 1등급만 찍히는 성적표를 보며 기고만장했지. 수능 수학쯤이야 내신 공부하듯 문제집 양치기로 유형만 달달 외우면 가뿐하게 1등급 맞을 줄 알았어."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "하지만 수능 당일, 수학 시험지를 펼친 순간 등줄기에 소름이 돋았어. 14번 문제부터 평소 내신 시험에서 보던 정형화된 공식이 전혀 안 통하더라고. 시계 초침 소리는 점점 커지는데 머릿속은 하얗게 비어갔지."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "사방에서 시험지 넘기는 소리가 들려올 때마다 심장이 쿵쾅거려 미칠 것 같았어. 킬러 문항은 손도 못 대고, 준킬러 계산마저 꼬이기 시작하자 결국 식은땀을 뻘뻘 흘리며 번호들을 찍기 시작했어."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "가채점 날, 빨간 펜으로 채점하는데 내 눈을 의심했어. 비처럼 내리는 비바람 속에 굳건했던 내 수학 점수가 70점대, '수능 3등급'이라는 처참한 숫자로 박혀버렸고, 난 그날 밤 이불을 뒤집어쓰고 오열했지."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그제야 뼈저리게 깨달았어. 내신 1등급은 단순히 학교 부교재랑 기출을 통째로 암기해서 얻은 '껍데기 1등급'이었다는 걸. 깊은 사고력 없이 양치기로만 버틴 내 진짜 실력이 수능이라는 진짜 판에서 처참히 뽀록난 거야."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "혹시 지금 내신 수학 잘 나온다고 자만하는 후배들이 있다면 당장 경각심을 가져. 수능은 암기 과목이 아니야. 진짜 생각하는 힘을 기르지 않으면 나처럼 수능 날 시험장에서 피눈물 흘리게 될 테니까."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-25T23:01:56.599662Z"
+  },
+  {
     "id": "story-20260925150137",
     "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
     "publisher": "수학주식",
