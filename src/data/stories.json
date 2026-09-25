@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260925044057",
+    "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "전교에서 수학은 내가 제일 잘하는 줄 알았어. 내신 시험지는 항상 100점이었고, 친구들이 모르는 기출문제를 들고 내 자리로 줄을 서곤 했으니까."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "드디어 수능 당일, '수학 1등급은 따놓은 당상'이라며 기세등등하게 시험지를 넘겼어. 사각거리는 소리와 함께 내 비극이 시작될 줄은 꿈에도 모른 채."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "11번부터 숨이 턱 막혔어. 내신 때처럼 양치기로 외운 유형들이 전혀 통하지 않는 생소한 비주얼에, 손가락 끝부터 식은땀이 흐르며 머릿속이 하얘지기 시작했지."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시계 초침 소리는 심장을 때리고, 킬러 문항들은 외계어처럼 보였어. 결국 평소엔 손도 안 대던 번호로 찍기 번호를 마킹하는데, 눈앞이 흐려지며 눈물이 툭 떨어지더라."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "채점 날, 빨간 소나기가 내린 시험지를 보며 오열했어. '내신 1등급'이라는 가짜 왕관에 취해 진짜 사고력을 기르지 않은 대가는 처참한 '수능 3등급'이었지."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "이 글을 보는 후배들아, 내신 등급에 속아 자만하지 마. 양치기로 외우는 수학은 수능 시험장 문을 여는 순간, 가장 처참하게 무너지는 모래성일 뿐이니까."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-25T04:40:57.077049Z"
+  },
+  {
     "id": "story-20260924230213",
     "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
     "publisher": "수학주식",
