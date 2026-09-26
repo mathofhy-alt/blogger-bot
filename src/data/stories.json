@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260926230202",
+    "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "평소 교육청 모의고사 안정적 1등급. 수능 수학은 킬러 빼고 다 푸니까 '경찰대 기출도 할 만하지 않나?'라는 오만한 생각으로 책상에 앉았다. 그것이 내 수험생활 최대의 실수였다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "첫 페이지를 넘기자마자 숨이 턱 막혔다. 빽빽한 활자들 사이로 1번 문제부터 기괴한 도형과 해괴망측한 다항식이 나를 반겼다. 이게 진짜 고등학생이 푸는 문제가 맞는지 내 눈을 의심했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "째깍거리는 시계 소리 속에서 30분이 흘렀지만, 손댄 문제는 겨우 3개뿐. 계산 과정은 끝없이 길어지고 식은땀이 볼을 타고 흘렀다. 수능 킬러 문항 5개를 동시에 푸는 듯한 압도적인 뇌정지가 찾아왔다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "멘탈을 겨우 잡고 영어 기출로 도망쳤지만 거기도 지옥이었다. 단어장에서도 본 적 없는 철학 어휘와 꼬일 대로 꼬인 문장들 속에서 완전히 길을 잃었다. 숨 막히는 시간 제한에 심장이 터질 것 같았다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험 시간이 끝나고 채점을 시작하는데, 동그라미는 없고 사선들만 소나기처럼 비바람을 쳤다. 처참하게 찢겨 나간 내 자존심 위로 빨간 채점 펜의 잉크가 번져갔다."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "독서실 천장을 멍하니 바라보며 깨달았다. '경찰대는 일반 수험생이 비빌 곳이 아니구나.' 나는 조용히 기출문제집을 덮고, 내 수준에 맞는 수능 특강을 경건한 마음으로 다시 펼쳤다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-26T23:02:02.579628Z"
+  },
+  {
     "id": "story-20260926150209",
     "title": "대치동 학원 끊고 혼자 기출 풀다가 깨달음 얻은 썰",
     "publisher": "수학주식",
