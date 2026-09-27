@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260927230122",
+    "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "늘 수학 2등급 언저리에서 맴돌며 '실수만 없으면 1등급'이라 자만하던 고3 여름날 밤, 독서실 불빛 아래서 기출 오답 노트를 드디어 펼쳤다. 맨날 틀리는 모의고사 Killer 문항, 이번엔 기필코 정복하겠다는 생각에 샤프를 꽉 쥐었다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그런데 지난 6월 모의고사 오답을 다시 푸는 순간, 온몸에 소름이 돋았다. 3개월 전 시험지 여백에 내 손으로 갈겨썼던 그 틀린 풀이 과정과, 지금 내 손이 적어 내려가는 공식이 소름 끼치도록 완벽하게 일치하고 있었다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "작년 수능 기출까지 허겁지겁 들춰보니 경악 그 자체였다. 나는 1년 내내 계산 실수를 한 게 아니었다. 특정 조건만 보면 뇌가 오작동하듯 똑같은 함정에 스스로 기어 들어가는 '사고의 불치병'에 걸려 있었다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "'왜 매번 이 구간에서 똑같이 잘못 생각했지?' 샤프 끝을 뚫어지게 응시하던 순간, 머릿속에서 번개가 친 듯 기출문제가 출제자의 시선으로 읽히기 시작했다. 개념을 몰랐던 게 아니라 내 고집에 갇혀 눈이 멀었던 거다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "오답노트 양식을 찢어버리고 백지에 내 '뇌의 나쁜 습관'을 뼈아프게 적어 내려갔다. 문제를 푸는 법이 아닌, 나 자신을 이기는 법을 깨달은 순간, 차갑던 독서실 공기가 뜨거운 자신감으로 가득 찼다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-27T23:01:22.958258Z"
+  },
+  {
     "id": "story-20260927150121",
     "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
     "publisher": "수학주식",
