@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260927070152",
+    "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 D-100, 만년 4등급 성적표를 들고 심장이 덜컥 내려앉았다. 이대로는 삼류대도 못 간다는 생각에 밤새 울다가, 책상 위에 쌓인 두꺼운 국어 기출문제집을 째려보며 이를 악물었다. '딱 3번만 완벽하게 돌린다, 이거 아니면 죽는다.'"
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "1회독 시작은 그야말로 지옥이었다. 하루 14시간씩 엉덩이를 붙이고 비문학 지문을 읽는데, 뇌가 멈춘 것처럼 까만 건 글씨요 하얀 건 종이였다. 채점할 때마다 쏟아지는 빨간 비에 멘탈이 바스러졌지만, 오답 해설을 통째로 외우듯 악으로 버텼다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "신기하게도 2회독 중간쯤 가니 눈이 뜨이기 시작했다. 평가원 출제위원들의 고약한 함정 패턴이 보였고, '여기서 문제를 내겠구나' 하는 직감이 소름 끼치게 들어맞았다. 둔탁하게 멈춰있던 시험지 넘기는 소리가 어느새 경쾌한 리듬으로 변했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "드디어 3회독째, 기출 지문들이 머릿속에서 입체적인 마인드맵처럼 펼쳐졌다. 떨리는 마음으로 응시한 10월 사설 모의고사, 거짓말처럼 막힘없이 펜이 굴러갔고 난생처음으로 국어 영역 '1등급'이라는 눈부신 결과를 마주하며 온몸에 전율이 흘렀다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "기출 3회독은 단순한 문제 풀이가 아니라, 출제자와 벌이는 치열한 두뇌 싸움에서 이기는 법을 배우는 과정이었다. 100일이라는 시간은 누군가에게는 포기의 핑계지만, 끝까지 기출을 씹어 먹은 나에게는 인생을 뒤바꾼 기적의 시간이었다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-27T07:01:52.541807Z"
+  },
+  {
     "id": "story-20260927050446",
     "title": "수포자가 수능 수학 2등급 맞고 오열한 썰",
     "publisher": "수학주식",
