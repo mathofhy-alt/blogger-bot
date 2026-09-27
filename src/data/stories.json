@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260927050446",
+    "title": "수포자가 수능 수학 2등급 맞고 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "고3 6월 모평 수학 7등급. 담임조차 '너는 지금 수학 붙잡아봐야 시간 낭비다'라며 대놓고 포기를 권했다. 교실 뒤편에 처박혀 친구들의 비웃음을 견디다 못한 나는, 그날 밤 독서실 책상에 엎드려 평생 흘릴 눈물을 다 흘렸다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "'딱 100일만 사람 새끼가 아니어보자.' 남들이 화려한 실전 모의고사를 풀 때, 나는 중학교 기초 도형 공식부터 다시 펼쳤다. 하루 14시간씩, 코피를 쏟아가며 개념서의 모든 공식이 머릿속에 통째로 복사될 때까지 씹어 삼키듯 공부했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 수능 날, 시험지를 넘기는 바스락 소리가 마치 전장의 총소리처럼 들렸다. 등 뒤로 식은땀이 줄줄 흘렀지만, 펜을 쥐는 순간 머릿속에 내가 수백 번도 넘게 그렸던 그래프들의 궤적이 기적처럼 선명하게 보이기 시작했다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 끝난 당일 저녁, 방 안에서 가채점표를 맞추는 내 손은 사시나무 떨듯 떨렸다. 빨간 색연필로 채점을 해나가는데, 뒷장의 고난도 4점짜리 문제들에 줄줄이 동그라미가 쳐지는 순간 온몸에 소름이 쫙 돋았다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "마침내 확인한 성적표, '수학 영역 2등급'. '수포자'라 손가락질 받던 내가 기적을 일궈낸 순간이었다. 성적표를 가슴에 움켜쥔 채 방바닥에 주저앉아, 그동안 쌓였던 서러움과 불안감이 한 번에 터져 나와 목놓아 오열했다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-27T05:04:46.984308Z"
+  },
+  {
     "id": "story-20260926230202",
     "title": "경찰대 기출문제 처음 풀고 멘붕온 고3 썰",
     "publisher": "수학주식",
