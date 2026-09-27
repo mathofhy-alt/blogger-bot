@@ -1,5 +1,41 @@
 [
   {
+    "id": "story-20260927150121",
+    "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "중학교 때 수학은 공부 안 해도 늘 90점대였고, 솔직히 내가 수학 천재인 줄 알았다. '고등 수학도 별거 있겠어?' 하며 세상 오만하게 고1 첫 3월 모의고사 고사장 문을 열고 들어섰다."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "국어가 끝나고 드디어 시작된 수학 시간. 2점, 3점짜리 앞쪽 계산 문제들은 휙휙 풀려 피식 웃음이 났는데, 뒤 페이지로 한 장 넘기자마자 생전 처음 보는 거대한 기호들이 나를 압도했다."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "사방에서 드르륵 서걱서걱 시험지 넘기는 소리가 들리는데, 나만 목구멍이 턱 막히는 기분이었다. 4점짜리 킬러 문항 앞에서 머릿속이 새하얘졌고, 흘러내린 식은땀 한 방울이 OMR 카드 위로 툭 떨어졌다."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "시험이 끝나고 채점 시간, 빨간색 채점 펜을 들었는데 비가 내리다 못해 시험지에 폭우가 쏟아졌다. 내 눈을 의심하게 만든 선명한 '40점', 태어나서 처음 받아보는 5등급이라는 숫자가 가슴에 날카롭게 박혔다."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "교실 앞자리에서 96점 맞았다고 신나게 떠드는 애들을 보며 얼굴이 화끈거려 쥐구멍에라도 숨고 싶었다. 하지만 이 비참함을 잊지 않으려 시험지를 방 벽에 붙였고, 내일부터 코피 터지게 '진짜 공부'를 시작하겠다고 독하게 결심했다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-27T15:01:21.618540Z"
+  },
+  {
     "id": "story-20260927070152",
     "title": "수능 100일 남기고 기출문제집 3회독 한 후기",
     "publisher": "수학주식",
