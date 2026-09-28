@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260928230133",
+    "title": "수학 5등급에서 기출문제만 파서 1등급 찍은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "3월 학평 수학 5등급 성적표를 받고 머리가 하얘졌어. 대치동 유명 현강에 비싼 교재까지 쏟아부었는데, 내 시험지는 온통 빨간 비만 내리더라. 이대로는 삼수 각이라는 공포에 등 뒤로 식은땀이 축축하게 흘렀지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "에라 모르겠다 하고 책장에 꽂힌 두꺼운 사설 N제들을 전부 쓰레기통에 처박았어. 그리고 오직 '평가원 기출문제집' 딱 한 권만 책상에 올려두었지. 주변에선 기출만 파선 절대 요즘 수능 못 이긴다고 비웃더라고."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "처음엔 쉬운 3점짜리도 턱턱 막혀서 거대한 벽을 마주한 기분이었어. 무작정 해설지를 외우는 게 아니라, 출제자가 왜 이 조건을 숨겨뒀는지 치열하게 고민했지. 하루 10시간 동안 겨우 세 문제 분석하고 나면 진이 다 빠졌어."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "그렇게 기출을 5회독쯤 돌렸을 때, 신기하게도 안 보이던 '길'이 보이기 시작했어. 수능 수학은 창작 예술이 아니라 철저한 규칙 설계더군. 과거 기출의 논리가 올해 모의고사에도 고스란히 반복되는 게 소름 돋게 보였지."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "운명의 수능 날, 사방에서 서걱거리며 시험지 넘기는 소리가 들렸지만 더는 쫄지 않았어. 악명 높은 22번과 30번 킬러 문제를 마주한 순간, 기출에서 수없이 연습했던 해결 공식들이 톱니바퀴처럼 딱딱 맞물려 돌아가더라고."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "채점하는 내내 손이 덜덜 떨렸지만 결과는 당당한 '원점수 96점, 1등급'. 수만휘에 내 기출 분석법을 올리자마자 조회수가 폭발하며 난리가 났지. 얘들아, 의심하지 마. 수능 수학의 시작과 끝은 무조건 기출이다."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-28T23:01:33.868417Z"
+  },
+  {
     "id": "story-20260928150140",
     "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
     "publisher": "수학주식",
