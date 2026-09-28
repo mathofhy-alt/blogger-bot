@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260928050708",
+    "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "내신 수학은 줄곧 전교 1등을 놓치지 않았고, 모의고사도 대충 풀면 1~2등급은 나오니까 세상이 다 내 것 같았음. '수능 수학? 어차피 개념은 똑같고 내신보다 범위도 좁은데 왜 쫄아?'라며 솔직히 수능을 엄청 우습게 봤었지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "대망의 수능 날, 2교시 수학 시험지를 넘기는데 사각거리는 소리가 유독 서늘하게 들렸음. 그런데 킬러 문항도 아닌 준킬러 11번부터 계산이 턱 막히기 시작하더니, 등 뒤로 식은땀이 쫙 흐르면서 뇌정지가 세게 오더라."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "'일단 넘어가고 다음 것부터 풀자' 했는데, 12번과 13번도 낯선 도형과 꼬여있는 조건들뿐이었음. 머릿속이 하얗게 지워진 채 시계를 보니 남은 시간은 단 20분, OMR 카드에 마킹할 번호조차 안 보이는 절망감이 온몸을 덮쳤음."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "채점하는 내내 손이 부들부들 떨렸고, 빨간 소나기가 내리더니 결국 '3등급'이라는 잔인한 숫자가 성적표에 찍혔음. 평생 내신 1등급만 받아오던 내가 가장 중요한 실전에서 나락으로 떨어졌다는 사실에 방바닥을 치며 오열했음."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "정신을 차리고 오답을 분석해 보니, 나는 그동안 유형 암기식 내신 공부에만 뇌가 절여져 있었던 거임. 수능이 요구하는 '낯선 상황에 대처하는 진짜 사고력'이 아니라, 그냥 기계처럼 문제 양으로만 밀어붙인 가짜 공부였던 거지."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "혹시 지금 내신 등급만 믿고 수능 수학을 만만하게 보는 동생들이 있다면 제발 뼈저린 경각심을 가졌으면 좋겠음. 수능은 절대 단순 암기로 비벼지는 시험이 아니니까, 지금부터라도 스스로 생각하고 낯선 문제를 뚫어내는 훈련을 시작해야 해."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-28T05:07:08.108980Z"
+  },
+  {
     "id": "story-20260927230122",
     "title": "기출문제 오답노트 쓰다가 깨달음 얻은 고3 썰",
     "publisher": "수학주식",
