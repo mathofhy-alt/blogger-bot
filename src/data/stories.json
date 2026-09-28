@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260928150140",
+    "title": "내신 1등급인데 수능 수학 3등급 나와서 오열한 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "내신 수학은 언제나 전교 1등이었고, 시험 범위 유형만 달달 외우면 100점은 기본이었어. 솔직히 수능 수학도 기출문제만 적당히 풀면 가볍게 1등급 찍을 줄 알았지."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "수능 당일, 자신만만하게 2교시 수학 시험지를 받아 들고 익숙한 샤프를 쥐었어. '오늘 아주 가루로 만들어 주마' 생각하며 거침없이 첫 페이지를 넘겼지."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "근데 웬걸, 준킬러 번호대부터 계산이 무섭게 꼬이기 시작하더니 머릿속이 하얗게 굳어버리더라. 주변에서 사각사각 시험지 넘기는 소리가 들리는데 나만 숨이 턱 막혔어."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "내신 시험에서 쓰던 단순 암기식 풀이는 전혀 먹히지 않았고, 미친 듯이 흘러가는 시간 앞에서 결국 찍기 바빴어. 종이 울리는 순간 온몸의 피가 식는 기분이었지."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "집에 와서 채점을 하는데 시험지에 온통 빨간 비가 내렸어. 평생 받아본 적 없는 처참한 '3등급'을 마주한 순간, 가슴이 무너지며 그 자리에 주저앉아 밤새 오열했어."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "우물 안 개구리 같던 내신 성적에 취해, 진짜 수능이 요구하는 '사고력'을 기르지 않았던 내 오만이 부른 참사였어. 얘들아, 내신 등급 믿고 수능 수학 절대 방심하지 마라."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-28T15:01:40.240115Z"
+  },
+  {
     "id": "story-20260928070136",
     "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
     "publisher": "수학주식",
