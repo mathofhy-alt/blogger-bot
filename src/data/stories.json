@@ -1,5 +1,46 @@
 [
   {
+    "id": "story-20260929070150",
+    "title": "수학 포기하려다가 사관학교 기출 풀고 자신감 얻은 썰",
+    "publisher": "수학주식",
+    "posterImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+    "pages": [
+      {
+        "id": "page1",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "모평 수학 5등급. 아무리 개념서를 붙잡고 있어도 킬러 문항은커녕 4점짜리 초입부터 머리가 하얘지더라. '난 수학은 안 되나 봐' 자책하며 책을 덮어버리려던 그날 밤이었어."
+      },
+      {
+        "id": "page2",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "책상 구석에서 먼지 쌓인 사관학교 기출 문제집을 우연히 발견했어. 수능보다 훨씬 어렵고 악랄하기로 유명하다길래, '이거 풀고 깔끔하게 수학 포기하자'는 자학적인 심정으로 펜을 잡았지."
+      },
+      {
+        "id": "page3",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "잔뜩 쫄아서 첫 장을 넘겼는데, 어라? 생각보다 계산이 지저분하지 않고 담백하더라고. 공식을 꼬아놓은 게 아니라 본질적인 개념을 건드리는 느낌이라 손끝이 찌릿했어."
+      },
+      {
+        "id": "page4",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "악명 높은 4점짜리 최고난도 문항에 진입했을 때, 평소 같으면 별표 치고 도망갔을 텐데 이상하게 길이 보였어. 평가원과는 결이 다른, 정직하고 웅장한 논리의 흐름이 눈에 들어온 거야."
+      },
+      {
+        "id": "page5",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "이면지 세 장을 빽빽하게 채워가며 마침내 스스로 답을 도출해 냈어. 정답지를 맞추고 빨간 펜으로 커다란 동그라미를 치는데, 심장이 미친 듯이 뛰며 전율이 돋더라."
+      },
+      {
+        "id": "page6",
+        "bgImage": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=720&h=1280",
+        "heading": "'사관학교 4점짜리도 내 힘으로 풀리는데, 수능이라고 못 할까?'라는 근거 있는 자신감이 차올랐어. 포기하려던 수학이 내 가장 강력한 무기가 된 순간이었지."
+      }
+    ],
+    "outlinkText": "수능 수학 기출 무료 다운로드",
+    "outlinkUrl": "https://math.stac100.com",
+    "createdAt": "2026-09-29T07:01:50.587507Z"
+  },
+  {
     "id": "story-20260929053054",
     "title": "고1 첫 모의고사 수학 40점 맞고 충격받은 썰",
     "publisher": "수학주식",
